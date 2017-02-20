@@ -120,6 +120,7 @@ To maintain the vertical rhythm, it has been applied a **Typographic scale** as 
 
 ### TheReviewIndex
 
+- Dyuti Barma
 - Web site: [Review Aggregation and Summary Site for India - TheReviewIndex](https://thereviewindex.com)
 
 ## License
