@@ -8,8 +8,13 @@ Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging.
 - Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)
 - SEO title/description integration
 - Sitemap ready
+- Pagination support
+- Mobile friendly navigation menu
 - Easy customization for header, footer, navigation links, colors, favicon etc
 - Default Monochrome Color Palette - black, white, greys
+- About page
+- 404 page
+- ..and a lot more
 
 ## Install/Setup Jekyll
 
