@@ -58,8 +58,8 @@ a {
 
 /* Common classes */
 
-.right { float: right; }
-.left { float: left; }
+.f-right { float: right; }
+.f-left { float: left; }
 .clear { clear:both; }
 
 // to align div vertically and horizontally in center of another div
@@ -79,4 +79,5 @@ a {
 .relative { position: relative; }
 .top { top: 0 }
 .bottom { bottom: 0 }
-
+.right { right: 0 }
+.left { left: 0 }
