@@ -115,6 +115,10 @@ To maintain the vertical rhythm, it has been applied a **Typographic scale** as 
 - We found the jekyll tutorials on youtube very quick and useful to get started
 - [Jekyll documentation](http://jekyllrb.com)   
 
+## Todo
+
+- Google Analytics integration
+- Footer to stick to bottom even when content is less
 
 ## Author
 
