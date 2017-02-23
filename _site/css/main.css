@@ -37,10 +37,10 @@ a {
     color: #262626; }
 
 /* Common classes */
-.right {
+.f-right {
   float: right; }
 
-.left {
+.f-left {
   float: left; }
 
 .clear {
@@ -79,6 +79,12 @@ a {
 
 .bottom {
   bottom: 0; }
+
+.right {
+  right: 0; }
+
+.left {
+  left: 0; }
 
 /*- Typography -*/
 body {

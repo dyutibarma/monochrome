@@ -4,7 +4,7 @@
  <title>Monochrome | A minimal, responsive Jekyll blog theme</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-02-20T09:37:33+05:30</updated>
+ <updated>2017-02-23T20:29:47+05:30</updated>
  <author>
    <name>The Review Index</name>
    <uri>https://thereviewindex.com</uri>
@@ -14,7 +14,7 @@
  
 
  <entry>
-   <title>TheReviewIndex | Unbiased User Review Summaries</title>
+   <title>TheReviewIndex | Unbiased User Review Summaries | Monochrome</title>
    <link href="http://localhost:4000/thereviewindex-introduction"/>
    <id>http://localhost:4000/thereviewindex-introduction</id>
    <updated>2017-02-18T00:00:00+05:30</updated>
@@ -24,7 +24,7 @@
  
 
  <entry>
-   <title>Typography Example</title>
+   <title>Typography Example | Monochrome</title>
    <link href="http://localhost:4000/typography-example"/>
    <id>http://localhost:4000/typography-example</id>
    <updated>2017-02-14T00:00:00+05:30</updated>
@@ -34,7 +34,7 @@
  
 
  <entry>
-   <title>Code Syntax Example</title>
+   <title>Code Example</title>
    <link href="http://localhost:4000/code-example"/>
    <id>http://localhost:4000/code-example</id>
    <updated>2017-02-12T00:00:00+05:30</updated>
@@ -44,7 +44,7 @@
  
 
  <entry>
-   <title>Test Post 8</title>
+   <title>This is the eigth test post.</title>
    <link href="http://localhost:4000/test-post-8"/>
    <id>http://localhost:4000/test-post-8</id>
    <updated>2017-02-11T00:00:00+05:30</updated>
@@ -54,7 +54,7 @@
  
 
  <entry>
-   <title>Test Post 7</title>
+   <title>This is the seventh test post.</title>
    <link href="http://localhost:4000/test-post-7"/>
    <id>http://localhost:4000/test-post-7</id>
    <updated>2017-02-11T00:00:00+05:30</updated>
@@ -64,7 +64,7 @@
  
 
  <entry>
-   <title>Test Post 6</title>
+   <title>This is the sixth test post.</title>
    <link href="http://localhost:4000/test-post-6"/>
    <id>http://localhost:4000/test-post-6</id>
    <updated>2017-02-11T00:00:00+05:30</updated>
@@ -74,7 +74,7 @@
  
 
  <entry>
-   <title>Test Post 5</title>
+   <title>This is the fifth test post</title>
    <link href="http://localhost:4000/test-post-5"/>
    <id>http://localhost:4000/test-post-5</id>
    <updated>2017-02-11T00:00:00+05:30</updated>
@@ -84,7 +84,7 @@
  
 
  <entry>
-   <title>Test Post 4</title>
+   <title>This is the forth test post.</title>
    <link href="http://localhost:4000/test-post-4"/>
    <id>http://localhost:4000/test-post-4</id>
    <updated>2017-02-11T00:00:00+05:30</updated>
@@ -94,7 +94,7 @@
  
 
  <entry>
-   <title>Test Post 3</title>
+   <title>This is the third test post.</title>
    <link href="http://localhost:4000/test-post-3"/>
    <id>http://localhost:4000/test-post-3</id>
    <updated>2017-02-11T00:00:00+05:30</updated>
@@ -104,7 +104,7 @@
  
 
  <entry>
-   <title>Test Post 2</title>
+   <title>This is second test post.</title>
    <link href="http://localhost:4000/test-post-2"/>
    <id>http://localhost:4000/test-post-2</id>
    <updated>2017-02-11T00:00:00+05:30</updated>
