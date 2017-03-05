@@ -1,10 +1,10 @@
 # Site settings
 title: Monochrome | A minimal, responsive Jekyll blog theme
 description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "http://www.thereviewindex.github.io/monochrome"
+url: "http://www.dyutibarma.github.io/monochrome"
 author:
   name: "The Review Index"
-  email: "root@thereviewindex.com"
+  email: "dyutibarma@gmail.com"
   url: "https://thereviewindex.com"
 
 # Build settings
