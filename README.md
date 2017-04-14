@@ -39,7 +39,6 @@ sudo apt-get install ruby2.2-dev
 ```
 sudo gem install jekyll-paginate
 sudo gem install jekyll-sitemap
-
 ```
 
 ## Get Started with Monochrome
