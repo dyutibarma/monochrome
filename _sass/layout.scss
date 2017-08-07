@@ -182,13 +182,13 @@
 .by-line {
   display: block;
   color: lighten($text-color, 25%);
-  line-height: 1.5em; /* 24px/16px */
+  line-height: 1.8em; 
   margin-bottom: 1.5em; /* 24px/16px */
   font-weight: 200;
   @media (min-width: 940px) {
     display: block;
     color: lighten($text-color, 25%);
-    line-height: 1.3334em; /* 24px/18px */
+    line-height: 1.8em;
     margin-bottom: 1.3334em; /* 24px/18px */
     font-weight: 200;
   }
@@ -217,10 +217,10 @@ code {
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
 
 .content ul, .content ol {
-  line-height: 1.5em; /* 24px/16px */
+  line-height: 1.8em;
   padding-left: 1.5em;
   @media (min-width: 940px) {
-    line-height: 1.33334em; /* 24px/18px */
+    line-height: 1.8em; 
   }
 }
 
