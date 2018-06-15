@@ -1,5 +1,5 @@
 ## About
-Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging. 
+Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging. [Demo](https://dyutibarma.github.io/monochrome/)
 (Built on top of Emerald Jekyll theme)
 
 ## Features
@@ -125,7 +125,7 @@ To maintain the vertical rhythm, it has been applied a **Typographic scale** as 
 ### TheReviewIndex
 
 - Dyuti Barma
-- Web site: [Review Aggregation and Summary Site for India - TheReviewIndex](https://thereviewindex.com)
+- Web site: [Review Aggregation and Summary Site for India - TheReviewIndex.com](https://thereviewindex.com)
 
 ## License
 Released under [MIT License](license.md).
