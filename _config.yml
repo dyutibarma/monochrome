@@ -9,7 +9,7 @@ author:
 
 
 # Build settings
-baseurl: "/blog" # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: "https://kamshi5948.github.io/blog" # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
