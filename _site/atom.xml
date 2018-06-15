@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Monochrome | A minimal, responsive Jekyll blog theme</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <id>http://localhost:4000</id>
- <updated>2017-02-23T20:29:47+05:30</updated>
+ <title>Kamshi</title>
+ <link href="https://kamshi5948.github.io/blog/atom.xml" rel="self"/>
+ <id>https://kamshi5948.github.io/blog</id>
+ <updated>2018-06-15T16:26:37+09:00</updated>
  <author>
    <name>The Review Index</name>
    <uri>https://thereviewindex.com</uri>
-   <email>root@thereviewindex.com</email>
+   <email>dyutibarma@gmail.com</email>
  </author>
 
  
 
  <entry>
    <title>TheReviewIndex | Unbiased User Review Summaries | Monochrome</title>
-   <link href="http://localhost:4000/thereviewindex-introduction"/>
-   <id>http://localhost:4000/thereviewindex-introduction</id>
-   <updated>2017-02-18T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/thereviewindex-introduction"/>
+   <id>https://kamshi5948.github.io/blog/thereviewindex-introduction</id>
+   <updated>2017-02-18T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;The internet is a source of a humongous amount of unstructured content for all sorts of products, in the form of blogs, videos, user and expert reviews, etc. It is almost impossible for anyone to scour all of this disparate data, with contradictory opinions, and thereafter make a correct, or...</content>
  </entry>
 
@@ -25,9 +25,9 @@
 
  <entry>
    <title>Typography Example | Monochrome</title>
-   <link href="http://localhost:4000/typography-example"/>
-   <id>http://localhost:4000/typography-example</id>
-   <updated>2017-02-14T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/typography-example"/>
+   <id>https://kamshi5948.github.io/blog/typography-example</id>
+   <updated>2017-02-14T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/monochrome/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
  </entry>
 
@@ -35,9 +35,9 @@
 
  <entry>
    <title>Code Example</title>
-   <link href="http://localhost:4000/code-example"/>
-   <id>http://localhost:4000/code-example</id>
-   <updated>2017-02-12T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/code-example"/>
+   <id>https://kamshi5948.github.io/blog/code-example</id>
+   <updated>2017-02-12T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
  </entry>
 
@@ -45,9 +45,9 @@
 
  <entry>
    <title>This is the eigth test post.</title>
-   <link href="http://localhost:4000/test-post-8"/>
-   <id>http://localhost:4000/test-post-8</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/test-post-8"/>
+   <id>https://kamshi5948.github.io/blog/test-post-8</id>
+   <updated>2017-02-11T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
 
@@ -55,9 +55,9 @@
 
  <entry>
    <title>This is the seventh test post.</title>
-   <link href="http://localhost:4000/test-post-7"/>
-   <id>http://localhost:4000/test-post-7</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/test-post-7"/>
+   <id>https://kamshi5948.github.io/blog/test-post-7</id>
+   <updated>2017-02-11T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
 
@@ -65,9 +65,9 @@
 
  <entry>
    <title>This is the sixth test post.</title>
-   <link href="http://localhost:4000/test-post-6"/>
-   <id>http://localhost:4000/test-post-6</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/test-post-6"/>
+   <id>https://kamshi5948.github.io/blog/test-post-6</id>
+   <updated>2017-02-11T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
 
@@ -75,9 +75,9 @@
 
  <entry>
    <title>This is the fifth test post</title>
-   <link href="http://localhost:4000/test-post-5"/>
-   <id>http://localhost:4000/test-post-5</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/test-post-5"/>
+   <id>https://kamshi5948.github.io/blog/test-post-5</id>
+   <updated>2017-02-11T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
 
@@ -85,9 +85,9 @@
 
  <entry>
    <title>This is the forth test post.</title>
-   <link href="http://localhost:4000/test-post-4"/>
-   <id>http://localhost:4000/test-post-4</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/test-post-4"/>
+   <id>https://kamshi5948.github.io/blog/test-post-4</id>
+   <updated>2017-02-11T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
 
@@ -95,9 +95,9 @@
 
  <entry>
    <title>This is the third test post.</title>
-   <link href="http://localhost:4000/test-post-3"/>
-   <id>http://localhost:4000/test-post-3</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/test-post-3"/>
+   <id>https://kamshi5948.github.io/blog/test-post-3</id>
+   <updated>2017-02-11T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
 
@@ -105,9 +105,9 @@
 
  <entry>
    <title>This is second test post.</title>
-   <link href="http://localhost:4000/test-post-2"/>
-   <id>http://localhost:4000/test-post-2</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
+   <link href="https://kamshi5948.github.io/blog/test-post-2"/>
+   <id>https://kamshi5948.github.io/blog/test-post-2</id>
+   <updated>2017-02-11T00:00:00+09:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
 

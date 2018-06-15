@@ -17,7 +17,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
 html {
   background-color: #FFFFFF;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.8;
   color: #333333; }
   @media (min-width: 940px) {
     html {
@@ -98,32 +98,28 @@ body {
 p, ul, ol {
   font-size: 1em;
   /* 16px */
-  line-height: 1.5em;
-  /* 24px/16px */
+  line-height: 1.8em;
   margin-bottom: 1.5em;
   /* 24px/16px */ }
 
 h1 {
   font-size: 2.25em;
   /* 36px/16px */
-  line-height: 1.3333em;
-  /* 48px/36px */
+  line-height: 1.8em;
   padding: 0.33335em 0;
   /* 12px/36px * 2 (Use padding instead of margin to maintain proximity with paragraph) */ }
 
 h2 {
   font-size: 1.5em;
   /* 24px/16px */
-  line-height: 1em;
-  /* 24px/24px */
+  line-height: 1.8em;
   padding: 1em 0 0 0;
   /* 12px/24px * 2, only top (Use padding instead of margin to maintain proximity with paragwithph) */ }
 
 h3, h4, h5, h6 {
   font-size: 1.125em;
   /* 18px/16px */
-  line-height: 1.3334em;
-  /* 24px/18px */
+  line-height: 1.8em;
   padding: 0.66667em 0;
   /* 12px/18px * 2 (Use padding instead of margin to maintain proximity with paragraph) */ }
 
@@ -147,32 +143,28 @@ blockquote {
   p, ul, ol {
     font-size: 1em;
     /* 18px */
-    line-height: 1.3334em;
-    /* 24px/18px */
+    line-height: 1.8em;
     margin-bottom: 1.3334em;
     /* 24px/18px */ }
 
   h1 {
     font-size: 2.6667em;
     /* 48px/18px */
-    line-height: 1em;
-    /* 48px/48px */
+    line-height: 1.8em;
     padding: 0.25em 0;
     /* 12px/48px * 2 (Use padding instead of margin to maintain proximity with paragraph) */ }
 
   h2 {
     font-size: 2em;
     /* 36px/18px */
-    line-height: 1.3334em;
-    /* 48px/36px */
+    line-height: 1.8em;
     padding: 0.66667em 0 0 0;
     /* 12px/36px * 2, pnly top (Use padding instead of margin to maintain proximity with paragraph) */ }
 
   h3, h4, h5, h6 {
     font-size: 1.3334em;
     /* 24px/18px */
-    line-height: 1em;
-    /* 24px/24px */
+    line-height: 1.8em;
     padding: 0.5em 0;
     /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */ }
 
@@ -385,8 +377,7 @@ blockquote {
 .by-line {
   display: block;
   color: #737373;
-  line-height: 1.5em;
-  /* 24px/16px */
+  line-height: 1.8em;
   margin-bottom: 1.5em;
   /* 24px/16px */
   font-weight: 200; }
@@ -394,8 +385,7 @@ blockquote {
     .by-line {
       display: block;
       color: #737373;
-      line-height: 1.3334em;
-      /* 24px/18px */
+      line-height: 1.8em;
       margin-bottom: 1.3334em;
       /* 24px/18px */
       font-weight: 200; } }
@@ -419,13 +409,11 @@ code {
 
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
 .content ul, .content ol {
-  line-height: 1.5em;
-  /* 24px/16px */
+  line-height: 1.8em;
   padding-left: 1.5em; }
   @media (min-width: 940px) {
     .content ul, .content ol {
-      line-height: 1.33334em;
-      /* 24px/18px */ } }
+      line-height: 1.8em; } }
 
 /* Pages */
 #page ul, #page ol {
