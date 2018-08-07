@@ -22,7 +22,7 @@ Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging. [De
 
 1. Make sure Ruby 2.2 is installed 
 ```
-sudo apt-get install ruby2.2
+sudo apt-get install ruby2.2 (sudo apt-get install ruby-full)
 sudo apt-get install ruby2.2-dev
 ```
 2. Install bundle: `sudo gem install bundler`
@@ -47,8 +47,8 @@ sudo gem install jekyll-sitemap
 ### Option 1 
 
 - Fork this repository
+- Clone the forked repository to your local machine to make changes: git clone https://github.com/your-github-username/monochrome.git)
 - (Optional) Change the 'baseurl' value in the 'config.yml' file, from '/blog' to your preferred directory/project name (example '/xyz' or '/' to install in root)
-- Clone the forked repository to your local machine to make changes
 - Run 'jekyll serve' and open browser to 'localhost:4000/blog/' to see your changes
 - (Optional) Host with github pages
 
