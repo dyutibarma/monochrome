@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 title: test page
 description: hello - learning the markup syntax.
 ---
