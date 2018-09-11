@@ -4,18 +4,11 @@ description: This is an introduction to thereviewindex.com.
 header: UnderConstruction | Excuse the mess, I'm learning2
 ---
 
-The internet is a source of a humongous amount of unstructured content for all sorts of products, in the form of blogs, videos, user and expert reviews, etc. It is almost impossible for anyone to scour all of this disparate data, with contradictory opinions, and thereafter make a correct, or at least optimal, purchase decision.
+This year has been a really good one. I set some very strong intentions at the onset of 2018 and have been driving hard into their completion. Or at-the-least, to see what I can make of them. Because we cannot always define success as attaining the exact goal one has defined, but sometimes have to be understanding that failure is a possible outcome from which we will learn and grow just as well. And from that failure, maybe take a second go at it -- with reflection comes wisdom and an alternate approach. 
 
-Generally, the main problem any average consumer faces while trying to research products online is that there are too many sites with far too much information, and there is typically a disparity in the various opinions expressed. Also, it is not easy to differentiate between what is genuine, and what isn’t.
+My hope here, is to learn more intimitaley the workings of gitHub to further empower my understanding and conversations with my engineering teams. And in doing so, I am structuring a space for my thoughts and my portfolio of work, which may or many not take on a mashed up form. That is yet to be defined. 
 
-To help resolve these issues, [The Review Index](https://thereviewindex.com) has launched its discovery and research engine, which simplifies the process of researching products online. It scours various sources on the internet, and mines opinions and reviews for the products. This information is then presented as a unified, unbiased, feature-wise summary scorecard of the aggregate opinion to the end user.
+So, please bare with me as I dable and explore this world. 
 
-Leveraging cutting-edge Machine Learning Algorithms and Artificial Neural Networks, The Review Index compiles reviews from popular sources which are relevant, and focuses on detection of fine-grained topics and sentiment implied therein. It focuses on evaluating the pros and cons as indicated by the reviewers, while ensuring that fraudulent content is identified and removed.
-
-The public beta was launched in January 2017 with six product categories, which include [Mobiles](https://thereviewindex.com/mobiles), [Speakers](https://thereviewindex.com/speakers), [Televisions](https://thereviewindex.com/televisions), [Routers](https://thereviewindex.com/routers), [Microwaves](https://thereviewindex.com/microwaves) and [Washing Machines](https://thereviewindex.com/washingmachines) and caters to Indian consumers. Reviews from popular online stores are compiled and reconciled using Neural Network based algorithms, and feature-wise summaries of the aggregated opinion is created.
-
-Thus, this search engine enables users to discover the optimal products, which satisfy their various requirements. The users are also provided with access to feature-wise ratings, summary, list of pros and cons, as well as user comment snippets. Eventually, the engine compares the prices for the displayed products across all the online stores, to conclude which one has the most cost-effective offering.
-
-The plan is to expand to more categories such as electronics, home appliances, etc. in the near future, while at the same time expanding the sources of opinions.
-
-
+Thank you for your time. 
+Nicolas Coia
