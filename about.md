@@ -14,7 +14,6 @@ If you haven't, check out our sites and let me know where you find friction:
 | [Urban Outfitters](www.urbanoutfitters.com) |
 | [Anthropologie](www.anthropologie.com) |
 | [Free People](www.freepeople.com) |
-{: rules="groups"}
 
 ## Features
 
