@@ -1,7 +1,7 @@
 ---
-title: TheReviewIndex | Unbiased User Review Summaries | Monochrome
+title: UnderConstruction | Excuse the mess, I'm learning   | Monochrome
 description: This is an introduction to thereviewindex.com.
-header: TheReviewIndex | Unbiased User Review Summaries
+header: UnderConstruction | Excuse the mess, I'm learning2
 ---
 
 The internet is a source of a humongous amount of unstructured content for all sorts of products, in the form of blogs, videos, user and expert reviews, etc. It is almost impossible for anyone to scour all of this disparate data, with contradictory opinions, and thereafter make a correct, or at least optimal, purchase decision.
