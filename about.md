@@ -1,10 +1,15 @@
 ---
 layout: page
-title: About Monochrome
-description: This page describes monochrome.
+title: About
+description: This page is about me.
 ---
 ## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
+Howdy, and welcome. I've been defining digital strategies and experiences for the suite of URBN e-commerce sites for over 5 years, and I love the work I get to do and the people with whom I am able to spend my days.
+
+If you haven't, check out our sites and let me know where you find friction:
+* www.urbanoutfitters.com
+* www.anthropologie.com
+* www.freepeople.com
 
 ## Features
 
