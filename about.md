@@ -7,9 +7,9 @@ description: This page is about me.
 Howdy, and welcome. I've been defining digital strategies and experiences for the suite of URBN e-commerce sites for over 5 years, and I love the work I get to do and the people with whom I am able to spend my days.
 
 If you haven't, check out our sites and let me know where you find friction:
-* www.urbanoutfitters.com
-* www.anthropologie.com
-* www.freepeople.com
+* [Urban Outfitters](www.urbanoutfitters.com)
+* [Anthropologie](www.anthropologie.com)
+* [Free People](www.freepeople.com)
 
 ## Features
 
