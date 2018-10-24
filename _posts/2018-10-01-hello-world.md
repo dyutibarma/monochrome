@@ -1,7 +1,7 @@
 ---
 title: underConstruction | Excuse the mess, I'm learning
 description: This is an introduction to thereviewindex.com.
-header: UnderConstruction | Excuse the mess, I'm learning2
+header: UnderConstruction | Excuse the mess, I'm learning
 ---
 
 This year has been a really good one. I set some very strong intentions at the onset of 2018 and have been driving hard into their completion. Or at-the-least, to see what I can make of them. Because we cannot always define success as attaining the exact goal one has defined, but sometimes have to be understanding that failure is a possible outcome from which we will learn and grow just as well. And from that failure, maybe take a second go at it -- with reflection comes wisdom and an alternate approach. 
