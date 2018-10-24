@@ -72,10 +72,9 @@ Internal invitations were sent at Urban Outfitters headquarters to cull image ex
 |![Select Best Image](coianac.github.io/img/UOLabs Wire-01.png)|![Select Gender](coianac.github.io/img/UOLabs Wire-05.png)|![View Live Results](coianac.github.io/img/UOLabs Wire-03.png)|
       
 ## Results
-Feel free to download the analysis of our collected data if you're interested in the details. Essentially, the results came out inconclusive. Meaning
+Feel free to download the analysis of our collected data if you're interested in the details. <a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>. In short > the results came out inconclusive. 
 > Participants could not discern a visual disparity between the 3 images presents
 
-Which we concluded as a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset. 
-<a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>
+We concluded this a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset. 
       
 ## Delivery Strategy      
