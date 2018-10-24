@@ -14,13 +14,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 > **Benefit** This should result in an approximate 30% decrease in image size and improved pagespeed. 
 
-* * *
-
 ---
-
-  _  _  _  _
-
----------------
 
 ### Team Structure
 <table>
@@ -68,21 +62,29 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 + 2x
   - Image size - 2x base
   - JPG quality - 25%
-  
-**Test Participants**  
+
+---
+
+### Test Participants
 Internal invitations were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
 > 37 participants attended the study
 
 |![UO Labs Invitation](coianac.github.io/img/invitation.jpg){:height="500px" width="375px"}|
 
-**Wire frames to structure the study**
+---
+
+### Wire frames to structure the study
 
 |![Select Best Image](coianac.github.io/img/UOLabs Wire-01.png)|![Select Gender](coianac.github.io/img/UOLabs Wire-05.png)|![View Live Results](coianac.github.io/img/UOLabs Wire-03.png)|
-      
+   
+---   
+   
 ## Results
 Feel free to download the analysis of our collected data if you're interested in the details. <a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>. In short > the results came out inconclusive. 
 > Participants could not discern a visual disparity between the 3 images presents
 
 We concluded this a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset. 
-      
+     
+---
+
 ## Delivery Strategy      
