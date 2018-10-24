@@ -14,6 +14,14 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 > **Benefit** This should result in an approximate 30% decrease in image size and improved pagespeed. 
 
+* * *
+
+---
+
+  _  _  _  _
+
+---------------
+
 ### Team Structure
 <table>
   <tr>
