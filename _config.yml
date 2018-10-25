@@ -1,9 +1,9 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
+title: Nicolas Coia | Business, Art, & Design
+description: "Let us unravel complexities and strategize a technical future."
 url: "http://www.coianac.github.io/"
 author:
-  name: "The Review Index"
+  name: "Nicolas Coia"
   email: "coia.nac@gmail.com"
   url: "https://coianac.github.io"
 
