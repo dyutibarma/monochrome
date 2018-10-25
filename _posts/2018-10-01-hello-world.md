@@ -12,3 +12,10 @@ So, please bare with me as I dable and explore this world.
 
 Thank you for your time. 
 Nicolas Coia
+
+# H1 Example
+## h2 Example
+### h3 Example
+#### h4 Example
+##### h5 Example
+###### h6 Example
