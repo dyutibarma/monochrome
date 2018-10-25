@@ -53,15 +53,18 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 |![Apt Lounge](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$)|![Karina](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$)|![Swim Glasses](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$)|
 
 **Image Presets**
-+ Base
-  - Image size = 2x3 ratio
-  - JPG quality - 87%
-+ 1.5x
-  - Image size - 1.5x base
-  - JPG quality - 40%
-+ 2x
-  - Image size - 2x base
-  - JPG quality - 25%
+ <table>
+  <tr>
+    <th>Base</th>
+    <th>1.5x</th>
+    <th>2x</th>
+  </tr>
+  <tr>
+    <td>•  Image size - 2x3 ratio <br>•  JPG quality - 87%</td>
+    <td>•  Image size - 1.5x base <br>•  JPG quality - 40%</td>
+    <td>•  Image size - 2x base <br>•  JPG quality - 25%</td>
+  </tr>
+</table>
 
 ---
 
