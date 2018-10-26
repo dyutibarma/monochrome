@@ -162,7 +162,34 @@ Internal invitations were sent at Urban Outfitters headquarters to cull image ex
 
 ## Wire frames to structure the study
 
-|![Select Best Image](coianac.github.io/img/UOLabs Wire-01.png# bordered)|![Select Gender](coianac.github.io/img/UOLabs Wire-05.png# bordered)|![View Live Results](coianac.github.io/img/UOLabs Wire-03.png# bordered)|
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="coianac.github.io/img/UOLabs Wire-01.png">
+      <img src="coianac.github.io/img/UOLabs Wire-01.png" alt="Select best Image">
+    </a>
+    <div class="desc">Step 1: Select best Image</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="coianac.github.io/img/UOLabs Wire-05.png">
+      <img src="coianac.github.io/img/UOLabs Wire-05.png" alt="Select gender">
+    </a>
+    <div class="desc">Step 2: Select gender</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="coianac.github.io/img/UOLabs Wire-03.png">
+      <img src="coianac.github.io/img/UOLabs Wire-03.png" alt="View live results">
+    </a>
+    <div class="desc">Step 3: View live results</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
    
 ## Results
 Feel free to download the analysis of our collected data if you're interested in the details. <a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>. In short > the results came out inconclusive. 
