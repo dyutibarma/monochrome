@@ -47,12 +47,12 @@ body {
 
 /*- Link -*/
 a {
-	color: $text-color;
-	text-decoration: none;
-	font-weight: 700;
+	color: #0645AD;
+	text-decoration: underline;
+	font-weight: 400;
 	&:hover,
 	&:focus {
-		color: darken($text-color, 5%);
+		color: #0B0080;
 	}
 }
 
