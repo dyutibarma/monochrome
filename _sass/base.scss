@@ -81,11 +81,10 @@ tr:hover {background-color: #f9f9f9;
 
 /* image styles */
 img[src~="thumbnail"] {
-   width:150px;
-   height:100px;
+  	width:300px;
 }
 img[src~="bordered"] {
-   border: 1px solid black;
+	border: 1px solid #d3d3d3; 
 }
 
 /* Common classes */
