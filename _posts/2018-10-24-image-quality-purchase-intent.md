@@ -6,17 +6,17 @@ header: Image Quality & Purchase Intent
 
 |![Apt Lounge](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$)|![Karina](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$)|![Swim Glasses](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$)|
 
-### Goal
+## Goal
 To understand how consumers perceive image quality with the intentions of delivering higher quality images (better color representation, less pixelation) while maintaining a cost sensitive image file size.
 
-### Hypothesis
+## Hypothesis
 By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, when a browser downscales and interpolates a JPG, the imagem will render at an indistinguishable quality when compared to a higher quality JPG at it's required in-browser size. 
 
 > **Benefit** This should result in an approximate 30% decrease in image size and improved pagespeed. 
 
 ---
 
-### Team Structure
+## Team Structure
 <table>
   <tr>
     <th>My Roles</th>
@@ -40,7 +40,9 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
   </tr>
 </table>
 
-### Study Requirements
+---
+
+## Study Requirements
 * Brand and Studio approved images
   - Representative of mutiple content, and color density types.
 * Image Presets
@@ -48,11 +50,11 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 * Simulated Category and Zoom views to display presets applied to 3 different images  
   * Participants can select which image they perceive as best quality.
 
-**Approved Images**
+#### Approved Images
 
 |![Apt Lounge](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$)|![Karina](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$)|![Swim Glasses](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$)|
 
-**Image Presets**
+#### Image Presets
  <table>
   <tr>
     <th>Base</th>
@@ -68,7 +70,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 ---
 
-### Test Participants
+## Test Participants
 Internal invitations were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
 > 37 participants attended the study
 
@@ -76,7 +78,7 @@ Internal invitations were sent at Urban Outfitters headquarters to cull image ex
 
 ---
 
-### Wire frames to structure the study
+## Wire frames to structure the study
 
 |![Select Best Image](coianac.github.io/img/UOLabs Wire-01.png)|![Select Gender](coianac.github.io/img/UOLabs Wire-05.png)|![View Live Results](coianac.github.io/img/UOLabs Wire-03.png)|
    
