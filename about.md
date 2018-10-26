@@ -8,9 +8,9 @@ Howdy, and welcome. I've been defining digital strategies and experiences for th
 
 If you haven't, check out our sites and let me know where you find friction:
 
-* [Urban Outfitters] (https://www.urbanoutfitters.com) "Urban Outfitter web site"
-* [Anthropologie] (https://www.anthropologie.com) "Anthropologie web site"
-* [Free People] (https://www.freepeople.com) "Free People web site"
+* [Urban Outfitters](https://www.urbanoutfitters.com)
+* [Anthropologie](https://www.anthropologie.com)
+* [Free People](https://www.freepeople.com)
 
 
 ![T.Hanks](coianac.github.io/img/thanks.gif)
