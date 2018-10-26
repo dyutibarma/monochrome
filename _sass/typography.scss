@@ -15,48 +15,52 @@ body
 /*- Typography for medium and small screen, based on 16px font-size -*/
 
 p, ul, ol {
-	font-size: 1em; /* 16px */
+	font-size: .875em; /* 14px */
 	line-height: 1.8em;
 	margin-bottom: 1.5em; /* 24px/16px */
 }
 
 h1 {
-	font-size: 2.75em; /* 36px/16px */
+	font-size: 2.25em; /* 36px/16px */
+	font-style: 300;
 	line-height: 1.8em;
 	padding: 0.33335em 0; /* 12px/36px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
 h2 {
-	font-size: 2.25em; /* 36px/18px */
+	font-size: 2.125em; /* 36px/18px */
+	font-style: 300;
 	line-height: 1.8em;
 	padding: 0.66667em 0 0 0; /* 12px/36px * 2, pnly top (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
 h3 {
-	font-size: 2em; /* 24px/18px */
+	font-size: 1.5em; /* 24px/18px */
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
 h4 {
-	font-size: 1.75em; /* 24px/18px */
-	line-height: 1.8em;
-	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
-}
-
-h5 {
-	font-size: 1.5em; /* 24px/18px */
-	line-height: 1.8em;
-	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
-}
-	
-h6 {
 	font-size: 1.25em; /* 24px/18px */
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
+h5 {
+	font-size: 1em; /* 24px/18px */
+	font-style: 500;
+	line-height: 1.8em;
+	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+}
+	
+h6 {
+	font-size: .875em; /* 24px/18px */
+	line-height: 1.8em;
+	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+}
+
 blockquote {
+	font-size: .875em; /* 14pt */
 	font-style: italic;
 	margin: 1.5em; /* 24px/18px */
 	-webkit-border-radius: 4px;
@@ -75,19 +79,21 @@ blockquote {
 @media (min-width: 940px) { //Breakpoint set to 940px
 
 p, ul, ol {
-	font-size: .889em; /* 16px */
+	font-size: .889em; /* 14px */
 	line-height: 1.8em;
 	margin-bottom: 1.3334em; /* 24px/18px */
 }
 
 h1 {
 	font-size: 2.667em; /* 48px/18px */
+	font-style: 300;
 	line-height: 1.8em;
 	padding: 0.25em 0; /* 12px/48px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
 h2 {
 	font-size: 1.889em; /* 34px/18px */
+	font-style: 300;
 	line-height: 1.8em;
 	padding: 0.66667em 0 0 0; /* 12px/36px * 2, pnly top (Use padding instead of margin to maintain proximity with paragraph) */
 }
@@ -100,25 +106,24 @@ h3 {
 
 h4 {
 	font-size: 1.111em; /* 20px/18px */
-	font-style: medium;
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
 h5 {
 	font-size: .889em; /* 16px/18px */
+	font-style: medium;
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 	
 h6 {
 	font-size: .778em; /* 14px/18px */
-	font-style: medium;
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 blockquote {
-	font-size: .889; /* 16px */
+	font-size: .875; /* 14px */
 	font-style: italic;
 	margin: 1.3334em; /* 24px/18px */
 	-webkit-border-radius: 4px;
