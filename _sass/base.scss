@@ -56,6 +56,29 @@ a {
 	}
 }
 
+/*- Table Styling -*/
+table {
+    	border-collapse: collapse;
+    	width: 100%;
+}
+
+th {
+	text-align: left;
+    	background-color: #ededed;
+}
+
+td {
+	vertical-align: top;
+}
+
+table, td, th {
+	border-bottom: 1px solid #d3d3d3;
+    	padding: 15px;
+}
+
+tr:hover {background-color: #f9f9f9;
+}
+
 /* Common classes */
 
 .f-right { float: right; }
