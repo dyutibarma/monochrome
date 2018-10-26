@@ -162,7 +162,7 @@ Internal invitations were sent at Urban Outfitters headquarters to cull image ex
 
 ## Wire frames to structure the study
 
-<div class="responsive">
+<div class="responsive3">
   <div class="gallery">
     <a target="_blank" href="coianac.github.io/img/UOLabs Wire-01.png">
       <img src="coianac.github.io/img/UOLabs Wire-01.png" alt="Select best Image">
@@ -171,7 +171,7 @@ Internal invitations were sent at Urban Outfitters headquarters to cull image ex
   </div>
 </div>
 
-<div class="responsive">
+<div class="responsive3">
   <div class="gallery">
     <a target="_blank" href="coianac.github.io/img/UOLabs Wire-05.png">
       <img src="coianac.github.io/img/UOLabs Wire-05.png" alt="Select gender">
@@ -180,7 +180,7 @@ Internal invitations were sent at Urban Outfitters headquarters to cull image ex
   </div>
 </div>
 
-<div class="responsive">
+<div class="responsive3">
   <div class="gallery">
     <a target="_blank" href="coianac.github.io/img/UOLabs Wire-03.png">
       <img src="coianac.github.io/img/UOLabs Wire-03.png" alt="View live results">
