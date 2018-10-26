@@ -1,3 +1,87 @@
 /*- Custom style -*/
 
 // -- Put custom style under this point -- //
+
+/*- Table Styling -*/
+table {
+    	border-collapse: collapse;
+    	width: 100%;
+}
+
+th {
+	text-align: left;
+    	background-color: #ededed;
+}
+
+td {
+	vertical-align: top;
+}
+
+table, td, th {
+	border-bottom: 1px solid #d3d3d3;
+    	padding: 15px;
+}
+
+tr:hover {background-color: #f9f9f9;
+}
+
+/* image styles */
+img[src~="thumbnail"] {
+  	width:300px;
+}
+img[src~="bordered"] {
+	border: 1px solid #d3d3d3; 
+}
+
+/* responsive image gallery */
+
+div.gallery {
+    	border: 1px solid #d3d3d3;
+	border-radius: 4px;
+}
+
+div.gallery:hover {
+    	border: 1px solid #adadad;
+}
+
+div.gallery img {
+  	width: 100%;
+    	height: auto;
+}
+
+div.desc {
+    	padding: 10px;
+    	text-align: center;
+	    white-space: nowrap; 
+    	overflow: hidden;
+    	text-overflow: ellipsis;
+}
+
+* {
+    	box-sizing: border-box;
+}
+
+.responsive {
+    	padding: 0 6px;
+    	float: left;
+    	width: 20%;
+}
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 50%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 50%;
+    }
+}
+
+.clearfix:after {
+    	content: "";
+    	display: table;
+    	clear: both;
+}
