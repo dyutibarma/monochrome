@@ -4,7 +4,42 @@ description: Overview of the perception of quality and delivering the appropriat
 header: Image Quality & Purchase Intent
 ---
 
-|![Apt Lounge](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$)|![Karina](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$)|![Swim Glasses](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$)|
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$" alt="Apt Lounge">
+    </a>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$" alt="Karina">
+    </a>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$" alt="Mathilda">
+    </a>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$" alt="Mathilda">
+    </a>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$" alt="Swim Glasses">
+    </a>
+</div>
+
+<div class="clearfix"></div>
 
 ## Goal
 To understand how consumers perceive image quality with the intentions of delivering higher quality images (better color representation, less pixelation) while maintaining a cost sensitive image file size.
@@ -48,7 +83,52 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 #### Approved Images
 
-|![Apt Lounge](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$)|![Karina](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$)|![Mathilda](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$)|![Swim Glasses](http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$)|
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$" alt="Apt Lounge">
+    </a>
+    <div class="desc">Apartment Lounge</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$" alt="Karina">
+    </a>
+    <div class="desc">Karina</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$" alt="Mathilda">
+    </a>
+    <div class="desc">Mathilda</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$" alt="Mathilda">
+    </a>
+    <div class="desc">Mathilda</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$" alt="Swim Glasses">
+    </a>
+    <div class="desc">Swim Glasses</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
 
 #### Image Presets
  <table>
