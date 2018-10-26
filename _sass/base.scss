@@ -90,31 +90,34 @@ img[src~="bordered"] {
 /* responsive image gallery */
 
 div.gallery {
-    border: 1px solid #d3d3d3;
+    	border: 1px solid #d3d3d3;
 }
 
 div.gallery:hover {
-    border: 1px solid #adadad;
+    	border: 1px solid #adadad;
 }
 
 div.gallery img {
-    width: 100%;
-    height: auto;
+  	width: 100%;
+    	height: auto;
 }
 
 div.desc {
-    padding: 15px;
-    text-align: center;
+    	padding: 15px;
+    	text-align: center;
+	white-space: nowrap; 
+    	overflow: hidden;
+    	text-overflow: ellipsis;
 }
 
 * {
-    box-sizing: border-box;
+    	box-sizing: border-box;
 }
 
 .responsive {
-    padding: 0 6px;
-    float: left;
-    width: 20%;
+    	padding: 0 6px;
+    	float: left;
+    	width: 20%;
 }
 
 @media only screen and (max-width: 700px) {
@@ -131,9 +134,9 @@ div.desc {
 }
 
 .clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
+    	content: "";
+    	display: table;
+    	clear: both;
 }
 
 /* Common classes */
