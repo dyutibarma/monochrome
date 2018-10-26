@@ -15,7 +15,7 @@ body
 /*- Typography for medium and small screen, based on 16px font-size -*/
 
 p, ul, ol {
-	font-size: .875em; /* 14px */
+	font-size: .9em; /* 14px */
 	line-height: 1.8em;
 	margin-bottom: 1.5em; /* 24px/16px */
 }
@@ -54,13 +54,13 @@ h5 {
 }
 	
 h6 {
-	font-size: .875em; /* 24px/18px */
+	font-size: .9em; /* 24px/18px */
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
 blockquote {
-	font-size: .875em; /* 14pt */
+	font-size: .9em; /* 14pt */
 	font-style: italic;
 	margin: 1.5em; /* 24px/18px */
 	-webkit-border-radius: 4px;
@@ -79,7 +79,7 @@ blockquote {
 @media (min-width: 940px) { //Breakpoint set to 940px
 
 p, ul, ol {
-	font-size: .889em; /* 14px */
+	font-size: .9em; /* 14px */
 	line-height: 1.8em;
 	margin-bottom: 1.3334em; /* 24px/18px */
 }
@@ -111,7 +111,7 @@ h4 {
 }
 
 h5 {
-	font-size: .889em; /* 16px/18px */
+	font-size: .9em; /* 16px/18px */
 	font-style: medium;
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
@@ -123,7 +123,7 @@ h6 {
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 blockquote {
-	font-size: .875; /* 14px */
+	font-size: .9; /* 14px */
 	font-style: italic;
 	margin: 1.3334em; /* 24px/18px */
 	-webkit-border-radius: 4px;
