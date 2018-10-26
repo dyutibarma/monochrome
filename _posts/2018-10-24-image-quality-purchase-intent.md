@@ -67,7 +67,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
   </tr>
   <tr>
     <td>Lead UX Designer  </td>
-    <td> Executive e-Commerce Director</td>
+    <td>Executive e-Commerce Director</td>
   </tr>
   <tr>
     <td>Researcher</td>
@@ -148,17 +148,20 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <th>2x</th>
   </tr>
   <tr>
-    <td>•  Image size - 2x3 ratio <br>•  JPG quality - 87%</td>
-    <td>•  Image size - 1.5x base <br>•  JPG quality - 40%</td>
-    <td>•  Image size - 2x base <br>•  JPG quality - 25%</td>
+    <td>•  Image size - 2x3 ratio</td>
+    <td>•  Image size - 1.5x base</td>
+    <td>•  Image size - 2x base</td>
+  </tr>
+  <tr>
+    <td> •  JPG quality - 87%</td>
+    <td> •  JPG quality - 40%</td>
+    <td> •  JPG quality - 25%</td>
   </tr>
 </table>
 
 ## Test Participants
-Internal invitations were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
+[Invitations](coianac.github.io/img/invitation.jpg) were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
 > 37 participants attended the study
-
-![UO Labs Invitation](coianac.github.io/img/invitation.jpg# thumbnail bordered)
 
 ## Wire frames to structure the study
 
