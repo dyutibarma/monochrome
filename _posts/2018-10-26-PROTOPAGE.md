@@ -1,37 +1,45 @@
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$" alt="Apt Lounge">
     </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_forest.jpg">
-      <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Apartment Lounge</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_lights.jpg">
-      <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$" alt="Karina">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Karina</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
-      <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$" alt="Mathilda">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Mathilda</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$" alt="Mathilda">
+    </a>
+    <div class="desc">Mathilda</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$">
+      <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$" alt="Swim Glasses">
+    </a>
+    <div class="desc">Swim Glasses</div>
   </div>
 </div>
 
