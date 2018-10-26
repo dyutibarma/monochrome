@@ -14,8 +14,6 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 > **Benefit** This should result in an approximate 30% decrease in image size and improved pagespeed. 
 
----
-
 ## Team Structure
 <table>
   <tr>
@@ -39,8 +37,6 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <td>Lead Engineer</td>
   </tr>
 </table>
-
----
 
 ## Study Requirements
 * Brand and Studio approved images
@@ -68,33 +64,22 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
   </tr>
 </table>
 
----
-
 ## Test Participants
 Internal invitations were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
 > 37 participants attended the study
 
 ![UO Labs Invitation](coianac.github.io/img/invitation.jpg# thumbnail bordered)
 
----
-
 ## Wire frames to structure the study
 
-|![Select Best Image](coianac.github.io/img/UOLabs Wire-01.png)|![Select Gender](coianac.github.io/img/UOLabs Wire-05.png)|![View Live Results](coianac.github.io/img/UOLabs Wire-03.png)|
-   
----   
+|![Select Best Image](coianac.github.io/img/UOLabs Wire-01.png# bordered)|![Select Gender](coianac.github.io/img/UOLabs Wire-05.png# bordered)|![View Live Results](coianac.github.io/img/UOLabs Wire-03.png# bordered)|
    
 ## Results
 Feel free to download the analysis of our collected data if you're interested in the details. <a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>. In short > the results came out inconclusive. 
 > Participants could not discern a visual disparity between the 3 images presents
 
 We concluded this a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset. 
-     
----
 
 ## Delivery Strategy      
 
-| Item | Description | Price |
-| --- | --- | ---: |
-| item1 | item1 description | 1.00 |
-| item2 | item2 description | 100.00 |
+
