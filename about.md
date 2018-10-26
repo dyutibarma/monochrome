@@ -8,9 +8,9 @@ Howdy, and welcome. I've been defining digital strategies and experiences for th
 
 If you haven't, check out our sites and let me know where you find friction:
 
-[Urban Outfitters](www.urbanoutfitters.com) 
-[Anthropologie](www.anthropologie.com) 
-[Free People](www.freepeople.com) 
+* [Urban Outfitters](www.urbanoutfitters.com) 
+* [Anthropologie](www.anthropologie.com) 
+* [Free People](www.freepeople.com) 
 
 
 ![T.Hanks](coianac.github.io/img/thanks.gif)
