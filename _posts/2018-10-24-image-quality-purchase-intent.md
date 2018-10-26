@@ -74,7 +74,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 Internal invitations were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
 > 37 participants attended the study
 
-|![UO Labs Invitation](coianac.github.io/img/invitation.jpg){:height="500px" width="375px"}|
+|![UO Labs Invitation](coianac.github.io/img/invitation.jpg# thumbnail bordered)|
 
 ---
 
