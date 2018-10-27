@@ -47,9 +47,9 @@ description: This is my curriculum vitae.
           <br>
     <hr>
     <h3><b>Education</b></h3>
-      <h4><b>University of the Arts — Philadelphia</b></h4>
-      <h5>2010 - 2012</h5>
-    <h6>Masters of Design</h6>
+      <h5 class="w3-opacity"><b>University of the Arts — Philadelphia</b></h5>
+      <h6 class="w3-text-black">2010 - 2012</h6>
+    <p>Masters of Design</p>
     <hr>
       <h5 class="w3-opacity"><b>Northeastern University — Boston</b></h5>
       <h6 class="w3-text-black">2002 - 2007</h6>
