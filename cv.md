@@ -21,7 +21,7 @@ description: This is my curriculum vitae.
   </div>
 </div>
   <div class="w3-container">
-    <h6>Product Designer, Strategist</h6>
+    <h6>Product Design Strategist</h6>
     <h6>Philadelphia, PA</h6>
     <h6>coia.nac@gmail.com</h6>
     <h6>551.404.7627</h6>
@@ -74,21 +74,29 @@ description: This is my curriculum vitae.
 <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16">Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
-          <h6 class="w3-text-teal">Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <h5 class="w3-opacity"><b>Senior Product Designer; Urban Outfitters, inc.</b></h5>
+          <h6 class="w3-text-black">Aug 2013 - <span class="w3-tag w3-black w3-square">Current</span></h6>
+          <ul>Critique and coach usability best practices, contextual hierarchies, user journeys, storytelling, and designing for the     path-to-purchase</ul>
+          <ul>Facilitate discussions and product requirements gathering across 4 organizations – URBN DTC (Direct to consumer), Urban Outfitters, Anthropologie, and Free People</ul>
+          <ul>In March, of 2017, I was presented as one of Shoptalks first heretics: <a href="https://issuu.com/shoptalkcommerce/docs/workbook_for_show-feb_16.compressed/114">issuu Shoptalk Commerce</a></ul>
+          <ul>In 2016 I was promoted to Senior Product Manager and was presented with the Communication and Collaboration award for cross disciplinary work between the User Experience and Creative teams.</ul>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
-          <h6 class="w3-text-teal">Mar 2012 - Dec 2014</h6>
-          <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <h5 class="w3-opacity"><b>Lead User Experience Designer; CloudMine</b></h5>
+          <h6 class="w3-text-teal">May 2012 - Aug 2013</h6>
+          <p>As the lead designer at CloudMine, my role was spread across multiple business facets — Enterprise and agency sales, direct & indirect marketing, core feature development, fundraising, and management.</p>
+          <ul>Maintained consistent visual, experiential and interactive design principles.</ul>
+          <ul>Guided the founders through collaborative sessions to explain our business model, product offerings and web features – which I visualized for presentations, pitches, and client meetings.</ul>
+          <ul>Led the design and creation of all marketing and sales collateral, website and product dashboards, and various printed materials.</ul>
+          <ul>Worked with management to structure and implement better internal processes for working between departments.</ul>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
-          <h6 class="w3-text-teal">Jun 2010 - Mar 2012</h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
+          <h5 class="w3-opacity"><b>Senior Quality Engineer</b></h5>
+          <h6 class="w3-text-teal">May 2011 - Aug 2011</h6>
+          <p>While at Think Brownstone, I designed a tool for design practitioners to perform heuristic evaluations on their products, physical or digital. The work was influenced by Baymard, Norman, SUMI (Software Usability Measurement Inventory), and WAMMI (Website Analysis and MeasureMent Inventory), among others.<br>We have been using this algorithm based tool for usability evaluations at URBN for the last 5 years.</p>
+          <br>
         </div>
       </div>
 
@@ -115,5 +123,3 @@ description: This is my curriculum vitae.
   
   <!-- End Page Container -->
 </div>
-</body>
-</html>
