@@ -51,15 +51,15 @@ header: Image Quality & Purchase Intent
 
 <div class="clearfix"></div>
 
-## Goal
+### Goal
 To understand how consumers perceive image quality with the intentions of delivering higher quality images (better color representation, less pixelation) while maintaining a cost sensitive image file size.
 
-## Hypothesis
+### Hypothesis
 By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, when a browser downscales and interpolates a JPG, the imagem will render at an indistinguishable quality when compared to a higher quality JPG at it's required in-browser size. 
 
 > **Benefit** This should result in an approximate 30% decrease in image size and improved pagespeed. 
 
-## Team Structure
+### Team Structure
 <table>
   <tr>
     <th>My Roles</th>
@@ -83,15 +83,9 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
   </tr>
 </table>
 
-## Study Requirements
-* Brand and Studio approved images
-  * Representative of mutiple content, and color density types.
-* Image Presets
-* Test participants
-* Simulated Category and Zoom views to display presets applied to 3 different images
-  * Participants can select which image they perceive as best quality.
-
-#### Approved Images
+### Study Requirements
+#### Brand & studio approved images
+* Representative of mutiple content, and color density types.
 
 <div class="responsive">
   <div class="gallery">
@@ -140,7 +134,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 <div class="clearfix"></div>
 
-#### Image Presets
+#### Image presets
  <table>
   <tr>
     <th>Base</th>
@@ -159,11 +153,14 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
   </tr>
 </table>
 
-## Test Participants
+#### Test Participants
 [Invitations](coianac.github.io/img/invitation.jpg) were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
 > 37 participants attended the study
 
-## Wire frames to structure the study
+> add photos from the study here
+
+### Simulated Category and Zoom views to display presets applied to 3 different images
+* Participants can select which image they perceive as best quality.
 
 <div class="responsive3">
   <div class="gallery">
@@ -194,12 +191,12 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 <div class="clearfix"></div>
    
-## Results
+### Results
 Feel free to download the analysis of our collected data if you're interested in the details. <a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>. In short > the results came out inconclusive. 
 > Participants could not discern a visual disparity between the 3 images presents
 
 We concluded this a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset. 
 
-## Delivery Strategy      
+### Delivery Strategy      
 
 
