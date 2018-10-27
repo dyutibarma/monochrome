@@ -137,6 +137,10 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 <div class="clearfix"></div>
 
 <br>
+
+<table>
+  <tr>
+    <td>
 #### Image presets
  <table>
   <tr>
@@ -155,14 +159,18 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <td> •  JPG quality - 25%</td>
   </tr>
 </table>
-
-<br>
+    </td>
+    <td>
 #### Test Participants
 [Invitations](coianac.github.io/img/invitation.jpg) were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
 > 37 participants attended the study
 
 > add photos from the study here
+    </td>
+    </tr>
+    </table>
 
+<br>
 #### Simulated Category and Zoom views to display presets applied to 3 different images
 * Participants can select which image they perceive as best quality.
 
