@@ -98,7 +98,7 @@ html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 .w3-code{width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
 .w3-codespan{color:crimson;background-color:#f1f1f1;padding-left:4px;padding-right:4px;font-size:110%}
 
-.w3-card,.w3-card-2{border: 1px solid #d3d3d3}
+.w3-card,.w3-card-2{border: 0px}
 .w3-card-4,.w3-hover-shadow:hover{border: 1px solid #d3d3d3}
 
 .w3-spin{animation:w3-spin 2s infinite linear}@keyframes w3-spin{0%{transform:rotate(0deg)}100%{transform:rotate(359deg)}}
