@@ -61,7 +61,7 @@ description: This is my curriculum vitae.
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
           </div>
           <br>-->
-
+<hr>
 <p class="w3-large w3-text-theme">Education</p>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>University of the Arts — Philadelphia PA</b></h5>
