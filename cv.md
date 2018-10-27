@@ -61,7 +61,23 @@ description: This is my curriculum vitae.
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
           </div>
           <br>-->
+
+<div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16">Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>University of the Arts — Philadelphia PA</b></h5>
+          <h6 class="w3-text-black">2010 - 2012</h6>
+          <p>Masters of Design</p>
+          <hr>
         </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Northeastern University — Boston, MA</b></h5>
+          <h6 class="w3-text-black">2002 - 2007</h6>
+          <p>Bachelor of Science (B.S.),Marketing and Entrepreneurship</p>
+        </div>
+      </div>
+
+   </div>
       </div><br>
 
 
@@ -100,20 +116,7 @@ description: This is my curriculum vitae.
         </div>
       </div>
 
-<div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16">Education</h2>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>University of the Arts — Philadelphia PA</b></h5>
-          <h6 class="w3-text-black">2010 - 2012</h6>
-          <p>Masters of Design</p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>Northeastern University — Boston, MA</b></h5>
-          <h6 class="w3-text-black">2002 - 2007</h6>
-          <p>Bachelor of Science (B.S.),Marketing and Entrepreneurship</p>
-        </div>
-      </div>
+
 
     <!-- End Right Column -->
 </div>
