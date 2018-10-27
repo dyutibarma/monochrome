@@ -26,30 +26,30 @@ description: This is my curriculum vitae.
     <h6>551.404.7627</h6>
     <hr>
       <h3><b>Skills</b></h3>
-          <p>Strategic Product Vision</p>
+          <h5>Strategic Product Vision</h5>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:90%">90%</div>
           </div>
-          <p>Heuristics & Usability</p>
+          <h5>Heuristics & Usability</h5>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:80%">
               <div class="w3-center w3-text-white">80%</div>
             </div>
           </div>
-          <p>Wireframes & Prototypes</p>
+          <h5>Wireframes & Prototypes</h5>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:75%">75%</div>
           </div>
-          <p>Research & Analytics</p>
+          <h5>Research & Analytics</h5>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:75%">75%</div>
           </div>
           <br>
     <hr>
-    <p class="w3-large"><b>Education</b></p>
-      <h5 class="w3-opacity"><b>University of the Arts — Philadelphia</b></h5>
-      <h6 class="w3-text-black">2010 - 2012</h6>
-    <p>Masters of Design</p>
+    <h3><b>Education</b></h3>
+      <h4><b>University of the Arts — Philadelphia</b></h4>
+      <h5>2010 - 2012</h5>
+    <h6>Masters of Design</h6>
     <hr>
       <h5 class="w3-opacity"><b>Northeastern University — Boston</b></h5>
       <h6 class="w3-text-black">2002 - 2007</h6>
