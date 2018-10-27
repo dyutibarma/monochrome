@@ -26,7 +26,7 @@ description: This is my curriculum vitae.
     <h6>coia.nac@gmail.com</h6>
     <h6>551.404.7627</h6>
     <hr>
-      <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+      <p class="w3-large"><b>Skills</b></p>
       <p>Strategic Product Vision</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
           <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:85%">90%</div>
@@ -62,8 +62,7 @@ description: This is my curriculum vitae.
           </div>
           <br>-->
 
-<div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16">Education</h2>
+<p class="w3-large w3-text-theme">Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>University of the Arts — Philadelphia PA</b></h5>
           <h6 class="w3-text-black">2010 - 2012</h6>
@@ -116,7 +115,20 @@ description: This is my curriculum vitae.
         </div>
       </div>
 
-
+<!-- <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16">Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>University of the Arts — Philadelphia PA</b></h5>
+          <h6 class="w3-text-black">2010 - 2012</h6>
+          <p>Masters of Design</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Northeastern University — Boston, MA</b></h5>
+          <h6 class="w3-text-black">2002 - 2007</h6>
+          <p>Bachelor of Science (B.S.),Marketing and Entrepreneurship</p>
+        </div>
+      </div> -->
 
     <!-- End Right Column -->
 </div>
