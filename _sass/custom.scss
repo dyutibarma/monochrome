@@ -38,6 +38,10 @@ img[src~="radius"] {
 	border: 1px solid #d3d3d3;
 }
 
+img{
+	border-radius: 50%;
+}
+
 /* responsive image gallery */
 
 div.gallery {
