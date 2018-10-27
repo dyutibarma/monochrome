@@ -14,8 +14,7 @@ description: This is my curriculum vitae.
 <div class="w3-third">
 <div class="w3-white w3-text-grey w3-card-4">
 <div class="w3-display-container">
-   <img src="
-        coianac.github.io/img/IMG_0484.jpg" style="width:100%" alt="Image of Nic">
+   <img src="coianac.github.io/img/IMG_0484.jpg" style="width:100%" filter: grayscale(100%) alt="Image of Nic">
   <div class="w3-display-bottomleft w3-container w3-text-white">
       <h2>Nicolas A Coia</h2>
   </div>
