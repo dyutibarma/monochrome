@@ -51,7 +51,7 @@ header: Image Quality & Purchase Intent
 
 <div class="clearfix"></div>
 
-<br></br>
+<br>
 ### Goal
 To understand how consumers perceive image quality with the intentions of delivering higher quality images (better color representation, less pixelation) while maintaining a cost sensitive image file size.
 
@@ -84,7 +84,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
   </tr>
 </table>
 
-<br></br>
+<br>
 ### Study Requirements
 #### Brand & studio approved images
 * Representative of mutiple content, and color density types.
@@ -136,7 +136,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 <div class="clearfix"></div>
 
-<br></br>
+<br>
 #### Image presets
  <table>
   <tr>
@@ -156,7 +156,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
   </tr>
 </table>
 
-<br></br>
+<br>
 #### Test Participants
 [Invitations](coianac.github.io/img/invitation.jpg) were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
 > 37 participants attended the study
@@ -195,7 +195,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 <div class="clearfix"></div>
 
-<br></br>
+<br>
 ### Results
 Feel free to download the analysis of our collected data if you're interested in the details. <a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>. In short > the results came out inconclusive. 
 > Participants could not discern a visual disparity between the 3 images presents
