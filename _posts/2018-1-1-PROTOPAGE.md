@@ -40,6 +40,8 @@
 </div>
 <div class="clearfix"></div>
 
+---
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$">
