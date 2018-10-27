@@ -21,10 +21,10 @@ description: This is my curriculum vitae.
   </div>
 </div>
   <div class="w3-container">
-    <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Product Designer, Strategist</p>
-    <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Philadelphia, PA</p>
-    <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>coia.nac@gmail.com</p>
-    <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>551.404.7627</p>
+    <p>Product Designer, Strategist</p>
+    <p>Philadelphia, PA</p>
+    <p>coia.nac@gmail.com</p>
+    <p>551.404.7627</p>
     <hr>
       <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
       <p>Strategic Product Vision</p>
@@ -46,7 +46,7 @@ description: This is my curriculum vitae.
           <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">50%</div>
           </div>
           <br>
-
+<!--
 <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
@@ -63,6 +63,7 @@ description: This is my curriculum vitae.
           <br>
         </div>
       </div><br>
+-->
 
     <!-- End Left Column -->
 </div>
@@ -71,39 +72,37 @@ description: This is my curriculum vitae.
     <div class="w3-twothird">
     
 <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <h2 class="w3-text-grey w3-padding-16">Work Experience</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <h6 class="w3-text-teal">Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
+          <h6 class="w3-text-teal">Mar 2012 - Dec 2014</h6>
           <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2012</h6>
+          <h6 class="w3-text-teal">Jun 2010 - Mar 2012</h6>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
         </div>
       </div>
 
 <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal">
-        
- </i>Education</h2>
+        <h2 class="w3-text-grey w3-padding-16">Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>University of the Arts — Philadelphia PA</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2012</h6>
+          <h6 class="w3-text-teal">2010 - 2012</h6>
           <p>Masters of Design</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Northeastern University — Boston, MA</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2002 - 2007</h6>
+          <h6 class="w3-text-teal">2002 - 2007</h6>
           <p>Bachelor of Science (B.S.),Marketing and Entrepreneurship</p>
         </div>
       </div>
