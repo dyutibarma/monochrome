@@ -17,7 +17,7 @@ description: This is my curriculum vitae.
    <img src="
         coianac.github.io/img/IMG_0484.jpg" style="width:100%" alt="Image of Nic">
   <div class="w3-display-bottomleft w3-container w3-text-black">
-      <h2>Jane Doe</h2>
+      <h2>Nicolas A Coia</h2>
   </div>
 </div>
   <div class="w3-container">
@@ -105,7 +105,6 @@ description: This is my curriculum vitae.
           <h5 class="w3-opacity"><b>Northeastern University — Boston, MA</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2002 - 2007</h6>
           <p>Bachelor of Science (B.S.),Marketing and Entrepreneurship</p>
-          <hr>
         </div>
       </div>
 
