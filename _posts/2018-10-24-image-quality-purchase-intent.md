@@ -156,6 +156,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
   </tr>
 </table>
 
+<br>
 #### Test Participants
 [Invitations](coianac.github.io/img/invitation.jpg) were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
 > 37 participants attended the study
