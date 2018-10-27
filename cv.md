@@ -16,15 +16,15 @@ description: This is my curriculum vitae.
 <div class="w3-display-container">
    <img src="
         coianac.github.io/img/IMG_0484.jpg" style="width:100%" alt="Image of Nic">
-  <div class="w3-display-bottomleft w3-container w3-text-black">
+  <div class="w3-display-bottomleft w3-container w3-text-white">
       <h2>Nicolas A Coia</h2>
   </div>
 </div>
   <div class="w3-container">
-    <p>Product Designer, Strategist</p>
-    <p>Philadelphia, PA</p>
-    <p>coia.nac@gmail.com</p>
-    <p>551.404.7627</p>
+    <h6>Product Designer, Strategist</h6>
+    <h6>Philadelphia, PA</h6>
+    <h6>coia.nac@gmail.com</h6>
+    <h6>551.404.7627</h6>
     <hr>
       <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
       <p>Strategic Product Vision</p>
