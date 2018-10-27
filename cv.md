@@ -29,21 +29,21 @@ description: This is my curriculum vitae.
       <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
       <p>Strategic Product Vision</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-          <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:85%">90%</div>
+          <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:85%">90%</div>
           </div>
       <p>Heuristics & Usability</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-          <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">
+          <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:90%">
           <div class="w3-center w3-text-white">80%</div>
           </div>
           </div>
       <p>Wireframes > Prototypes</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-          <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+          <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:75%">75%</div>
           </div>
       <p>Research & Analysis</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-          <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">50%</div>
+          <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:75%">50%</div>
           </div>
           <br>
 <!--
@@ -84,7 +84,7 @@ description: This is my curriculum vitae.
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Lead User Experience Designer; CloudMine</b></h5>
-          <h6 class="w3-text-teal">May 2012 - Aug 2013</h6>
+          <h6 class="w3-text-black">May 2012 - Aug 2013</h6>
           <p>As the lead designer at CloudMine, my role was spread across multiple business facets — Enterprise and agency sales, direct & indirect marketing, core feature development, fundraising, and management.</p>
           <ul>Maintained consistent visual, experiential and interactive design principles.</ul>
           <ul>Guided the founders through collaborative sessions to explain our business model, product offerings and web features – which I visualized for presentations, pitches, and client meetings.</ul>
@@ -94,7 +94,7 @@ description: This is my curriculum vitae.
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Senior Quality Engineer</b></h5>
-          <h6 class="w3-text-teal">May 2011 - Aug 2011</h6>
+          <h6 class="w3-text-black">May 2011 - Aug 2011</h6>
           <p>While at Think Brownstone, I designed a tool for design practitioners to perform heuristic evaluations on their products, physical or digital. The work was influenced by Baymard, Norman, SUMI (Software Usability Measurement Inventory), and WAMMI (Website Analysis and MeasureMent Inventory), among others.<br>We have been using this algorithm based tool for usability evaluations at URBN for the last 5 years.</p>
           <br>
         </div>
@@ -104,13 +104,13 @@ description: This is my curriculum vitae.
         <h2 class="w3-text-grey w3-padding-16">Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>University of the Arts — Philadelphia PA</b></h5>
-          <h6 class="w3-text-teal">2010 - 2012</h6>
+          <h6 class="w3-text-black">2010 - 2012</h6>
           <p>Masters of Design</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Northeastern University — Boston, MA</b></h5>
-          <h6 class="w3-text-teal">2002 - 2007</h6>
+          <h6 class="w3-text-black">2002 - 2007</h6>
           <p>Bachelor of Science (B.S.),Marketing and Entrepreneurship</p>
         </div>
       </div>
