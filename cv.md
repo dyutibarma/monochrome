@@ -27,52 +27,36 @@ description: This is my curriculum vitae.
     <h6>551.404.7627</h6>
     <hr>
       <p class="w3-large"><b>Skills</b></p>
-      <p>Strategic Product Vision</p>
+          <p>Strategic Product Vision</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-          <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:85%">90%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:90%">90%</div>
           </div>
-      <p>Heuristics & Usability</p>
+          <p>Heuristics & Usability</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-          <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:90%">
-          <div class="w3-center w3-text-white">80%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:80%">
+              <div class="w3-center w3-text-white">80%</div>
+            </div>
           </div>
-          </div>
-      <p>Wireframes > Prototypes</p>
+          <p>Wireframes & Prototypes</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-          <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:75%">75%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:75%">75%</div>
           </div>
-      <p>Research & Analysis</p>
+          <p>Research & Analytics</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-          <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:75%">50%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:75%">75%</div>
           </div>
           <br>
-<!--
-<p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
-          <p>English</p>
-          <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
-          </div>
-          <p>Spanish</p>
-          <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:55%"></div>
-          </div>
-          <p>German</p>
-          <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
-          </div>
-          <br>-->
-<hr>
-<p class="w3-large"><b>Education</b></p>
-  <h5 class="w3-opacity"><b>University of the Arts — Philadelphia</b></h5>
-  <h6 class="w3-text-black">2010 - 2012</h6>
-  <p>Masters of Design</p>
-  <hr>
-  <h5 class="w3-opacity"><b>Northeastern University — Boston</b></h5>
-  <h6 class="w3-text-black">2002 - 2007</h6>
-  <p>Bachelor of Science (B.S.),Marketing and Entrepreneurship</p>
+    <hr>
+    <p class="w3-large"><b>Education</b></p>
+      <h5 class="w3-opacity"><b>University of the Arts — Philadelphia</b></h5>
+      <h6 class="w3-text-black">2010 - 2012</h6>
+    <p>Masters of Design</p>
+    <hr>
+      <h5 class="w3-opacity"><b>Northeastern University — Boston</b></h5>
+      <h6 class="w3-text-black">2002 - 2007</h6>
+    <p>Bachelor of Science (B.S.),Marketing and Entrepreneurship</p>
   </div>
 </div><br>
-
 
     <!-- End Left Column -->
 </div>
