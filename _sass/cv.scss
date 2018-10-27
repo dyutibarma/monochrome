@@ -2,7 +2,7 @@
 
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 
-/* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
+/* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize
 
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}
@@ -30,10 +30,10 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 
 /* End extract */
 
-html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
+/*html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
 h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.w3-serif{font-family:serif}
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
-hr{border:0;border-top:1px solid #eee;margin:20px 0}
+hr{border:0;border-top:1px solid #eee;margin:20px 0}*/
 .w3-image{max-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
 .w3-table,.w3-table-all{border-collapse:collapse;border-spacing:0;width:100%;display:table}.w3-table-all{border:1px solid #ccc}
 .w3-bordered tr,.w3-table-all tr{border-bottom:1px solid #ddd}.w3-striped tbody tr:nth-child(even){background-color:#f1f1f1}
