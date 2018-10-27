@@ -14,7 +14,10 @@ description: This is my curriculum vitae.
 <div class="w3-third">
 <div class="w3-white w3-text-grey w3-card-4">
 <div class="w3-display-container">
-  <img src="/w3images/avatar_hat.jpg" style="width:100%" alt="Avatar">
+    <video width=100% controls Autoplay=autoplay>
+        <source src="coianac.github.io/img/IMG_0566.mov" type="video/mov">
+    </video>
+ 
   <div class="w3-display-bottomleft w3-container w3-text-black">
       <h2>Jane Doe</h2>
   </div>
