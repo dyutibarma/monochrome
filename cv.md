@@ -70,6 +70,7 @@ description: This is my curriculum vitae.
   <h5 class="w3-opacity"><b>Northeastern University — Boston</b></h5>
   <h6 class="w3-text-black">2002 - 2007</h6>
   <p>Bachelor of Science (B.S.),Marketing and Entrepreneurship</p>
+  </div>
 </div><br>
 
 
