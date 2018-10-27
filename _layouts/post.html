@@ -2,14 +2,8 @@
 layout: default
 ---
 <article id="post-page">
-	<div class="w3-quarter">
-	</div>
-	<div class="ws-half">
-	<h1>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h1>		
+	<h2>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
-	</div>
-	<div class="quarter">
-	</div>
 	<div class="content">
 
 		{{ content }}
