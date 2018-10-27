@@ -163,7 +163,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 > add photos from the study here
 
-### Simulated Category and Zoom views to display presets applied to 3 different images
+#### Simulated Category and Zoom views to display presets applied to 3 different images
 * Participants can select which image they perceive as best quality.
 
 <div class="responsive3">
