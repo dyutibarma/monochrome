@@ -137,6 +137,36 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 <div class="clearfix"></div>
 
 <br>
+<div class="w3-row">
+  <div class="w3-col w3-container m6 l6 w3-yellow">
+    <h4>Image presets</h4>
+ <table>
+  <tr>
+    <th>Base</th>
+    <th>1.5x</th>
+    <th>2x</th>
+  </tr>
+  <tr>
+    <td><ul>Image size - 2x3 ratio</ul></td>
+    <td><ul>Image size - 1.5x base</ul></td>
+    <td><ul>Image size - 2x base</ul></td>
+  </tr>
+  <tr>
+    <td><ul>JPG quality - 87%</ul></td>
+    <td><ul>JPG quality - 40%</ul></td>
+    <td><ul>JPG quality - 25%</ul></td>
+  </tr>
+</table>
+  </div>
+  <div class="w3-col w3-container m6 l6">  
+    <h4>Test Participants</h4>
+		<p>Invitations were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.</p>
+		<ul>37 participants attended the study</ul>
+        <ul>add photos from the study here</ul>
+  </div>
+</div>
+
+<br>
 #### Image presets
  <table>
   <tr>
