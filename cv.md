@@ -60,8 +60,8 @@ description: This is my curriculum vitae.
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
           </div>
-          <br>
-        </div>-->
+          <br>-->
+        </div>
       </div><br>
 
 
