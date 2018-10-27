@@ -41,6 +41,7 @@ h3 {
 
 h4 {
 	font-size: 1.25em; /* 24px/18px */
+	font-weight: 300;
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
@@ -63,13 +64,13 @@ blockquote {
 	font-size: .9em; /* 14pt */
 	font-style: italic;
 	font-wight: 100;
-	color: #000080;
+	color: #6B8E23;
 	margin: 1.5em; /* 24px/18px */
 	-webkit-border-radius: 0px;
 	   -moz-border-radius: 0px;
 	    -ms-border-radius: 0px;
           border-radius: 0px;
-	border-left: solid #000080;
+	border-left: solid #556B2F;
 	background-color: darken($background-color, 5%);
 	padding: 0 1.5em; /* 24px/18px */
 	p, ul, ol {
@@ -108,6 +109,7 @@ h3 {
 
 h4 {
 	font-size: 1.111em; /* 20px/18px */
+	font-weight: 300;
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
@@ -129,13 +131,13 @@ blockquote {
 	font-size: .9em; /* 14pt */
 	font-style: italic;
 	font-wight: 100;
-	color: #000080;
+	color: #6B8E23;
 	margin: 1.5em; /* 24px/18px */
 	-webkit-border-radius: 0px;
 	   -moz-border-radius: 0px;
 	    -ms-border-radius: 0px;
           border-radius: 0px;
-	border-left: solid #000080;
+	border-left: solid #556B2F;
 	background-color: darken($background-color, 5%);
 	padding: 0 1.5em; /* 24px/18px */
 	p, ul, ol {
