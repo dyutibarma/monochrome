@@ -61,9 +61,9 @@ description: This is my curriculum vitae.
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
           </div>
           <br>
-        </div>
+        </div>-->
       </div><br>
--->
+
 
     <!-- End Left Column -->
 </div>
