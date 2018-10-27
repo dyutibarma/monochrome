@@ -97,7 +97,6 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <div class="desc">Apartment Lounge</div>
   </div>
 </div>
-
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$">
@@ -106,7 +105,6 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <div class="desc">Karina</div>
   </div>
 </div>
-
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$">
@@ -115,7 +113,6 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <div class="desc">Mathilda</div>
   </div>
 </div>
-
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$">
@@ -124,7 +121,6 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <div class="desc">Mathilda</div>
   </div>
 </div>
-
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$">
@@ -133,12 +129,11 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <div class="desc">Swim Glasses</div>
   </div>
 </div>
-
 <div class="clearfix"></div>
 
 <br>
 <div class="w3-row">
-  <div class="w3-col w3-container m6 l6 w3-yellow">
+  <div class="w3-col w3-container m6 l6 w3">
     <h4>Image presets</h4>
  <table>
   <tr>
@@ -147,51 +142,24 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <th>2x</th>
   </tr>
   <tr>
-    <td><ul>Image size - 2x3 ratio</ul></td>
-    <td><ul>Image size - 1.5x base</ul></td>
-    <td><ul>Image size - 2x base</ul></td>
+    <td><Image size - 2x3 ratio</td>
+    <td>Image size - 1.5x base</td>
+    <td>Image size - 2x base</td>
   </tr>
   <tr>
-    <td><ul>JPG quality - 87%</ul></td>
-    <td><ul>JPG quality - 40%</ul></td>
-    <td><ul>JPG quality - 25%</ul></td>
+    <td>JPG quality - 87%</td>
+    <td>JPG quality - 40%</td>
+    <td>JPG quality - 25%</td>
   </tr>
 </table>
   </div>
   <div class="w3-col w3-container m6 l6">  
     <h4>Test Participants</h4>
 		<p>Invitations were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.</p>
-		<ul>37 participants attended the study</ul>
-        <ul>add photos from the study here</ul>
+		<blockquote>37 participants attended the study</blockquote>
+		<blockquote>add photos from the study here</blockquote>
   </div>
 </div>
-
-<br>
-#### Image presets
- <table>
-  <tr>
-    <th>Base</th>
-    <th>1.5x</th>
-    <th>2x</th>
-  </tr>
-  <tr>
-    <td>•  Image size - 2x3 ratio</td>
-    <td>•  Image size - 1.5x base</td>
-    <td>•  Image size - 2x base</td>
-  </tr>
-  <tr>
-    <td> •  JPG quality - 87%</td>
-    <td> •  JPG quality - 40%</td>
-    <td> •  JPG quality - 25%</td>
-  </tr>
-</table>
-
-<br>
-#### Test Participants
-[Invitations](coianac.github.io/img/invitation.jpg) were sent at Urban Outfitters headquarters to cull image experts and laypeople, alike.
-> 37 participants attended the study
-
-> add photos from the study here
 
 #### Simulated Category and Zoom views to display presets applied to 3 different images
 * Participants can select which image they perceive as best quality.
