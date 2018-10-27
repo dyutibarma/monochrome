@@ -33,6 +33,11 @@ img[src~="bordered"] {
 	border: 1px solid #d3d3d3; 
 }
 
+img[src~="radius"] {
+	border-radius:50%;
+	border: 1px solid #d3d3d3;
+}
+
 /* responsive image gallery */
 
 div.gallery {
