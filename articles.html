@@ -7,7 +7,7 @@ description: Article posts.
 <ul id="posts">
   {% for post in site.posts %}
     <li class="post">
-      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
       {{ post.excerpt }}
     </li>
