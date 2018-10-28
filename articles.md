@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Articles
-description: Current and past writings.
 ---
 <!-- Posts -->
 <ul id="posts">
