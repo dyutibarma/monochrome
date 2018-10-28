@@ -1,3 +1,10 @@
+---
+excerpt_separator: <!--more-->
+---
+
+This is a space for testing new pieces of HTML, CSS, JS. 
+<!--more-->
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$">
