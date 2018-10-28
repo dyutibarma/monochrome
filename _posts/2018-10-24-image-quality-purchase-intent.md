@@ -7,6 +7,10 @@ tags: [portfolio, research]
 excerpt_separator: <!--more-->
 ---
 
+By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, when a browser downscales and interpolates a JPG, the image will render at an indistinguishable quality when compared to a higher quality JPG at it's required in-browser size.
+<!--more-->
+
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$">
@@ -206,5 +210,3 @@ We concluded this a success. After a close inspection of the images and the resu
 
 ### Delivery Strategy      
 
-<!--more-->
-By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, when a browser downscales and interpolates a JPG, the image will render at an indistinguishable quality when compared to a higher quality JPG at it's required in-browser size.
