@@ -2,11 +2,21 @@
 
 // -- Put custom style under this point -- //
 
-/*- Columns -*/
-columns2{
-	-webkit-column-count: 2;
-	-moz-column-count: 2;
-	column-count: 2;
+/* -- Buttons -- */
+.button {
+    background-color: #ddd;
+    border: none;
+    color: #000;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #f1f1f1;
 }
 
 /*- Table Styling -*/
