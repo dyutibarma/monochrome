@@ -4,6 +4,7 @@ description: Overview of the perception of quality and delivering the appropriat
 header: Image Quality & Purchase Intent
 categories: [ecommerce]
 tags: [portfolio, research]
+excerpt_separator: <!--more-->
 ---
 
 <div class="responsive">
@@ -58,7 +59,7 @@ tags: [portfolio, research]
 To understand how consumers perceive image quality with the intentions of delivering higher quality images (better color representation, less pixelation) while maintaining a cost sensitive image file size.
 
 ### Hypothesis
-By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, when a browser downscales and interpolates a JPG, the imagem will render at an indistinguishable quality when compared to a higher quality JPG at it's required in-browser size. 
+By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, when a browser downscales and interpolates a JPG, the image will render at an indistinguishable quality when compared to a higher quality JPG at it's required in-browser size. 
 
 > **Benefit** This should result in an approximate 30% decrease in image size and improved pagespeed. 
 
@@ -205,4 +206,5 @@ We concluded this a success. After a close inspection of the images and the resu
 
 ### Delivery Strategy      
 
-
+<!--more-->
+By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, when a browser downscales and interpolates a JPG, the image will render at an indistinguishable quality when compared to a higher quality JPG at it's required in-browser size.
