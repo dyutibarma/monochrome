@@ -203,10 +203,8 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
 
 <br>
 ### Results
-Feel free to download the analysis of our collected data if you're interested in the details. <a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>. In short > the results came out inconclusive. 
+Feel free to download the analysis of our collected data if you're interested in the details. <a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>. In short > the results came out inconclusive. Participants could not discern a visual disparity between the 3 images presents. We concluded this a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset. 
 > Participants could not discern a visual disparity between the 3 images presents
-
-We concluded this a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset. 
 
 ### Delivery Strategy      
 
