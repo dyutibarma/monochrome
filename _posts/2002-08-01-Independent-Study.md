@@ -90,5 +90,5 @@ When people are put in a situation where they are forced to work together, they 
 
 ### Bibliography
 
-Outward Bound: History. <a href="https://en.wikipedia.org/wiki/Outward_Bound">https://en.wikipedia.org/wiki/Outward_Bound.</a> 10/24/02. 
+Outward Bound: History. <a href="https://en.wikipedia.org/wiki/Outward_Bound">Wiki: Outward Bound.</a>10/28/02. 
 
