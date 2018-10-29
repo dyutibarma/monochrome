@@ -6,6 +6,9 @@ categories: [research]
 tags: []
 excerpt_separator: <!--more-->
 ---
+I wrote the following article when I was 18 -- I was empowered with the opportunity by my parents to go on a 14 day trip in the Sierra Nevada Mountain range through an Outward Bound program. Going on this trip, I decided to retain a daily journal; it it I cataloed the relationsips manifesting between myself and the rest of the group. Transposing this against Maslows Hierarchy of needs, I comprised the following distillation. 
+
+Guidance was provided by a highschool Psychology teacher. 
 <!--more-->
 
 ### Day by Day Outward Bound Course
