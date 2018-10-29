@@ -144,7 +144,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <h4>Image presets</h4>
  <table>
   <tr>
-    <th><//th>
+    <th></th>
     <th>Base</th>
     <th>1.5x</th>
     <th>2x</th>
