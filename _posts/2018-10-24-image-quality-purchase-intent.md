@@ -150,10 +150,10 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <th>2x</th>
   </tr>
   <tr>
-	<td>Image size</td>
-    	<td>2x3 ratio</td>
-    	<td>1.5x base</td>
-	<td>2x base</td>
+    <td>Image size</td>
+    <td>2x3 ratio</td>
+    <td>1.5x base</td>
+    <td>2x base</td>
   </tr>
   <tr>
 	<td>JPG Quality</td>
@@ -161,7 +161,7 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
   	<td>40%</td>
 	<td>25%</td>
   </tr>
-</table>
+ </table>
   </div>
   <div class="w3-col w3-container m6 l6">  
     <h4>Test Participants</h4>
