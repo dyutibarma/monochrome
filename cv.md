@@ -10,20 +10,6 @@ description: This is my curriculum vitae.
 <!-- The Grid -->
   <div class="w3-row-padding">
   
-<div class="w3-padding w3-white">
-  <h2>About</h2>
-Howdy, and welcome. I've been defining digital strategies and experiences for the suite of URBN e-commerce sites for over 5 years. I love the work I get to be a part of and the people with whom I am able to spend my days. Together we craft stories; we observe how users interact; we help design a useful and exciting internet shopping experience. 
-
-If you haven't, check out our sites and let me know where you find friction:
-
-* [Urban Outfitters](https://www.urbanoutfitters.com)
-* [Anthropologie](https://www.anthropologie.com)
-* [Free People](https://www.freepeople.com)
-
-</div>
-
----
-  
 <!-- Left Column -->
 <div class="w3-third">
 <div class="w3-white w3-text-grey w3-card-4">
