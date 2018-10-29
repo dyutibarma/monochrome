@@ -144,19 +144,22 @@ By increasing image size by 1.5x and decreasing JPG quality of an image to 40%, 
     <h4>Image presets</h4>
  <table>
   <tr>
+    <th><//th>
     <th>Base</th>
     <th>1.5x</th>
     <th>2x</th>
   </tr>
   <tr>
-    <td><Image size - 2x3 ratio</td>
-    <td>Image size - 1.5x base</td>
-    <td>Image size - 2x base</td>
+	<td>Image size</td>
+    	<td>2x3 ratio</td>
+    	<td>1.5x base</td>
+	<td>2x base</td>
   </tr>
   <tr>
-    <td>JPG quality - 87%</td>
-    <td>JPG quality - 40%</td>
-    <td>JPG quality - 25%</td>
+	<td>JPG Quality</td>
+  	<td>87%</td>
+  	<td>40%</td>
+	<td>25%</td>
   </tr>
 </table>
   </div>
