@@ -90,5 +90,5 @@ When people are put in a situation where they are forced to work together, they 
 
 ### Bibliography
 
-Outward Bound: History. http://www.ncobs.org/tellmemore/history.html. 10/24/02. 
+Outward Bound: History. <a href="http://www.ncobs.org/tellmemore/history.html">http://www.ncobs.org/tellmemore/history.html.</a> 10/24/02. 
 
