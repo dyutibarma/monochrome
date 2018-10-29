@@ -11,13 +11,18 @@ description: This is my curriculum vitae.
   <div class="w3-row-padding">
   
 <div class="w3-padding w3-white">
-  <h2>London</h2>
-  <p>London is the capital city of England. It is the most populous city in the United Kingdom,
-  with a metropolitan area of over 13 million inhabitants.</p>
-  <p>Standing on the River Thames, London has been a major settlement for two millennia,
-  its history going back to its founding by the Romans, who named it Londinium.</p>
-  <p>By the way, you can add a close icon to all containers if you want the ability to hide them. Look to your right!</p>
+  <h2>About</h2>
+Howdy, and welcome. I've been defining digital strategies and experiences for the suite of URBN e-commerce sites for over 5 years. I love the work I get to be a part of and the people with whom I am able to spend my days. Together we craft stories; we observe how users interact; we help design a useful and exciting internet shopping experience. 
+
+If you haven't, check out our sites and let me know where you find friction:
+
+* [Urban Outfitters](https://www.urbanoutfitters.com)
+* [Anthropologie](https://www.anthropologie.com)
+* [Free People](https://www.freepeople.com)
+
 </div>
+
+---
   
 <!-- Left Column -->
 <div class="w3-third">
