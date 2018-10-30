@@ -1,7 +1,7 @@
 ---
 title:  Saving Products to a List
 description: How to facilitate a frictionless shopping journey to enable customers to save items to a list for inspiration, purchase, and sharing. 
-header: Saving Products to sa list
+header: Saving Products to a list with ease
 categories: [ecommerce]
 tags: [portfolio, research, strategy]
 excerpt_separator: <!--more-->
@@ -30,5 +30,9 @@ Understanding customer inspiration and purchase intent can enable the business t
     ++ #UOList, ANList, FPList
     ++ #UOLove, ANLove, FPLove
 
-The business can influecne customers purchase decision by: 
-U
+---
+
+### Research & Insights
+
+
+
