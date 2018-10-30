@@ -45,13 +45,13 @@ Understanding customer inspiration and purchase intent can enable the business t
   <tr>
     <td>Listing Button Studt</td>
     <td>Prototype Usability Evaluation</td>
-    <td>* Identify which "Add to List" button provides a more efficient and frictionless experience<br>* Identify if confusion between heart and add to list persists</td>
+    <td>Identify which "Add to List" button provides a more efficient and frictionless experience<br>Identify if confusion between heart and add to list persists</td>
     <td>Listing Button Results</td>
   </tr>
   <tr>
     <td>Lists Study</td>
     <td>Unmoderated Remote Usability Evaluation</td>
-    <td><ul>Gain insight into listing intentions</ul><br><ul>Identify the value that listing provides</ul><br><ul>Understand if Wish List and Favorites have the same or different purpose and expectations</ul><br><ul>Gain insight into past purchase behavior from lists</ul><br><ul>Identify stores / retailers people utilize listing with</ul></td>
+    <td>Gain insight into listing intentions<br>Identify the value that listing provides<br>Understand if Wish List and Favorites have the same or different purpose and expectations<br>Gain insight into past purchase behavior from lists<br>Identify stores / retailers people utilize listing with</td>
     <td>Lists Study Results<br>Lists Study Presentation</td>
   </tr>
   <tr>
@@ -63,13 +63,13 @@ Understanding customer inspiration and purchase intent can enable the business t
   <tr>
     <td>Mobile Wish List Test<br>"Tap to Edit / Shop"</td>
     <td>Unmoderated Remote Usability Evaluation</td>
-    <td><ul>Identify if a visual affordance is needed</ul><br><ul>Identify if a visual affordance affects the user experience</ul></td>
+    <td>Identify if a visual affordance is needed<br>Identify if a visual affordance affects the user experience</td>
     <td>Mobile Web Wish List</td>
   </tr>
   <tr>
     <td>Lists Survey</td>
     <td>Specific Feature / Program Study</td>
-    <td><ul>Understand customers wants / desires from a listing feature</ul><br><ul>Identify customers perceptions of listing features</ul><br><ul>Gain insight into views on multiple listing features</ul><br><ul>Identify if customers understand a distinction between lists (ex. Wish List vs. Favorites)</ul><br><ul>Understand the social aspect of listing and / or if there is one</ul><br><ul>Understand how customers perceive "Likes"</ul><br><ul>Understand if "Likes" influence purchases</ul></td>
+    <td>Understand customers wants / desires from a listing feature<br>Identify customers perceptions of listing features<br>Gain insight into views on multiple listing features<br>Identify if customers understand a distinction between lists (ex. Wish List vs. Favorites)<br>Understand the social aspect of listing and / or if there is one<br>Understand how customers perceive "Likes"<br>Understand if "Likes" influence purchases</td>
     <td>Lists perspective survey results</td>
   </tr>
 </table>
