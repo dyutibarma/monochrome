@@ -34,5 +34,42 @@ Understanding customer inspiration and purchase intent can enable the business t
 
 ### Research & Insights
 
-
+<table>
+  <tr>
+    <th>Test</th>
+    <th>Type</th>
+    <th>Objectives</th>
+    <th>Results</th>
+  </tr>
+  <tr>
+    <td>Listing Button Studt</td>
+    <td>Prototype Usability Evaluation</td>
+    <td>* Identify which "Add to Lis" button provides a more efficient and frictionless experience<br>* Identify if confusion between heart and add to list persists</td>
+    <td>Listing Button Results</td>
+  </tr>
+  <tr>
+    <td>Lists Study</td>
+    <td>Unmoderated Remote Usability Evaluation</td>
+    <td>* Gain insight into listing intentions<br>* Identify the value that listing provides<br>* Understand if Wish List and Favorites have the same or different purpose and expectations<br>* Gain insight into past purchase behavior from lists<br>* Identify stores / retailers people utilize listing with</td>
+    <td>Lists Study Results<br>Lists Study Presentation</td>
+  </tr>
+  <tr>
+    <td>Mobile Wish List Test 2<br>Save vs. Update</td>
+    <td>Unmoderated Remote Usability Evaluation</td>
+    <td></td>
+    <td>Mobile wish list - presentation</td>
+  </tr>
+  <tr>
+    <td>Mobile Wish List Test<br>"Tap to Edit / Shop"</td>
+    <td>Unmoderated Remote Usability Evaluation</td>
+    <td>* Identify if a visual affordance is needed<br>* Identify if a visual affordance affects the user experience</td>
+    <td>Mobile Web Wish List</td>
+  </tr>
+  <tr>
+    <td>Lists Survey</td>
+    <td>Specific Feature / Program Study</td>
+    <td>* Understand customers wants / desires from a listing feature<br>* Identify customers perceptions of listing features<br>* Gain insight into views on multiple listing features<br>* Identify if customers understand a distinction between lists (ex. Wish List vs. Favorites)<br>* Understand the social aspect of listing and / or if there is one<br>* Understand how customers perceive "Likes"<br>* Understand if "Likes" influence purchases</td>
+    <td>Lists perspective survey results</td>
+  </tr>
+</table>
 
