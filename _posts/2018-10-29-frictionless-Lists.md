@@ -16,18 +16,18 @@ Creating a frictionless method of product collection built on a social graph dat
 + user intent
 + user purchase behaviour
 Understanding customer inspiration and purchase intent can enable the business to: 
-# Send trigger emails based on inventory or sales of saved items.
-# Provide recommendations contextual to the shoppers journey. 
-# Reminder shoppers of saved items that are low inventory, on sale, or complimentary to their current cart
-# Create lists dynamically based on most collected items
+1. Send trigger emails based on inventory or sales of saved items.
+2. Provide recommendations contextual to the shoppers journey. 
+3. Reminder shoppers of saved items that are low inventory, on sale, or complimentary to their current cart
+4. Create lists dynamically based on most collected items
 
 ### Customer Opportunity
 + Collect products without limits
 ** Where limit = the requirement of creating a SKU prior to adding an item to list (the classic wish list model)
 + Explore shopping / inspiration lists of their peers
-+ Collect goods from Instagram via a branded hashtag. Example:
-** #UOList, ANList, FPList
-** #UOLove, ANLove, FPLove
++ Collect goods from Instagram via a branded hashtag. Example: 
+++ #UOList, ANList, FPList
+++ #UOLove, ANLove, FPLove
 
 The business can influecne customers purchase decision by: 
 U
