@@ -37,3 +37,9 @@ version: "1.0.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+# Collections
+collections:
+  - blog
+  - education
+  - portfolio
