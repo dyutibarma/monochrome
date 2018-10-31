@@ -2,8 +2,8 @@
 title:  Image Quality & Purchase Intent
 description: Overview of the perception of quality and delivering the appropriate quality image based on a customers liklihood to purchase
 header: Image Quality & Purchase Intent
-categories: [ecommerce]
-tags: [portfolio, research]
+categories: [portfolio, blog]
+tags: [ecommerce, research]
 excerpt_separator: <!--more-->
 ---
 
