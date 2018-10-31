@@ -2,8 +2,8 @@
 title:  Saving Products to a List
 description: How to facilitate a frictionless shopping journey to enable customers to save items to a list for inspiration, purchase, and sharing. 
 header: Saving Products to a list with ease
-categories: [ecommerce]
-tags: [portfolio, research, strategy]
+categories: [portfolio]
+tags: [ecommerce, research, strategy]
 excerpt_separator: <!--more-->
 ---
 
