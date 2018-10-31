@@ -3,7 +3,7 @@
 // -- Put custom style under this point -- //
 
 /* -- Buttons -- */
-.button {
+.button-light {
 	background-color: #ddd;
 	border: none;
 	color: #000;
@@ -15,9 +15,26 @@
 	cursor: pointer;
 }
 
-.button:hover {
-    background-color: #f1f1f1;
+.button-light:hover {
+	background-color: #f1f1f1;
 }
+
+.button-dark {
+	background-color: #101010;
+	border: none;
+	color: #ffffff;
+	padding: 10px 20px;
+    	text-align: center;
+ 	text-decoration: none;
+    	display: inline-block;
+    	margin: 4px 2px;
+   	cursor: pointer;
+    	margin-bottom: 10px;
+}
+
+.button-dark:hover {
+    	background-color: #d3d3d3;
+    	color: inherit;
 
 /*- newspaper columns -*/
 .newspaperBAD {
