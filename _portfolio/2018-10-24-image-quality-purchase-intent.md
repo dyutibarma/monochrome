@@ -5,6 +5,7 @@ header: Image Quality & Purchase Intent
 image: coianac.github.io/img/proto-1.jpg
 categories: [portfolio]
 tags: [ecommerce, research]
+layout: portfolio
 excerpt_separator: <!--more-->
 ---
 
