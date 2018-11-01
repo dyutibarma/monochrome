@@ -5,6 +5,7 @@ header: Saving Products to a list with ease
 image: coianac.github.io/img/proto-2.jpg
 categories: [portfolio]
 tags: [ecommerce, research, strategy]
+layout: portfolio
 excerpt_separator: <!--more-->
 ---
 
