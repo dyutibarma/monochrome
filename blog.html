@@ -5,7 +5,8 @@ description: Most recent blog posts.
 ---
 
 {% for portfolio in site.portfolio %}
-  <h3><a href="{{ portfolio.url }}">{{ portfolio.title }}</a></h3>
+  <img src="{{ portfolio.url }}" alt="{{ portfolio.image }}">  
+  <h3><a href="">{{ portfolio.title }}</a></h3>
 {% endfor %}
 
 {% for blog in site.blog %}
