@@ -7,7 +7,6 @@ description: Article posts.
 
 {% for post in site.posts %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p><i>{{ post.content }}</i></p>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
       {{ post.excerpt }}
 {% endfor %}
