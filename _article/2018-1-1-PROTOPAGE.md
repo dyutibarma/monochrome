@@ -1,4 +1,5 @@
 ---
+category: [article]
 excerpt_separator: <!--more-->
 ---
 
