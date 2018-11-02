@@ -4,6 +4,7 @@ description: Light overview of usability heuristics including a tool for conduct
 header: Heuritist Evaluations; An overview and tool
 category: [article]
 tags: [design, usability, tools, education]
+date: 2018-09-10
 layout: post
 ---
 
