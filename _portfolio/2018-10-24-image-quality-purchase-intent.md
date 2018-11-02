@@ -3,7 +3,7 @@ title:  Image Quality & Purchase Intent
 description: Overview of the perception of quality and delivering the appropriate quality image based on a customers liklihood to purchase
 header: Image Quality & Purchase Intent
 image: coianac.github.io/img/proto-1.jpg
-snippet: Resaerch, analysis, and strategy for delivering high quality images without bloating image size
+snippet: Research, analysis, and strategy for delivering high quality images without bloating image size
 categories: [portfolio]
 tags: [ecommerce, research]
 layout: portfolio
