@@ -40,9 +40,7 @@ reverse: false
 
 # Collections
 collections:
- blog:
+ article:
     output: true
- education:
-   output: true
  portfolio:
    output: true
