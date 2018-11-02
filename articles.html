@@ -5,11 +5,7 @@ description: Article posts.
 ---
 
 
-{% for post in site.posts %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
-      {{ post.excerpt }}
-{% endfor %}
+
 
 <div class="w3-container w3-content" style="max-width:980px">
   <div class="w3-white">
@@ -28,3 +24,9 @@ description: Article posts.
   </div>
 </div>
 </div>
+
+{% for post in site.posts %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
+      {{ post.excerpt }}
+{% endfor %}
