@@ -3,6 +3,7 @@ title: underConstruction | Excuse the mess, I'm learning
 description: This is an introduction to thereviewindex.com.
 header: UnderConstruction | Excuse the mess, I'm learning
 category: [article]
+date: 2018-10-01
 layout: post
 ---
 
