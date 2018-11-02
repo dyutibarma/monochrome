@@ -23,6 +23,15 @@ description: Article posts.
 </div>
 
 {% for article in site.article %}
+  <h2>
+    <a href="{{ article.url }}">
+      {{ article.title }}
+    </a>
+  </h2>
+  <p>{{ article.content | markdownify }}</p>
+{% endfor %}
+                                                                              
+{% for article in site.article %}
   <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
     <p><i>{{ article.tags }}</i></p>
     <time datetime="{{ article.date | date_to_xmlschema }}" class="by-line"> <i>{{ article.date | date_to_string }}</i> </time>
