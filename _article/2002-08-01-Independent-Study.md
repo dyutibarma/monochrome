@@ -5,6 +5,7 @@ header: 2002 Independent Study -- Maslows Hierarchy of Needs
 category: [article]
 tags: [research, group life]
 layout: post
+date: 2002-08-01
 excerpt_separator: <!--more-->
 ---
 I wrote the following article when I was 18 -- I was empowered with the opportunity by my parents to go on a 14 day trip in the Sierra Nevada Mountain range through an Outward Bound program. Going on this trip, I decided to retain a daily journal; it it I cataloed the relationsips manifesting between myself and the rest of the group. Transposing this against Maslows Hierarchy of needs, I comprised the following distillation. 
