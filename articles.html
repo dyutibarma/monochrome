@@ -22,14 +22,9 @@ description: Article posts.
 </div>
 </div>
 
-{% for blog in site.blog %}
-  <h3><a href="{{ blog.url }}">{{ blog.title }}</a></h3>
-    <p><i>{{ blog.tags }}</i></p>
-    <time datetime="{{ blog.date | date_to_xmlschema }}" class="by-line"> <i>{{ blog.date | date_to_string }}</i> </time>
-      {{ blog.excerpt }}
-{% endfor %}
-
-{% for education in site.education %}
-<h3><a href="{{ education.url }}">{{ education.title }}</a><h3>
-  <p><i>{{ education.tags }}</i></p>
+{% for blog in site.article %}
+  <h3><a href="{{ article.url }}">{{ blog.title }}</a></h3>
+    <p><i>{{ article.tags }}</i></p>
+    <time datetime="{{ article.date | date_to_xmlschema }}" class="by-line"> <i>{{ article.date | date_to_string }}</i> </time>
+      {{ article.excerpt }}
 {% endfor %}
