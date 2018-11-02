@@ -4,12 +4,6 @@ title: Articles
 description: Article posts.
 ---
 
-{% for article in site.article %}
-  <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
-    <p><i>{{ article.content }}</i></p>
-    <time datetime="{{ article.date | date_to_xmlschema }}" class="by-line"> <i>{{ article.date | date_to_string }}</i> </time>
-      {{ article.excerpt }}
-{% endfor %}
 
 <div class="w3-container w3-content" style="max-width:980px">
   <div class="w3-white">
