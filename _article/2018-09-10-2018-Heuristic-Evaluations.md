@@ -2,7 +2,7 @@
 title:  Heuristic Evaluations; An overview and tool
 description: Light overview of usability heuristics including a tool for conducting a heuristic evaluation
 header: Heuritist Evaluations; An overview and tool
-categories: [article]
+category: [article]
 tags: [design, usability, tools, education]
 layout: post
 ---
