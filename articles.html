@@ -24,14 +24,14 @@ description: Article posts.
                                                                               
 {% for article in site.article %}
   <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
-    <p><i>{{ article.tags }}</i></p>
+    <p><i>{{ article.content }}</i></p>
     <time datetime="{{ article.date | date_to_xmlschema }}" class="by-line"> <i>{{ article.date | date_to_string }}</i> </time>
       {{ article.excerpt }}
 {% endfor %}
                                                                            
 {% for article in site.article %}
   <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
-    <p><i>{{ article.category }}</i></p>
+    <p><i>{{ article.content }}</i></p>
     <time datetime="{{ article.date | date_to_xmlschema }}" class="by-line"> <i>{{ article.date | date_to_string }}</i> </time>
       {{ article.excerpt }}
 {% endfor %}
