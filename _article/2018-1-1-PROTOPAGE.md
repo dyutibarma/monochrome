@@ -1,5 +1,6 @@
 ---
 category: [article]
+layout: post
 excerpt_separator: <!--more-->
 ---
 
