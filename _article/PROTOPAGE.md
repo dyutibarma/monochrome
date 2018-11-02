@@ -1,6 +1,7 @@
 ---
 category: [article]
 layout: post
+date: 2018-08-01
 excerpt_separator: <!--more-->
 ---
 
