@@ -2,7 +2,7 @@
 title:  2002 Independent Study -- Maslows Hierarchy of Needs
 description: A personal account and analysis of relationships during a 2 week backcountry trip with Outwardbound
 header: 2002 Independent Study -- Maslows Hierarchy of Needs
-categories: [blog]
+categories: [article]
 tags: [research, group life]
 layout: post
 excerpt_separator: <!--more-->
