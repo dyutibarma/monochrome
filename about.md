@@ -3,14 +3,10 @@ layout: page
 title: About
 description: This page is about me.
 ---
-## About
-Howdy, and welcome. I've been defining digital strategies and experiences for the suite of URBN e-commerce sites for over 5 years. I love the work I get to be a part of and the people with whom I am able to spend my days. Together we craft stories; we observe how users interact; we help design a useful and exciting internet shopping experience. 
+# Hi, I'm Nicolas 👋
+Currently, I’m a lead designer and mentor for the suite of e-commerce sites under the URBN umbrella. I specialize in personalization, listing, and the users journey from inspiration to purchase. During my time with URBN, I designed and launched the companies first fully responsive website, WithoutWalls — it is currently a defunct business, but we still use a lot of the design principles that I laid a foundation for.
 
-If you haven't, check out our sites and let me know where you find friction:
-
-* [Urban Outfitters](https://www.urbanoutfitters.com)
-* [Anthropologie](https://www.anthropologie.com)
-* [Free People](https://www.freepeople.com)
+If you’re interested in heuristics, see my post on the heuristic evaluation tool I put together while I entered with Think Company — We’ve been using it at URBN to qualify our experiences. Additionally, I’ve presented a light weight intro to heuristic eval’s to students at Temple Universitys Management Information Science program’s User Experience Course.
 
 
 ![T.Hanks](coianac.github.io/img/thanks.gif)
