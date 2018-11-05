@@ -44,3 +44,6 @@ collections:
     output: true
  portfolio:
    output: true
+   
+# Google Analytics
+google_analytics: UA-24187267-2
