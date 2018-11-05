@@ -9,4 +9,4 @@ Currently, I’m a lead designer and mentor for the suite of e-commerce sites un
 If you’re interested in heuristics, see my post on the heuristic evaluation tool I put together while I entered with Think Company — We’ve been using it at URBN to qualify our experiences. Additionally, I’ve presented a light weight intro to heuristic eval’s to students at Temple Universitys Management Information Science program’s User Experience Course.
 
 
-![T.Hanks](coianac.github.io/img/thanks.gif)
+![T.Hanks](coianac.github.io/img/thanks.gif) 
