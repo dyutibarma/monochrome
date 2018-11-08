@@ -89,7 +89,35 @@ p, ul, ol {
 	line-height: 1.8em;
 	margin-bottom: 1.3334em; /* 24px/18px */
 }
+hr { 
+    	display: block;
+    	margin-top: 0.5em;
+    	margin-bottom: 0.5em;
+    	margin-left: auto;
+    	margin-right: auto;
+    	border-style: inset;
+    	border-width: .5px;
+    	border-color: #B9E2AE;
+} 
 
+hr-dash { 
+   	display: block;
+    	margin-top: 0.5em;
+    	margin-bottom: 0.5em;
+    	margin-left: auto;
+    	margin-right: auto;
+    	border-style: inset;
+	border-width: .5px;
+	border-color: #B9E2AE;
+	border-style: dashed;
+}
+	
+h0 {	font-family : "Nanum Myeongjo", serif;
+	font-size: 4.286em; /* 60px */
+	line-height: 0;
+	padding: 0 0 0 0;
+}
+	
 h1 {
 	font-size: 3em; /* 42px/18px */
 	font-weight: 500;
