@@ -112,16 +112,6 @@ hr-dash {
 	border-style: dashed;
 }
 	
-/*-
-header {
-	font-family : "Nanum Myeongjo", serif;
-	font-size: 4.286em; /* 60px 
-	line-height: 0;
-	padding: 0 0 0 0;
-	color: #485744;
-} -*/
-
-
 h1 {
 	font-size: 3em; /* 42px/18px */
 	font-weight: 500;
@@ -178,4 +168,12 @@ blockquote {
 		padding: 1.5em 0; /* 24px/18px */
 	}
 }
+}
+
+main-title {
+	font-family : "Nanum Myeongjo", serif;
+	font-size: 4.286em; /* 60px */
+	line-height: 0;
+	padding: 0 0 0 0;
+	color: #485744;
 }
