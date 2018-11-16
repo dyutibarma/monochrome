@@ -133,47 +133,45 @@ layout: portfolio
  
  <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="coianac.github.io/img/devynGalindo.jpg">
-      <img src="coianac.github.io/img/devynGalindo.jpg" alt="Devyn Galindo">
+    <a target="_blank" href="https://coianac.github.io/img/devynGalindo.jpg">
+      <img src="https://coianac.github.io/img/devynGalindo.jpg" alt="Devyn Galindo">
     </a>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank"href="coianac.github.io/img/mikaOsborn.jpg">
-      <img src="coianac.github.io/img/mikaOsborn.jpg" alt="Mika Osborn">
+    <a target="_blank" href="https://coianac.github.io/img/mikaOsborn.jpg">
+      <img src="https://coianac.github.io/img/mikaOsborn.jpg" alt="Mika Osborn">
     </a>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank"href="coianac.github.io/img/taylorSaya.jpg">
-      <img src="coianac.github.io/img/taylorSaya.jpg" alt="Taylor Saya">
+    <a target="_blank" href="https://coianac.github.io/img/taylorSaya.jpg">
+      <img src="https://coianac.github.io/img/taylorSaya.jpg" alt="Taylor Saya">
     </a>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank"href="coianac.github.io/img/mattOwen.jpg">
-      <img src="coianac.github.io/img/mattOwen.jpg" alt="Matt Owen">
+    <a target="_blank" href="https://coianac.github.io/img/mattOwen.jpg">
+      <img src="https://coianac.github.io/img/mattOwen.jpg" alt="Matt Owen">
     </a>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank"href="coianac.github.io/img/joannaEwing2.jpg">
-      <img src="coianac.github.io/img/joannaEwing2.jpg" alt="Joanna Ewing">
+    <a target="_blank" href="https://coianac.github.io/img/joannaEwing2.jpg">
+      <img src="https://coianac.github.io/img/joannaEwing2.jpg" alt="Joanna Ewing">
     </a>
   </div>
 </div>
 
 <div class="clearfix"></div>
-
-</div>
 
 <h4>Category Page & Image Zoom Views</h4>
 <p>We put together sumulated views of a category page and image zoom for participants to select which image they felt was of the best quality.</p>
