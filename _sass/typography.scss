@@ -80,11 +80,13 @@ blockquote {
 
 @media (min-width: 940px) { //Breakpoint set to 940px
 
-/* p, ul, ol {
-	font-size: 1em; /* 14px /
-	line-height: 2.071em; /* 29px /
-	margin-bottom: 0.714em; /* 10px /
-} */
+p, ul, ol {
+	font-size: 18px; /* 18px */
+	font-weight: 300;
+	letter-spacing: 0.84px;
+	line-height: 29px; /* 29px */
+	margin-bottom: 10px; /* 10px */
+} 
 hr { 
     	display: block;
     	margin-top: 0.5em;
