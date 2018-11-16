@@ -86,8 +86,8 @@ This is a space for testing new pieces of HTML, CSS, JS.
 ###### Header Level 6
 <label-1>this is a label 1</label-1>
 <label-2>this is a label 2</label-2>
-<cta>click HERE</cta>
-<lbl-button>just a button label</lbl-button>
+<primary-button>click HERE</primary-button>
+<pill>strategy</pill>
 <lbl-table-title>title for a table</lbl-table-title>
 <lbl-table-text>table text</lbl-table-text>
 ---
