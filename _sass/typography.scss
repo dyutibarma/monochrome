@@ -147,7 +147,8 @@ h3 {
 	font-weight: bold;
  	letter-spacing: 0.84px; /* 0.84px */
 	line-height: 29px; /* 29px */
-	padding: 0 0 30px 0; /* 30px */
+	padding: 0 0 0 0; /* 30px */
+	margin: 0 0 30px 0;
 }
 
 h4 {
@@ -156,7 +157,8 @@ h4 {
 	font-weight: 800;
  	letter-spacing: .75px; /* 0.75px */
 	line-height: 19px; /* 19px */
-	padding: 0 0 30px 0; /* 30px */
+	padding: 0 0 20px 0; /* 30px */
+	margin: 30px 0 0 0;
 }
 
 h5 {
