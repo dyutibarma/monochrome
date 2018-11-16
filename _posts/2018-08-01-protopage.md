@@ -52,7 +52,7 @@ This is a space for testing new pieces of HTML, CSS, JS.
 
 ---
 
-<div class="responsive">
+<div class="responsive block">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$">
       <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$" alt="Mathilda">
