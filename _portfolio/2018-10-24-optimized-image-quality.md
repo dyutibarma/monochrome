@@ -129,7 +129,7 @@ layout: portfolio
  
  <h4>Test Participants</h4>
  <p>Invitations were sent out at Urban Outfitters headquarters to cull image experts and laypeople alike.</p>
- <quoteblock>37 image and creative professional participants attended the study</quoteblock>
+ <blockquote>37 image and creative professional participants attended the study</blockquote>
  
  <div class="responsive">
   <div class="gallery">
