@@ -196,18 +196,21 @@ label-2 {
     	line-height: 16px; /* 16px */
     	padding: 0 0 5px 0; /* 5px */
 }
-cta {
+primary-button {
     	font-size: 18px;
     	font-weight: bold;
     	letter-spacing: 0.84px; /* .84px */
     	line-height: 29px; /* 29px */
     	padding: 0 0 5px 0; /* 5px */
 }
-lbl-button {
-    	font-size: 12px;
+pill {
+	font-size: 12px;
     	letter-spacing: 0.56px; /* .56px */
     	line-height: 29px; /* 29px */
-    	padding: 0 0 5px 0; /* 5px */
+    	padding: 5px 5px 5px 5px;
+    	border: 1px solid;
+    	border-color: #E8E7D7;
+    	background-color: #FEFDF3;
 }
 lbl-table-title {
     	font-size: 16px;
