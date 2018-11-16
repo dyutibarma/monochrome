@@ -91,6 +91,12 @@ This is a space for testing new pieces of HTML, CSS, JS.
 <pill>strategy</pill>
 <lbl-table-title>title for a table</lbl-table-title>
 <lbl-table-text>table text</lbl-table-text>
+
+<div class="block">
+  <h4>Typography</h4>
+  <p>Both the serif and non-serif font sets are based on a 14 pixel standard body copy – meaning the proceeding em values are formed off 1em=14px.</p>
+</div>
+
 ---
 >Block Quote
 
