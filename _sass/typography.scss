@@ -213,20 +213,29 @@ pill {
 	border-color: #E8E7D7;
     	background-color: #FEFDF3;
 }
-lbl-table-title {
+table-title {
     	font-size: 16px;
     	font-weight: bold;
     	letter-spacing: 0.74px; /* .74px */
     	line-height: 29px; /* 29px */
     	padding: 0 0 10px 0; /* 10px */
 }
-lbl-table-text {
+table-text {
     	font-size: 16px;
     	letter-spacing: .74px; /* .74px */
     	line-height: 29px; /* 29px */
     	padding: 0 0 10px 0; /* 10px */
 }
 
+.block {
+	background-color: #ECFEE7;
+    	border-top: 1px dashed;
+    	border-top-color: #CFEBC7;
+    	border-bottom: 1px solid;
+    	border-bottom-color: #CFEBC7;
+    	padding: 50px 0 50px 0;
+}
+	
 blockquote {
 	font-size: .9em; /* 14pt */
 	font-style: italic;
