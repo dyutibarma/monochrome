@@ -11,7 +11,7 @@ layout: portfolio
 
 <h1>optimized.image.delivery</h1>
 
-<div class="block">
+<div class="block-head">
 <h5>User Story</h5>
 <p>As a shopper, I want my pages to load quicker.</p>
 <p>As the brand, we want to decrease our yearly Akamai costs.</p>
