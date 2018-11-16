@@ -51,8 +51,8 @@ This is a space for testing new pieces of HTML, CSS, JS.
 <div class="clearfix"></div>
 
 ---
-
-<div class="responsive block">
+<div class="block">
+<div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$">
       <img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$" alt="Mathilda">
@@ -77,6 +77,7 @@ This is a space for testing new pieces of HTML, CSS, JS.
   </div>
 </div>
 <div class="clearfix"></div>
+</div>
 
 # Header Level 1
 ## Header Level 2
