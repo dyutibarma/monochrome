@@ -84,6 +84,12 @@ This is a space for testing new pieces of HTML, CSS, JS.
 #### Header Level 4
 ##### Header Level 5
 ###### Header Level 6
+<label-1>this is a label 1</label-1><br>
+<label-2>this is a label 2</label-2><br>
+<cta>click HERE</cta><br>
+<lbl-button>just a button label</lbl-button><br>
+<lbl-table-title>title for a table</lbl-table-title><br>
+<lbl-table-text>table text</lbl-table-text>
 ---
 >Block Quote
 
