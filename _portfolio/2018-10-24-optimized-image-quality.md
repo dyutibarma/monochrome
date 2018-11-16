@@ -11,10 +11,20 @@ layout: portfolio
 
 <h1>optimized.image.delivery</h1>
 
-<div class="block-head">
-<h5>User Story</h5>
-<p>As a shopper, I want my pages to load quicker.</p>
-<p>As the brand, we want to decrease our yearly Akamai costs.</p>
+<div class="w3-row block-head">
+ <div class="w3-full w3-container">
+    <div class="w3-row">
+      <div class="w3-quarter w3-container">
+      </div>
+      <div class="w3-half w3-container">
+	<h5>User Story</h5>
+	<p>As a shopper, I want my pages to load quicker.</p>
+	<p>As the brand, we want to decrease our yearly Akamai costs.</p>
+	</div>
+<div class="w3-quarter w3-container">
+      </div>
+    </div>
+  </div>
 </div>
 
 <pill>research</pill><pill>optimization</pill><pill>strategy</pill><pill>eCommerce</pill>
