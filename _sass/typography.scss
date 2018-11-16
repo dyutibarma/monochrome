@@ -66,21 +66,14 @@ h6 {
 }
 
 blockquote {
-	font-size: .9em; /* 14pt */
-	font-style: italic;
-	font-wight: 100;
-	color: #6B8E23;
-	margin: 1.5em; /* 24px/18px */
-	-webkit-border-radius: 0px;
-	   -moz-border-radius: 0px;
-	    -ms-border-radius: 0px;
-          border-radius: 0px;
-	border-left: solid #556B2F;
-	background-color: darken($background-color, 5%);
-	padding: 0 1.5em; /* 24px/18px */
-	p, ul, ol {
-		padding: 1.5em 0; /* 24px/18px */
-	}
+	font-family: 'nanum myeongjo';
+	font-size: 15px;
+    	letter-spacing: 0.74px;
+	line-height: 29px;
+    	padding: 20px 20px 20px 20px;
+	border-bottom: 1px dashed;
+    	border-color: #E8E7D7;
+    	background-color: #FEFDF3;
 }
 
 /*- Typography for big screen, based on 14px font-size -*/
