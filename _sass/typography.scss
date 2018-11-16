@@ -118,21 +118,21 @@ hr-dash {
 h1 {
 	font-family : "Nanum Myeongjo", serif;
 	font-size: 4.3em; /* 60px */
-	font-style: bold;
+	font-weight: bold;
 	letter-spacing: 0.06em; /* 0.84px */
 	line-height: 2.071em; /* 29px */
-	font-color: #485744;
-	padding: 0 0 4.3em 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
+	color: #485744;
+	padding: 0 0 60px 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
 h2 {
-    font-family : "Nanum Myeongjo", serif;
-    font-size: 2.6em;
-    font-style: bold;
-    letter-spacing: .06em;
-    line-height: 2.071em;
-    font-color: #485744;
-    padding: 0 0 2.857em 0;
+    	font-family : "Nanum Myeongjo", serif;
+	font-size: 2.6em;
+    	font-weight: bold;
+    	letter-spacing: .84px;
+    	line-height: 29px;
+    	color: #485744;
+    	padding: 0 0 40px 0;
 }
 	
 /* h2 {
@@ -148,79 +148,79 @@ h2 {
 h3 {
 	font-family : "Nanum Myeongjo", serif;
 	font-size: 1.75em; /* 24px */
-	font-style: bold;
- 	letter-spacing: 0.06em; /* 0.84px */
-	line-height: 2.071em; /* 29px */
-	padding: 0 0 2.143em 0; /* 30px */
+	font-weight: bold;
+ 	letter-spacing: 0.84px; /* 0.84px */
+	line-height: 29px; /* 29px */
+	padding: 0 0 30px 0; /* 30px */
 }
 
 h4 {
 	font-family : "Nanum Myeongjo", serif;
 	font-size: 1.3em; /* 18px */
-	font-weight: 400;
- 	letter-spacing: 0.054em; /* 0.75px */
-	line-height: 1.357em; /* 19px */
-	padding: 0 0 2.143em 0; /* 30px */
+	font-weight: normal;
+ 	letter-spacing: .75px; /* 0.75px */
+	line-height: 19px; /* 19px */
+	padding: 0 0 30px 0; /* 30px */
 }
 
 h5 {
 	font-family : "Nanum Myeongjo", serif;
 	font-size: 1.2em; /* 16px */
-	font-weight: 800;
-	letter-spacing: 0.054em; /* 0.75px */
-	line-height: 1.357em; /* 19px */
-	padding: 0 0 1.429em 0; /* 20px */
+	font-weight: bolder;
+	letter-spacing: 0.75px; /* 0.75px */
+	line-height: 19px; /* 19px */
+	padding: 0 0 20px 0; /* 20px */
 }
 	
 h6 {
 	font-family : "Nanum Myeongjo", serif;
 	font-size: 1em; /* 14px */
-	font-weight: 400;
-	letter-spacing: 0.046em; /* 0.65px */
-	line-height: 2.071em; /* 29px */
-	padding: 0 0 1.429em 0; /* 20px */
+	font-weight: normal;
+	letter-spacing: .65px; /* 0.65px */
+	line-height: 29px; /* 29px */
+	padding: 0 0 20px 0; /* 20px */
 }
 
 label-1 {
-    font-size: 1em;
-    font-weight: 300;
-    letter-spacing: 0.046em; /* .65px */
-    line-height: 1.43em; /* 20px */
-    padding: 0 0 0.357em 0; /* 5px */
+    	font-size: 1em;
+    	font-weight: lighter;
+    	letter-spacing: .65px; /* .65px */
+    	line-height: 20px; /* 20px */
+    	padding: 0 0 5px 0; /* 5px */
 }
 label-2 {
-    font-size: 14px;
-    font-weight: 300;
-    color: #9B9B9B;
-    letter-spacing: 0.046em; /* .65px */
-    line-height: 1.143em; /* 16px */
-    padding: 0 0 0.357em 0; /* 5px */
+    	font-size: 14px;
+    	font-weight: lighter;
+    	color: #9B9B9B;
+    	letter-spacing: 0.65px; /* .65px */
+    	line-height: 16px; /* 16px */
+    	padding: 0 0 5px 0; /* 5px */
 }
 cta {
-    font-size: 18px;
-    font-style: medium;
-    letter-spacing: 0.06em; /* .84px */
-    line-height: 2.071em; /* 29px */
-    padding: 0 0 0.357em 0; /* 5px */
+    	font-size: 18px;
+    	font-weight: bold;
+    	letter-spacing: 0.84px; /* .84px */
+    	line-height: 29px; /* 29px */
+    	padding: 0 0 5px 0; /* 5px */
 }
 lbl-button {
-    font-size: 12px;
-    letter-spacing: 0.04em; /* .56px */
-    line-height: 2.071em; /* 29px */
-    padding: 0 0 0.357em 0; /* 5px */
+    	font-size: 12px;
+    	letter-spacing: 0.56px; /* .56px */
+    	line-height: 29px; /* 29px */
+    	padding: 0 0 5px 0; /* 5px */
 }
 lbl-table-title {
-    font-size: 16px;
-    font-style: medium;
-    letter-spacing: 0.053em; /* .74px */
-    line-height: 2.071em; /* 29px */
-    padding: 0 0 0.714em 0; /* 10px */
+    	font-size: 16px;
+    	font-weight: bold;
+    	letter-spacing: 0.74px; /* .74px */
+    	line-height: 29px; /* 29px */
+    	padding: 0 0 10px 0; /* 10px */
 }
 lbl-table-text {
-    font-size: 16px;
-    letter-spacing: 0.053em; /* .74px */
-    line-height: 2.071em; /* 29px */
-    padding: 0 0 0.714em 0; /* 10px */
+    	font-size: 16px;
+    	letter-spacing: .74px; /* .74px */
+    	line-height: 29px; /* 29px */
+    	padding: 0 0 10px 0; /* 10px */
 }
 
 blockquote {
