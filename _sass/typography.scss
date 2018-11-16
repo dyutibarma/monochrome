@@ -5,11 +5,14 @@
 
 body
 {
-  font-family : "Nanum Myeongjo", "Helvetica Neue", "Helvetica", "Arial", serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size   : 14px;
-  color: #333;
+	font-family : "roboto", "Helvetica Neue", "Helvetica", "Arial", serif;
+  	// font-style: light;
+ 	font-weight: 300;
+ 	font-size: 18px;
+ 	color: #333;
+	letter-spacing: 0.84px;
+	line-height: 2.071em; /* 29px */
+	margin-bottom: 0.714em; /* 10px */
 }
 
 /*- Typography for medium and small screen, based on 16px font-size -*/
@@ -80,14 +83,14 @@ blockquote {
 	}
 }
 
-/*- Typography for big screen, based on 18px font-size -*/
+/*- Typography for big screen, based on 14px font-size -*/
 
 @media (min-width: 940px) { //Breakpoint set to 940px
 
 p, ul, ol {
-	font-size: .9em; /* 14px */
-	line-height: 1.8em;
-	margin-bottom: 1.3334em; /* 24px/18px */
+	font-size: 1.3em; /* 18px */
+	line-height: 2.071em; /* 29px */
+	margin-bottom: 0.714em; /* 10px */
 }
 hr { 
     	display: block;
@@ -113,44 +116,103 @@ hr-dash {
 }
 	
 h1 {
-	font-size: 3em; /* 42px/18px */
-	font-weight: 500;
-	line-height: 1.8em;
-	padding: 0.25em 0; /* 12px/48px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+	font-family : "Nanum Myeongjo", serif;
+	font-size: 4.3em; /* 60px */
+	font-style: bold;
+	letter-spacing: 0.06em; /* 0.84px */
+	line-height: 2.071em; /* 29px */
+	font-color: #485744;
+	padding: 0 0 4.3em 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
 h2 {
-	font-size: 2.143em; /* 30px */
-	line-height: 1.8em;
-	padding: 0.66667em 0 0 0; /* 12px/36px * 2, pnly top (Use padding instead of margin to maintain proximity with paragraph) */
+	font-family : "Nanum Myeongjo", serif;
+	font-size: 2.6em; /* 36px */
+	font-style: bold;
+ 	letter-spacing: 0.06em; /* 0.84px */
+	line-height: 2.071em; /* 29px */
+	font-color: #485744
+	padding: 0 0 2.857em 0; /* 40px */
 }
 
 h3 {
-	font-size: 1.5em; /* 21px */
-	line-height: 1.8em;
-	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+	font-family : "Nanum Myeongjo", serif;
+	font-size: 1.75em; /* 24px */
+	font-style: bold;
+ 	letter-spacing: 0.06em; /* 0.84px */
+	line-height: 2.071em; /* 29px */
+	padding: 0 0 2.143em 0; /* 30px */
 }
 
 h4 {
-	font-size: 1.286em; /* 18px */
-	font-weight: 300;
-	line-height: 1.8em;
-	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+	font-family : "Nanum Myeongjo", serif;
+	font-size: 1.3em; /* 18px */
+	font-weight: 400;
+ 	letter-spacing: 0.054em; /* 0.75px */
+	line-height: 1.357em; /* 19px */
+	padding: 0 0 2.143em 0; /* 30px */
 }
 
 h5 {
-	font-size: 1em; /* 14px */
-	font-weight: 300;
-	line-height: 1.8em;
-	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+	font-family : "Nanum Myeongjo", serif;
+	font-size: 1.2em; /* 16px */
+	font-weight: 800;
+	letter-spacing: 0.054em; /* 0.75px */
+	line-height: 1.357em; /* 19px */
+	padding: 0 0 1.429em 0; /* 20px */
 }
 	
 h6 {
-	font-size: .857em; /* 12px */
-	font-weight: 600;
-	line-height: 1.8em;
-	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+	font-family : "Nanum Myeongjo", serif;
+	font-size: 1em; /* 14px */
+	font-weight: 400;
+	letter-spacing: 0.046em; /* 0.65px */
+	line-height: 2.071em; /* 29px */
+	padding: 0 0 1.429em 0; /* 20px */
 }
+
+label-1 {
+    font-size: 1em;
+    font-weight: 300;
+    letter-spacing: 0.046em; /* .65px */
+    line-height: 1.43em; /* 20px */
+    padding: 0 0 0.357em 0; /* 5px */
+}
+label-2 {
+    font-size: 14px;
+    font-weight: 300;
+    color: #9B9B9B;
+    letter-spacing: 0.046em; /* .65px */
+    line-height: 1.143em; /* 16px */
+    padding: 0 0 0.357em 0; /* 5px */
+}
+action-button {
+    font-size: 18px;
+    font-style: medium;
+    letter-spacing: 0.06em; /* .84px */
+    line-height: 2.071em; /* 29px */
+    padding: 0 0 0.357em 0; /* 5px */
+}
+label-button {
+    font-size: 12px;
+    letter-spacing: 0.04em; /* .56px */
+    line-height: 2.071em; /* 29px */
+    padding: 0 0 0.357em 0; /* 5px */
+}
+label-tabel-title {
+    font-size: 16px;
+    font-style: medium;
+    letter-spacing: 0.053em; /* .74px */
+    line-height: 2.071em; /* 29px */
+    padding: 0 0 0.714em 0; /* 10px */
+}
+label-tabel-text {
+    font-size: 16px;
+    letter-spacing: 0.053em; /* .74px */
+    line-height: 2.071em; /* 29px */
+    padding: 0 0 0.714em 0; /* 10px */
+}
+
 blockquote {
 	font-size: .9em; /* 14pt */
 	font-style: italic;
