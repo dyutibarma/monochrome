@@ -218,28 +218,28 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m10">
-		<div class="responsive">
+		<div class="responsive4">
 			<div class="gallery">
 			<a target="_blank" href="https://coianac.github.io/img/iqTest-1.jpg">
 			<img src="https://coianac.github.io/img/iqTest-1.jpg" alt="iqTest-1">
 			</a>
 			</div>
 			</div>
-			<div class="responsive">
+			<div class="responsive4">
 			<div class="gallery">
 			<a target="_blank" href="https://coianac.github.io/img/iqTest-2.jpg">
 			<img src="https://coianac.github.io/img/iqTest-2.jpg" alt="iqTest-2">
 			</a>
 			</div>
 			</div>
-			<div class="responsive">
+			<div class="responsive4">
 			<div class="gallery">
 			<a target="_blank" href="https://coianac.github.io/img/iqTest-3.jpg">
 			<img src="https://coianac.github.io/img/iqTest-3.jpg" alt="iqTest-3">
 			</a>
 			</div>
 			</div>
-			<div class="responsive">
+			<div class="responsive4">
 			<div class="gallery">
 			<a target="_blank" href="https://coianac.github.io/img/iqTest-4.jpg">
 			<img src="https://coianac.github.io/img/iqTest-4.jpg" alt="iqTest-4">
@@ -254,24 +254,39 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
     	</div>
 	<div class="w3-col w3-container m5">
+		<div class="responsive2">
+		<div class="gallery">
 		<a target="_blank" href="https://coianac.github.io/img/iqTest-2a.jpg">
 		<img src="https://coianac.github.io/img/iqTest-2a.jpg" alt="IQ Test category">
 		</a>
+		</div>
+		</div>
 	</div>
 	<div class="w3-col w3-container m5">
+		<div class="responsive2">
+		<div class="gallery">
 		<a target="_blank" href="https://coianac.github.io/img/iqTest-3a.jpg">
 		<img src="https://coianac.github.io/img/iqTest-3a.jpg" alt="IQ Test zoom">
 		</a>
+		</div>
+		</div>
 	</div>
 	<div class="w3-col w3-container m1">
 	</div>
 </div>
 </div>
 
-<h3>results</h3>
-<p>Feel free to download the analysis of our collected data if you're interested in the details. <a href="https://coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>.</p>
-<p>In short > the results came out inconclusive. Participants could not discern a visual disparity between the 3 image presets. We concluded this as a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset.</p>
-<quoteblock>Participants could not discern a visual disparity between the 3 images presents</quoteblock>
-
-<h4>Delivery Strategy</h4>
-<p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppes during the carting and purchasing decision making process.</p>
+<div class="w3-row">
+	<div class="w3-col w3-container m2 l3">
+	</div>
+	<div class="w3-col w3-container m8 l6">
+		<h3>results</h3>
+		<p>Feel free to download the analysis of our collected data if you're interested in the details. <a href="https://coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>.</p>
+		<p>In short > the results came out inconclusive. Participants could not discern a visual disparity between the 3 image presets. We concluded this as a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset.</p>
+		<quoteblock>Participants could not discern a visual disparity between the 3 images presents</quoteblock>
+		<h4>Delivery Strategy</h4>
+		<p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppes during the carting and purchasing decision making process.</p>
+	</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>
