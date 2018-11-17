@@ -7,7 +7,9 @@ categories: [portfolio]
 tags: [research, optimization, strategy, eCommerce]
 layout: portfolio
 ---
+<div class ="w3-row">
 <img src="https://coianac.github.io/img/iqTest-Hero.jpg" alt="Image Quality Hero">
+	</div>
 <div class ="w3-row block-head"> 
   <div class="w3-col w3-container m2 l3">
   </div>
@@ -80,41 +82,31 @@ layout: portfolio
 	<div class="w3-col w3-container m10 l10">
 	<div class="responsive">
 	<div class="gallery">
-		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$" alt="Apt Lounge">
-		</a>
 	<div class="desc w3-white">Apt Lounge</div>
 	</div>
 	</div>
 	<div class="responsive">
 	<div class="gallery">
-		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$" alt="Karina">
-		</a>
 	<div class="desc w3-white">Karina</div>
 	</div>
 	</div>
 	<div class="responsive">
 	<div class="gallery">
-		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$" alt="Mathilda">
-		</a>
 	<div class="desc w3-white">Mathilda</div>
 	</div>
 	</div>
 	<div class="responsive">
 	<div class="gallery">
-		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$" alt="Mathilda">
-		</a>
 	<div class="desc w3-white">Mathilda</div>
 	</div>
 	</div>
 	<div class="responsive">
 	<div class="gallery">
-		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$" alt="Swim Glasses">
-		</a>
 	<div class="desc w3-white">Swim Glasses</div>
 	</div>
 	</div>
@@ -163,31 +155,26 @@ layout: portfolio
 			<div class="responsive">
 			<div class="gallery">
 			<img src="https://coianac.github.io/img/devynGalindo.jpg" alt="Devyn Galindo">
-			</a>
 			</div>
 			</div>
 			<div class="responsive">
 			<div class="gallery">
 			<img src="https://coianac.github.io/img/mikaOsborn.jpg" alt="Mika Osborn">
-			</a>
 			</div>
 			</div>
 			<div class="responsive">
 			<div class="gallery">
 			<img src="https://coianac.github.io/img/taylorSaya.jpg" alt="Taylor Saya">
-			</a>
 			</div>
 			</div>
 			<div class="responsive">
 			<div class="gallery">
 			<img src="https://coianac.github.io/img/mattOwen.jpg" alt="Matt Owen">
-			</a>
 			</div>
 			</div>
 			<div class="responsive">
 			<div class="gallery">
 			<img src="https://coianac.github.io/img/joannaEwing2.jpg" alt="Joanna Ewing">
-			</a>
 			</div>
 			</div>
 			<div class="clearfix"></div>
@@ -216,25 +203,21 @@ layout: portfolio
 		<div class="responsive4">
 			<div class="gallery">
 			<img src="https://coianac.github.io/img/iqTest-1.jpg" alt="iqTest-1">
-			</a>
 			</div>
 			</div>
 			<div class="responsive4">
 			<div class="gallery">
 			<img src="https://coianac.github.io/img/iqTest-2.jpg" alt="iqTest-2">
-			</a>
 			</div>
 			</div>
 			<div class="responsive4">
 			<div class="gallery">
 			<img src="https://coianac.github.io/img/iqTest-3.jpg" alt="iqTest-3">
-			</a>
 			</div>
 			</div>
 			<div class="responsive4">
 			<div class="gallery">
 			<img src="https://coianac.github.io/img/iqTest-4.jpg" alt="iqTest-4">
-			</a>
 			</div>
 			</div>
 			<div class="clearfix"></div>
@@ -249,13 +232,11 @@ layout: portfolio
 	<div class="w3-col w3-container m5">
 		<div class="gallery">
 		<img src="https://coianac.github.io/img/iqTest-2a.jpg" alt="IQ Test category">
-		</a>
 		</div>
 	</div>
 	<div class="w3-col w3-container m5">
 		<div class="gallery">
 		<img src="https://coianac.github.io/img/iqTest-3a.jpg" alt="IQ Test zoom">
-		</a>
 		</div>
 		<div class="clearfix"></div>
 	</div>
