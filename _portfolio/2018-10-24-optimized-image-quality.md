@@ -1,13 +1,13 @@
 ---
 title:  Image Quality & Purchase Intent
-description: Overview of the perception of quality and delivering the appropriate quality image based on a customers liklihood to purchase
-header: Image Quality & Purchase Intent
+header: optimized.image.quality
+stories: [As a shopper, I want my pages to load quicker, As the brand, we want to decrease our yearly Akamai costs.]
 image: coianac.github.io/img/proto-1.jpg
-snippet: Research, analysis, and strategy for delivering high quality images without bloating image size
 categories: [portfolio]
 tags: [research, optimization, strategy, eCommerce]
 layout: portfolio
 ---
+
 <div class="w3-row">
   <div class="w3-col m1 w3-center w3-grey">1</div>
   <div class="w3-col m1 w3-center">2</div>
