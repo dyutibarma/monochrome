@@ -1,7 +1,7 @@
 ---
 title:  Image Quality & Purchase Intent
 header: optimized.image.quality
-stories: [As a shopper I want my pages to load quicker, As the brand we want to decrease our yearly Akamai costs.]
+stories: [As a shopper - I want my pages to load quicker, As the brand - we want to decrease our yearly Akamai costs.]
 image: coianac.github.io/img/proto-1.jpg
 categories: [portfolio]
 tags: [research, optimization, strategy, eCommerce]
@@ -22,8 +22,6 @@ layout: portfolio
   <div class="w3-col m1 w3-center w3-grey">11</div>
   <div class="w3-col m1 w3-center">12</div>
 </div>
-
-<h1>optimized.image.delivery</h1>
 
 <div class ="w3-row block-head"> 
   <div class="w3-col w3-container m2 l3">
