@@ -283,7 +283,7 @@ layout: portfolio
 		<h3>results</h3>
 		<p>Feel free to download the analysis of our collected data if you're interested in the details. <a href="https://coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>.</p>
 		<p>In short > the results came out inconclusive. Participants could not discern a visual disparity between the 3 image presets. We concluded this as a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset.</p>
-		<quoteblock>Participants could not discern a visual disparity between the 3 images presents</quoteblock>
+		<blockquote>Participants could not discern a visual disparity between the 3 images presents</blockquote>
 		<h4>Delivery Strategy</h4>
 		<p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppes during the carting and purchasing decision making process.</p>
 	</div>
