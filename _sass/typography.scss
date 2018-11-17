@@ -212,19 +212,6 @@ pill {
     	background-color: #FEFDF3;
 	margin-top: 5px;
 }
-table-title {
-    	font-size: 16px;
-    	font-weight: bold;
-    	letter-spacing: 0.74px; /* .74px */
-    	line-height: 29px; /* 29px */
-    	padding: 0 0 10px 0; /* 10px */
-}
-table-text {
-    	font-size: 16px;
-    	letter-spacing: .74px; /* .74px */
-    	line-height: 29px; /* 29px */
-    	padding: 0 0 10px 0; /* 10px */
-}
 
 .block-head {
 	background-color: #ECFEE7;
@@ -233,6 +220,7 @@ table-text {
     	border-bottom: 1px solid;
     	border-bottom-color: #CFEBC7;
     	padding: 50px 0 50px 0;
+	margin: 0 0 10px 0;
 }
 
 .block {
@@ -255,20 +243,7 @@ blockquote {
     	border-color: #E8E7D7;
     	background-color: #FEFDF3;
 }
-	
-/* blockquote {
-	font-size: .9em; /* 14pt
-	font-style: italic;
-	font-wight: 100;
-	color: #6B8E23;
-	margin: 1.5em; /* 24px/18px
-	border-left: solid #556B2F;
-	background-color: darken($background-color, 5%);
-	padding: 0 1.5em; /* 24px/18px
-	p, ul, ol {
-		padding: 1.5em 0; /* 24px/18px
-	}
-} */
+
 }
 
 main-title {
