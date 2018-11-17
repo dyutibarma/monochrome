@@ -192,18 +192,10 @@ layout: portfolio
 </div>
 </div>
 <div class="clearfix"></div>
-<div class ="w3-row"> 
-<div class="w3-col w3-container m2 l3">
-</div>
-<div class="w3-col w3-container m8 l6”>
-	    
+
 <h4>Category Page & Image Zoom Views</h4>
 <p>We put together sumulated views of a category page and image zoom for participants to select which image they felt was of the best quality.</p>
 <p>The views included pagination between selections as well as a "Thank you for completion" screen which displayed live results of the study.</p>
-</div>
-<div class="w3-col w3-container m2 l3">
-</div>
-</div>
 
 <div class="block">
 </div>
