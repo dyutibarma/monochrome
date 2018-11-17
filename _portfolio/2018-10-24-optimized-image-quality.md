@@ -253,12 +253,14 @@ layout: portfolio
 		<p>Feel free to download the analysis of our collected data if you're interested in the details. <a href="https://coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>.</p>
 		<p>In short > the results came out inconclusive. Participants could not discern a visual disparity between the 3 image presets. We concluded this as a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset.</p>
 		<blockquote>Participants could not discern a visual disparity between the 3 images presents</blockquote>
-		</div>
+		<h4>Delivery Strategy</h4>
+		<p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppes during the carting and purchasing decision making process.</p>
+	</div>
 	<div class="w3-col w3-container m2 l3">
 	</div>
-</div>		
+</div>
 
-<div class="w3-row">
+<div class="w3-row block-white">
 	<div class="w3-col w3-container m1 ">
 	     </div>
 	<div class="w3-col w3-container m10">
@@ -269,14 +271,3 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 </div>	
-
-<div class="w3-row">
-	<div class="w3-col w3-container m2 l3">
-	</div>
-	<div class="w3-col w3-container m8 l6">
-		<h4>Delivery Strategy</h4>
-		<p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppes during the carting and purchasing decision making process.</p>
-	</div>
-	<div class="w3-col w3-container m2 l3">
-	</div>
-</div>
