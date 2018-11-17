@@ -162,35 +162,30 @@ layout: portfolio
 		    <div class="w3-col w3-container m10">
 			<div class="responsive">
 			<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/devynGalindo.jpg">
 			<img src="https://coianac.github.io/img/devynGalindo.jpg" alt="Devyn Galindo">
 			</a>
 			</div>
 			</div>
 			<div class="responsive">
 			<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/mikaOsborn.jpg">
 			<img src="https://coianac.github.io/img/mikaOsborn.jpg" alt="Mika Osborn">
 			</a>
 			</div>
 			</div>
 			<div class="responsive">
 			<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/taylorSaya.jpg">
 			<img src="https://coianac.github.io/img/taylorSaya.jpg" alt="Taylor Saya">
 			</a>
 			</div>
 			</div>
 			<div class="responsive">
 			<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/mattOwen.jpg">
 			<img src="https://coianac.github.io/img/mattOwen.jpg" alt="Matt Owen">
 			</a>
 			</div>
 			</div>
 			<div class="responsive">
 			<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/joannaEwing2.jpg">
 			<img src="https://coianac.github.io/img/joannaEwing2.jpg" alt="Joanna Ewing">
 			</a>
 			</div>
@@ -220,28 +215,24 @@ layout: portfolio
 	<div class="w3-col w3-container m10">
 		<div class="responsive4">
 			<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/iqTest-1.jpg">
 			<img src="https://coianac.github.io/img/iqTest-1.jpg" alt="iqTest-1">
 			</a>
 			</div>
 			</div>
 			<div class="responsive4">
 			<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/iqTest-2.jpg">
 			<img src="https://coianac.github.io/img/iqTest-2.jpg" alt="iqTest-2">
 			</a>
 			</div>
 			</div>
 			<div class="responsive4">
 			<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/iqTest-3.jpg">
 			<img src="https://coianac.github.io/img/iqTest-3.jpg" alt="iqTest-3">
 			</a>
 			</div>
 			</div>
 			<div class="responsive4">
 			<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/iqTest-4.jpg">
 			<img src="https://coianac.github.io/img/iqTest-4.jpg" alt="iqTest-4">
 			</a>
 			</div>
@@ -257,14 +248,12 @@ layout: portfolio
     	</div>
 	<div class="w3-col w3-container m5">
 		<div class="gallery">
-		<a target="_blank" href="https://coianac.github.io/img/iqTest-2a.jpg">
 		<img src="https://coianac.github.io/img/iqTest-2a.jpg" alt="IQ Test category">
 		</a>
 		</div>
 	</div>
 	<div class="w3-col w3-container m5">
 		<div class="gallery">
-		<a target="_blank" href="https://coianac.github.io/img/iqTest-3a.jpg">
 		<img src="https://coianac.github.io/img/iqTest-3a.jpg" alt="IQ Test zoom">
 		</a>
 		</div>
