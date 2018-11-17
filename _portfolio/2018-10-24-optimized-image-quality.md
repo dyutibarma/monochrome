@@ -156,42 +156,50 @@ layout: portfolio
  	<div class="w3-col w3-container m2 l3">
 	</div>
  </div>
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="https://coianac.github.io/img/devynGalindo.jpg">
-<img src="https://coianac.github.io/img/devynGalindo.jpg" alt="Devyn Galindo">
-</a>
+<div class="w3-row">
+	<div class="w3-col w3-container m1>
+		    </div>
+		    <div class="w3-col w3-container m10>
+			<div class="responsive">
+			<div class="gallery">
+			<a target="_blank" href="https://coianac.github.io/img/devynGalindo.jpg">
+			<img src="https://coianac.github.io/img/devynGalindo.jpg" alt="Devyn Galindo">
+			</a>
+			</div>
+			</div>
+			<div class="responsive">
+			<div class="gallery">
+			<a target="_blank" href="https://coianac.github.io/img/mikaOsborn.jpg">
+			<img src="https://coianac.github.io/img/mikaOsborn.jpg" alt="Mika Osborn">
+			</a>
+			</div>
+			</div>
+			<div class="responsive">
+			<div class="gallery">
+			<a target="_blank" href="https://coianac.github.io/img/taylorSaya.jpg">
+			<img src="https://coianac.github.io/img/taylorSaya.jpg" alt="Taylor Saya">
+			</a>
+			</div>
+			</div>
+			<div class="responsive">
+			<div class="gallery">
+			<a target="_blank" href="https://coianac.github.io/img/mattOwen.jpg">
+			<img src="https://coianac.github.io/img/mattOwen.jpg" alt="Matt Owen">
+			</a>
+			</div>
+			</div>
+			<div class="responsive">
+			<div class="gallery">
+			<a target="_blank" href="https://coianac.github.io/img/joannaEwing2.jpg">
+			<img src="https://coianac.github.io/img/joannaEwing2.jpg" alt="Joanna Ewing">
+			</a>
+			</div>
+			</div>
+			<div class="clearfix"></div>
+	</div>
+	<div class="w3-col w3-container m1>
+    	</div>
 </div>
-</div>
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="https://coianac.github.io/img/mikaOsborn.jpg">
-<img src="https://coianac.github.io/img/mikaOsborn.jpg" alt="Mika Osborn">
-</a>
-</div>
-</div>
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="https://coianac.github.io/img/taylorSaya.jpg">
-<img src="https://coianac.github.io/img/taylorSaya.jpg" alt="Taylor Saya">
-</a>
-</div>
-</div>
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="https://coianac.github.io/img/mattOwen.jpg">
-<img src="https://coianac.github.io/img/mattOwen.jpg" alt="Matt Owen">
-</a>
-</div>
-</div>
-<div class="responsive">
-<div class="gallery">
-<a target="_blank" href="https://coianac.github.io/img/joannaEwing2.jpg">
-<img src="https://coianac.github.io/img/joannaEwing2.jpg" alt="Joanna Ewing">
-</a>
-</div>
-</div>
-<div class="clearfix"></div>
 
 <h4>Category Page & Image Zoom Views</h4>
 <p>We put together sumulated views of a category page and image zoom for participants to select which image they felt was of the best quality.</p>
@@ -207,19 +215,3 @@ layout: portfolio
 
 <h4>Delivery Strategy</h4>
 <p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppes during the carting and purchasing decision making process.</p>
-
-
-<div class="w3-row">
-  <div class="w3-col m1 w3-center w3-grey">1</div>
-  <div class="w3-col m1 w3-center">2</div>
-  <div class="w3-col m1 w3-center w3-grey">3</div>
-  <div class="w3-col m1 w3-center">4</div>
-  <div class="w3-col m1 w3-center w3-grey">5</div>
-  <div class="w3-col m1 w3-center">6</div>
-  <div class="w3-col m1 w3-center w3-grey">7</div>
-  <div class="w3-col m1 w3-center">8</div>
-  <div class="w3-col m1 w3-center w3-grey">9</div>
-  <div class="w3-col m1 w3-center">10</div>
-  <div class="w3-col m1 w3-center w3-grey">11</div>
-  <div class="w3-col m1 w3-center">12</div>
-</div>
