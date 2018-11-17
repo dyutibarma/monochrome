@@ -157,7 +157,7 @@ layout: portfolio
 	</div>
  </div>
 <div class="w3-row">
-	<div class="w3-col w3-container m1>
+	<div class="w3-col w3-container m1">
 		    </div>
 		    <div class="w3-col w3-container m10">
 			<div class="responsive">
@@ -197,7 +197,7 @@ layout: portfolio
 			</div>
 			<div class="clearfix"></div>
 	</div>
-	<div class="w3-col w3-container m1>
+	<div class="w3-col w3-container m1">
     	</div>
 </div>
 
