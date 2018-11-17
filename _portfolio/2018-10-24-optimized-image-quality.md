@@ -159,7 +159,7 @@ layout: portfolio
 <div class="w3-row">
 	<div class="w3-col w3-container m1>
 		    </div>
-		    <div class="w3-col w3-container m10>
+		    <div class="w3-col w3-container m10">
 			<div class="responsive">
 			<div class="gallery">
 			<a target="_blank" href="https://coianac.github.io/img/devynGalindo.jpg">
