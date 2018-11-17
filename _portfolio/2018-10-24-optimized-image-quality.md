@@ -289,3 +289,17 @@ layout: portfolio
 	<div class="w3-col w3-container m2 l3">
 	</div>
 </div>
+
+<div class="w3-row">
+	<div class="w3-col w3-container m2 l3">
+	     </div>
+	<div class="w3-col w3-container m8 l6">
+		<div class="gallery">
+			<a target="_blank" href="https://coianac.github.io/img/imgQualJourney.jpg">
+			<img src="https://coianac.github.io/img/imgQualJourney.jpg" alt="Image Quality Journey">
+			</a>
+		</div>
+	</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>			
