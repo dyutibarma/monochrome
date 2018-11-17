@@ -156,42 +156,42 @@ layout: portfolio
  	<div class="w3-col w3-container m2 l3">
 	</div>
  </div>
-		<div class="responsive">
-		<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/devynGalindo.jpg">
-			<img src="https://coianac.github.io/img/devynGalindo.jpg" alt="Devyn Galindo">
-			</a>
-  		</div>
-		</div>
-		<div class="responsive">
-		<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/mikaOsborn.jpg">
-			<img src="https://coianac.github.io/img/mikaOsborn.jpg" alt="Mika Osborn">
-			</a>
-		</div>
-		</div>
-		<div class="responsive">
-		<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/taylorSaya.jpg">
-			<img src="https://coianac.github.io/img/taylorSaya.jpg" alt="Taylor Saya">
-			</a>
-		</div>
-		</div>
-		<div class="responsive">
-		<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/mattOwen.jpg">
-			<img src="https://coianac.github.io/img/mattOwen.jpg" alt="Matt Owen">
-			</a>
-		</div>
-		</div>
-		<div class="responsive">
-		<div class="gallery">
-			<a target="_blank" href="https://coianac.github.io/img/joannaEwing2.jpg">
-			<img src="https://coianac.github.io/img/joannaEwing2.jpg" alt="Joanna Ewing">
-			</a>
-		</div>
-		</div>
-		<div class="clearfix"></div>
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="https://coianac.github.io/img/devynGalindo.jpg">
+<img src="https://coianac.github.io/img/devynGalindo.jpg" alt="Devyn Galindo">
+</a>
+</div>
+</div>
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="https://coianac.github.io/img/mikaOsborn.jpg">
+<img src="https://coianac.github.io/img/mikaOsborn.jpg" alt="Mika Osborn">
+</a>
+</div>
+</div>
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="https://coianac.github.io/img/taylorSaya.jpg">
+<img src="https://coianac.github.io/img/taylorSaya.jpg" alt="Taylor Saya">
+</a>
+</div>
+</div>
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="https://coianac.github.io/img/mattOwen.jpg">
+<img src="https://coianac.github.io/img/mattOwen.jpg" alt="Matt Owen">
+</a>
+</div>
+</div>
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="https://coianac.github.io/img/joannaEwing2.jpg">
+<img src="https://coianac.github.io/img/joannaEwing2.jpg" alt="Joanna Ewing">
+</a>
+</div>
+</div>
+<div class="clearfix"></div>
 	
 <div class ="w3-row"> 
 	<div class="w3-col w3-container m2 l3">
