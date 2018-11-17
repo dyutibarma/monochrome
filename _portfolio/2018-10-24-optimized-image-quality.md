@@ -229,12 +229,10 @@ layout: portfolio
 <div class="w3-row">
 	<div class="w3-col w3-container m1">
     	</div>
-	<div class="w3-col w3-container m5">
+	<div class="w3-col w3-container m10">
 		<div class="gallery">
 		<img src="https://coianac.github.io/img/iqTest-2a.jpg" alt="IQ Test category">
 		</div>
-	</div>
-	<div class="w3-col w3-container m5">
 		<div class="gallery">
 		<img src="https://coianac.github.io/img/iqTest-3a.jpg" alt="IQ Test zoom">
 		</div>
