@@ -8,21 +8,6 @@ tags: [research, optimization, strategy, eCommerce]
 layout: portfolio
 ---
 
-<div class="w3-row">
-  <div class="w3-col m1 w3-center w3-grey">1</div>
-  <div class="w3-col m1 w3-center">2</div>
-  <div class="w3-col m1 w3-center w3-grey">3</div>
-  <div class="w3-col m1 w3-center">4</div>
-  <div class="w3-col m1 w3-center w3-grey">5</div>
-  <div class="w3-col m1 w3-center">6</div>
-  <div class="w3-col m1 w3-center w3-grey">7</div>
-  <div class="w3-col m1 w3-center">8</div>
-  <div class="w3-col m1 w3-center w3-grey">9</div>
-  <div class="w3-col m1 w3-center">10</div>
-  <div class="w3-col m1 w3-center w3-grey">11</div>
-  <div class="w3-col m1 w3-center">12</div>
-</div>
-
 <div class ="w3-row block-head"> 
   <div class="w3-col w3-container m2 l3">
   </div>
@@ -48,16 +33,18 @@ layout: portfolio
       </div>
     </div>
 
-<h2>image quality & purchase intent</h2>
-<h3>goal</h3>
-<p>To understand how consumers perceive image quality with the intentions of delivering higher quality images (better color representation, less pixilation) while maintaining a cost sensitive image file size.</p>
-
-<h4>Hypothesis</h4>
-<p>Increasing an image by 1.5x times its in-browser requirement and decreasing its JPG quality to 40% will render an image that is of indistinguishable quality when compared to a 1x, 100% JPG quality image.</p>
-<blockquote><b>Benefit</b> This should result in an approximate 30% decrease in image size and an improved page-load speed!</blockquote>
-
-<h4>Team Structure</h4>
-<table>
+<div class ="w3-row"> 
+  <div class="w3-col w3-container m2 l3">
+  </div>
+    <div class="w3-col w3-container m8 l6">
+	<h2>image quality & purchase intent</h2>
+	<h3>goal</h3>
+	<p>To understand how consumers perceive image quality with the intentions of delivering higher quality images (better color representation, less pixilation) while maintaining a cost sensitive image file size.</p>
+	<h4>Hypothesis</h4>
+	<p>Increasing an image by 1.5x times its in-browser requirement and decreasing its JPG quality to 40% will render an image that is of indistinguishable quality when compared to a 1x, 100% JPG quality image.</p>
+	<blockquote><b>Benefit</b> This should result in an approximate 30% decrease in image size and an improved page-load speed!</blockquote>
+	<h4>Team Structure</h4>
+	<table>
   <tr>
     <th>My Roles</th>
     <th>Supporting Roles</th>
@@ -79,12 +66,18 @@ layout: portfolio
     <td>Lead Engineer</td>
   </tr>
 </table>
-
 <h3>study requirements</h3>
 <h4>Brand & Studio Approved Images</h4>
 <p>These images were chosen specifically for their range of content and color density / variances.</p>
+</div>
+      <div class="w3-col w3-container m2 l3">
+      </div>
+    </div>
 
-<div class="block">
+<div class ="w3-row block"> 
+  <div class="w3-col w3-container m2 l3">
+  </div>
+    <div class="w3-col w3-container m8 l6">
   <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$">
@@ -131,7 +124,9 @@ layout: portfolio
 </div>
 
 <div class="clearfix"></div>
-
+</div>
+      <div class="w3-col w3-container m2 l3">
+	</div>
 </div>
 
 <h4>Image Presets</h4>
@@ -216,3 +211,19 @@ layout: portfolio
 
 <h4>Delivery Strategy</h4>
 <p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppes during the carting and purchasing decision making process.</p>
+
+
+<div class="w3-row">
+  <div class="w3-col m1 w3-center w3-grey">1</div>
+  <div class="w3-col m1 w3-center">2</div>
+  <div class="w3-col m1 w3-center w3-grey">3</div>
+  <div class="w3-col m1 w3-center">4</div>
+  <div class="w3-col m1 w3-center w3-grey">5</div>
+  <div class="w3-col m1 w3-center">6</div>
+  <div class="w3-col m1 w3-center w3-grey">7</div>
+  <div class="w3-col m1 w3-center">8</div>
+  <div class="w3-col m1 w3-center w3-grey">9</div>
+  <div class="w3-col m1 w3-center">10</div>
+  <div class="w3-col m1 w3-center w3-grey">11</div>
+  <div class="w3-col m1 w3-center">12</div>
+</div>
