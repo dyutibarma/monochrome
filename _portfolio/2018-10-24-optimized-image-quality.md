@@ -256,21 +256,17 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
     	</div>
 	<div class="w3-col w3-container m5">
-		<div class="responsive2">
 		<div class="gallery">
 		<a target="_blank" href="https://coianac.github.io/img/iqTest-2a.jpg">
 		<img src="https://coianac.github.io/img/iqTest-2a.jpg" alt="IQ Test category">
 		</a>
 		</div>
-		</div>
 	</div>
 	<div class="w3-col w3-container m5">
-		<div class="responsive2">
 		<div class="gallery">
 		<a target="_blank" href="https://coianac.github.io/img/iqTest-3a.jpg">
 		<img src="https://coianac.github.io/img/iqTest-3a.jpg" alt="IQ Test zoom">
 		</a>
-		</div>
 		</div>
 		<div class="clearfix"></div>
 	</div>
