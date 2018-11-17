@@ -7,7 +7,7 @@ categories: [portfolio]
 tags: [research, optimization, strategy, eCommerce]
 layout: portfolio
 ---
-
+<img src="https://coianac.github.io/img/iqTest-Hero.jpg" alt="Image Quality Hero">
 <div class ="w3-row block-head"> 
   <div class="w3-col w3-container m2 l3">
   </div>
