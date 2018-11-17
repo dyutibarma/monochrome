@@ -53,9 +53,9 @@ div.desc {
   width: 25%;
   }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 700px) {
   .responsive4 {
-    max-width: 100%;
+    width: 50%;
     margin: 6px 0;
     }
   }
@@ -81,10 +81,9 @@ div.desc {
   width: 50%;
   }
 
-@media only screen and (max-width: 640px) {
-  .responsive2 {
-    max-width: 100%;
-    margin: 6px 0;
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 50%;
     }
   }
 
