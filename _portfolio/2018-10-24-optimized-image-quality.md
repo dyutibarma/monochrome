@@ -75,9 +75,9 @@ layout: portfolio
     </div>
 
 <div class ="w3-row block"> 
-  <div class="w3-col w3-container m2 l3">
+  <div class="w3-col w3-container m1 l1">
   </div>
-    <div class="w3-col w3-container m8 l6">
+    <div class="w3-col w3-container m10 l10">
   <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$">
@@ -125,10 +125,14 @@ layout: portfolio
 
 <div class="clearfix"></div>
 </div>
-      <div class="w3-col w3-container m2 l3">
+      <div class="w3-col w3-container m1 l1">
 	</div>
 </div>
 
+<div class ="w3-row"> 
+  <div class="w3-col w3-container m2 l3">
+  </div>
+    <div class="w3-col w3-container m8 l6">
 <h4>Image Presets</h4>
  <table>
   <tr>
@@ -154,7 +158,11 @@ layout: portfolio
  <h4>Test Participants</h4>
  <p>Invitations were sent out at Urban Outfitters headquarters to cull image experts and laypeople alike.</p>
  <blockquote>37 image and creative professional participants attended the study</blockquote>
- 
+      </div>
+      <div class="w3-col w3-container m2 l3">
+      </div>
+ </div>
+    
  <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="https://coianac.github.io/img/devynGalindo.jpg">
