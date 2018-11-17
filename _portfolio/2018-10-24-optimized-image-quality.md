@@ -214,6 +214,27 @@ layout: portfolio
 </div>
 			
 <div class="block">
+<div class="w3-row">
+	<h3>4 images will go here</h3>
+</div>
+<div class="w3-row">
+	<div class="w3-col w3-container m1">
+    	</div>
+	<div class="w3-col w3-container m5">
+		<a target="_blank" href="https://coianac.github.io/img/iqTest-2a.jpg">
+		<img src="https://coianac.github.io/img/iqTest-2a.jpg" alt="IQ Test category">
+		</a>
+	</div>
+	<div class="w3-col w3-container m5">
+		<a target="_blank" href="https://coianac.github.io/img/iqTest-3a.jpg">
+		<img src="https://coianac.github.io/img/iqTest-3a.jpg" alt="IQ Test zoom">
+		</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
+</div>
+		    
 </div>
 
 <h3>results</h3>
