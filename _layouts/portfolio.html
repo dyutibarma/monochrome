@@ -9,7 +9,7 @@ layout: default
 		<div class="w3-col w3-container m8 l6">
 			<h5>User Story</h5>
 			{% for stories in page.portfolio %}
-			<p>{{ portfolio.stories }}</p>
+			<p>{{ page.stories }}</p>
 			{% endfor %}
 		</div>
 		<div class="w3-col w3-container m2 l3">
@@ -20,7 +20,7 @@ layout: default
 	<div class ="w3-row "> 
 		<div class="w3-col w3-container m2 l3">
 	  	</div>
-	    	{% for tags in page.tags %}
+	    	{% for tags in page.portfolio %}
 		<div class="w3-col w3-container m8 l6">
 			<pill>{{ page.tags }}</pill>
 	      	</div>
