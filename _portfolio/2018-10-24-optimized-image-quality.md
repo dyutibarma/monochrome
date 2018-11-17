@@ -83,7 +83,7 @@ layout: portfolio
 		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$" alt="Apt Lounge">
 		</a>
-	<div class="desc">Apartment Lounge</div>
+	<div class="desc w3-white">Apt Lounge</div>
 	</div>
 	</div>
 	<div class="responsive">
@@ -91,7 +91,7 @@ layout: portfolio
 		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$" alt="Karina">
 		</a>
-	<div class="desc">Karina</div>
+	<div class="desc w3-white">Karina</div>
 	</div>
 	</div>
 	<div class="responsive">
@@ -99,7 +99,7 @@ layout: portfolio
 		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/matildax45?$medium$" alt="Mathilda">
 		</a>
-	<div class="desc">Mathilda</div>
+	<div class="desc w3-white">Mathilda</div>
 	</div>
 	</div>
 	<div class="responsive">
@@ -107,7 +107,7 @@ layout: portfolio
 		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/MathildaYellow?$medium$" alt="Mathilda">
 		</a>
-	<div class="desc">Mathilda</div>
+	<div class="desc w3-white">Mathilda</div>
 	</div>
 	</div>
 	<div class="responsive">
@@ -115,7 +115,7 @@ layout: portfolio
 		<a target="_blank" href="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$">
 		<img src="http://images.urbanoutfitters.com/is/image/UrbanOutfitters/swimglasses?$medium$" alt="Swim Glasses">
 		</a>
-	<div class="desc">Swim Glasses</div>
+	<div class="desc w3-white">Swim Glasses</div>
 	</div>
 	</div>
 	<div class="clearfix"></div>
@@ -156,11 +156,6 @@ layout: portfolio
  	<div class="w3-col w3-container m2 l3">
 	</div>
  </div>
-
-<div class ="w3-row"> 
-	<div class="w3-col w3-container m1 l1">
-	</div>
-	<div class="w3-col w3-container m10 l10”>
 		<div class="responsive">
 		<div class="gallery">
 			<a target="_blank" href="https://coianac.github.io/img/devynGalindo.jpg">
@@ -197,18 +192,14 @@ layout: portfolio
 		</div>
 		</div>
 		<div class="clearfix"></div>
-	</div>
-	<div class="w3-col w3-container m1 l1">
-	</div>
-</div>
-
+	
 <div class ="w3-row"> 
 	<div class="w3-col w3-container m2 l3">
 	</div>
    	<div class="w3-col w3-container m8 l6”>
-		<h4>Category Page & Image Zoom Views</h4>
-		<p>We put together sumulated views of a category page and image zoom for participants to select which image they felt was of the best quality.</p>
-		<p>The views included pagination between selections as well as a "Thank you for completion" screen which displayed live results of the study.</p>
+	<h4>Category Page & Image Zoom Views</h4>
+	<p>We put together sumulated views of a category page and image zoom for participants to select which image they felt was of the best quality.</p>
+	<p>The views included pagination between selections as well as a "Thank you for completion" screen which displayed live results of the study.</p>
 	</div>
 	<div class="w3-col w3-container m2 l3">
 	</div>
@@ -218,7 +209,7 @@ layout: portfolio
 </div>
 
 <h3>results</h3>
-<p>Feel free to download the analysis of our collected data if you're interested in the details. <a href="coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>.</p>
+<p>Feel free to download the analysis of our collected data if you're interested in the details. <a href="https://coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>.</p>
 <p>In short > the results came out inconclusive. Participants could not discern a visual disparity between the 3 image presets. We concluded this as a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset.</p>
 <quoteblock>Participants could not discern a visual disparity between the 3 images presents</quoteblock>
 
