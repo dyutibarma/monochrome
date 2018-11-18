@@ -1,12 +1,12 @@
 ---
 title:  Image Quality & Purchase Intent
 header: optimized.image.quality
-stories: [As a shopper - I want my pages to load quicker, As the brand - we want to decrease our yearly Akamai costs.]
 image: coianac.github.io/img/proto-1.jpg
 categories: [portfolio]
 tags: [research, optimization, strategy, eCommerce]
 layout: portfolio
 ---
+
 <div class ="w3-row">
 <img src="https://coianac.github.io/img/iqTest-Hero.jpg" alt="Image Quality Hero">
 	</div>
