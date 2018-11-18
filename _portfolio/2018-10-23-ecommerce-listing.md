@@ -209,6 +209,28 @@ layout: portfolio
 	</div>
 </div>
 
+<div class="w3-row block-white">
+	<div class="w3-col w3-container m1 ">
+	     </div>
+	<div class="w3-col w3-container m10">
+			<a href="https://coianac.github.io/img/shoppersJourney.jpg">
+			<img src="https://coianac.github.io/img/shoppersJourney.jpg" alt="graphic of the shopping journey">
+			</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
+<div class="w3-row block">
+	<div class="w3-col w3-container m1 ">
+	     </div>
+	<div class="w3-col w3-container m10">
+			<a href="https://coianac.github.io/img/listingJourneyModes.jpg">
+			<img src="https://coianac.github.io/img/listingJourneyModes.jpg" alt="graphic of listing journey modes">
+			</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
 
 
 
