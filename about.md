@@ -5,7 +5,7 @@ description: This page is about me.
 tags:
 - strategy
 - marketing
-- research methods
+- research
 - analysis
 - UX
 - UI
