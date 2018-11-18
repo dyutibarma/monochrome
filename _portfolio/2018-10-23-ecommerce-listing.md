@@ -46,15 +46,15 @@ layout: portfolio
       </div>
     </div>
 
-<div class="w3-row "> 
+<div class="w3-row"> 
   <div class="w3-col w3-container m2 l3">
   </div>
     <div class="w3-col w3-container m8 l6">
       <h2>business problem</h2>
       <p>URBN needs to plan for a listing ecosystem that better integrates Wish Lists and Hearting as complimentary features rather than separate and standalone products.</p>
       <p>Free People is being migrated onto the URBN Web white label platform; White label currentl lacks the concept of hearting.</p> 
-      <h2>research<h2>
-        <h3>lists perspectives of the urban outfitter customer</h3>
+      <h2>research</h2>
+        <h3>user perspectives</h3>
         <p>The following research was conducted by <a target="_blank" href="https://www.lizzcuzzacrea.com/">Lizz Cuzzacrea</a> - Lizz conducted lists studies to inform and guide the product architecture and design decisions I presented to Anthropologie, Free People, Urban Outfitters and URBN senior and executive leaders.</p>
         <h4>Survey Demographics</h4>
      </div>
