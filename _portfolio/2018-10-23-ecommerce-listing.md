@@ -1,6 +1,6 @@
 ---
 title:  e-commerce Listing
-header: Saving Products to a list with ease
+header: e-Commerce listing
 snippet: 
 - As a shopper interested saving items for inspiration or purchase, I want the system to compliment my shopping behavior.
 - As URBN, we want to streamline the shoppers journey for saving items to a list.
