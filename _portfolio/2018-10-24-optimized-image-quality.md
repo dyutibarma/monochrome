@@ -8,7 +8,6 @@ tags:
 - research
 - optimization
 - strategy
-- eCommerce
 layout: portfolio
 ---
 
