@@ -1,8 +1,9 @@
 ---
+
+---
 layout: page
 title: CV
 description: This is my curriculum vitae.
----
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
