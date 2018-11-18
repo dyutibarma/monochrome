@@ -133,69 +133,69 @@ layout: portfolio
 		</tr>
 		<tr>
 			<td>Authentication</td>
-			<td>x</td>
-			<td>x</td>
-			<td>x</td>
+			<td>⤫</td>
+			<td>⤫</td>
+			<td>⤫</td>
 		</tr>
 		<tr>
 			<td>SKU-full saving</td>
-			<td>x</td>
-			<td>x</td>
+			<td>⤫</td>
+			<td>⤫</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>SKU-less saving</td>
 			<td></td>
 			<td></td>
-			<td>x</td>
+			<td>⤫</td>
 		</tr>
 		<tr>
 			<td>Sort</td>
 			<td></td>
-			<td>x</td>
+			<td>⤫</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>Multiple lists</td>
-			<td>x</td>
-			<td>x</td>
+			<td>⤫</td>
+			<td>⤫</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>QTY desired</td>
-			<td>x</td>
-			<td>x</td>
+			<td>⤫</td>
+			<td>⤫</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>Quick shop</td>
-			<td>x</td>
-			<td>x</td>
+			<td>⤫</td>
+			<td>⤫</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>Follow</td>
 			<td></td>
 			<td></td>
-			<td>x</td>
+			<td>⤫</td>
 		</tr>
 		<tr>
 			<td>Follow</td>
 			<td></td>
 			<td></td>
-			<td>x</td>
+			<td>⤫</td>
 		</tr>
 		<tr>
 			<td>Image upload</td>
 			<td></td>
 			<td></td>
-			<td>x</td>
+			<td>⤫</td>
 		</tr>
 		<tr>
 			<td>Explore</td>
 			<td></td>
 			<td></td>
-			<td>x</td>
+			<td>⤫</td>
 		</tr>
 		</table>
 		<h2>solution overview</h2>
