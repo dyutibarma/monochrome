@@ -19,7 +19,9 @@ description: Portfolio Pieces.
             <h5>{{ portfolio.title }}</h5>
             <label-1>{{ portfolio.snippet }}</label-1>
           </div>
-          <pill>{{ portfolio.tags }}</pill>
+          {% for item in portfolio.tags %}
+          <pill>{{ item }}</pill>
+          {% endif %}
         </div>
        {% endfor %}
       </div>
