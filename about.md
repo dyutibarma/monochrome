@@ -19,7 +19,7 @@ tags:
 <div class="w3-col w3-container m2 l3">
   </div>
   <div class="w3-col w3-container m8 l6">
-    <h5>Hi, I'm Nicolas</h5>
+    <h5>Hi 👋🏼, I'm Nicolas</h5>
     <p>I'm a lead designer designer and mentor for the quite of e-Commerce sites at URBN.</p>
     <p>I specialize in personalization, listing, usability & heuristics, and the users journey from inspiration to purchase.</p>
   </div>
