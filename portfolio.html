@@ -17,7 +17,9 @@ description: Portfolio Pieces.
           </a>
           <div class="w3-container w3-white">
             <h5>{{ portfolio.title }}</h5>
-            <label-1>{{ portfolio.snippet }}</label-1>
+            {% for item in portfolio.snippet %}
+            <label-1>{{ item }}</label-1>
+            {% endfor %}
           </div>
             {% for item in portfolio.tags %}
               <pill>{{ item }}</pill>
