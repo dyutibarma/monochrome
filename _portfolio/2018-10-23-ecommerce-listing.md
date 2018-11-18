@@ -126,9 +126,10 @@ layout: portfolio
 		<h5>Audit</h5>
 		<table>
 		<tr>
-		    <th>Wish List</th>
-		    <th>Registry</th>
-		    <th>Favorites</th>
+			<th></th>
+			<th>Wish List</th>
+		    	<th>Registry</th>
+		    	<th>Favorites</th>
 		</tr>
 		<tr>
 			<td>Authentication</td>
