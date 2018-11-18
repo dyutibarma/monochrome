@@ -1,11 +1,11 @@
 ---
-title:  Saving Products to a List
-description: How to facilitate a frictionless shopping journey to enable customers to save items to a list for inspiration, purchase, and sharing. 
+title:  e-commerce Listing
+description: As URBN,  we want to streamline the shoppers journey for saving items to a list.  
 header: Saving Products to a list with ease
-image: coianac.github.io/img/proto-2.jpg
+image: coianac.github.io/img/category-hearting.gif
 snippet: The research and design of a single and capable e-commerce listing product
 categories: [portfolio]
-tags: [ecommerce, research, strategy]
+tags: [research, strategy, personas, ia, workflows, wireframes]
 layout: portfolio
 excerpt_separator: <!--more-->
 ---
