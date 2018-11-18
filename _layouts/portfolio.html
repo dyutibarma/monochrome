@@ -3,7 +3,36 @@ layout: default
 ---
 <article id="portfolio-page">
 	<h1>{{ page.header }}</h1>
+	{% for portfolio in site.portfolio %}
 
+<div class ="w3-row">
+	<img src="{{ portfolio.hero }}" alt="{{ portfolio.hero }}">
+</div>
+<div class ="w3-row block-head"> 
+	<div class="w3-col w3-container m2 l3">
+	</div>
+	<div class="w3-col w3-container m8 l6">
+        	<h5>User Story</h5>
+		{% for item in portfolio.snippet %}
+		    	<p>{{ item }}</p>
+		{% endfor %}
+      	</div>
+      	<div class="w3-col w3-container m2 l3">
+      	</div>
+</div>
+
+<div class ="w3-row "> 
+	<div class="w3-col w3-container m2 l3">
+	</div>
+	<div class="w3-col w3-container m8 l6">
+		{% for item in portfolio.tags %}
+			<pill>{{ item }}</pill>
+		{% endfor %}
+	</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>
+	
 	<div class="content">
 
 		{{ content }}
