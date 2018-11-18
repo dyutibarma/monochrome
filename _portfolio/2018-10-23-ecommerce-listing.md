@@ -89,23 +89,124 @@ layout: portfolio
         </ul>
       </blockquote>
       <h4>Industry Data</h4>
-        <ul>
+	<blockquote>
+	<ul>
           <li>66% of participants report browsing vs <b>17% purchasing</b></li>
           <li>Classic sales funnel: Browsing > Narrowing > Purchasing</li>
           <li>Translated "Listing" funnel: SKU-less hearting > SKU-full listing > Carting</li>
           <li>In narrowing phase: <b>7%</b> of participants are looking for <b>sales / deals</b></li>
-      </ul>
+      	</ul>
       </blockquote>
   <h2>product analysis</h2>
   <h3>Current State</h3>
   <p>Urban Outfitters list featureset is the least complex – <b>low complexity</b> – with a single list type – wish list – that is accessible behind an authentication gate.</p>
   <p>Anthropologie has multiple list locations, both with a varied set of functional reqiurements - <b>medium complexity</b> - these list types are a wish list and registry. Both of these list types are accessible behind an authentication gate.</p>
-  <p>Free People, however, has multiple methods of collection on their webstore, two of which are product focused, the other on user generated content (UGC); wish listing, product favoriting, and UGC favoriting respectfully - <b>high complexity</b> - all accessible behind the authentication gate.</P
+  <p>Free People, however, has multiple methods of collection on their webstore, two of which are product focused, the other on user generated content (UGC); wish listing, product favoriting, and UGC favoriting respectfully - <b>high complexity</b> - all accessible behind the authentication gate.</p>
       </div>
       <div class="w3-col w3-container m2 l3">
       </div>
     </div>
 
+<div class="w3-row block-white">
+	<div class="w3-col w3-container m1 ">
+	     </div>
+	<div class="w3-col w3-container m10">
+			<a href="https://coianac.github.io/img/list-ecosystem.gif">
+			<img src="https://coianac.github.io/img/list-ecosystem.gif" alt="animated listing ecosystem graphic">
+			</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>	
+
+<div class="w3-row">
+	<div class="w3-col w3-container m2 l3">
+	</div>
+	<div class="w3-col w3-container m8 l6">
+		<h5>Audit</h5>
+		<table>
+		<tr>
+		    <th>Wish List</th>
+		    <th>Registry</th>
+		    <th>Favorites</th>
+		</tr>
+		<tr>
+			<td>Authentication</td>
+			<td>x</td>
+			<td>x</td>
+			<td>x</td>
+		</tr>
+		<tr>
+			<td>SKU-full saving</td>
+			<td>x</td>
+			<td>x</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>SKU-less saving</td>
+			<td></td>
+			<td></td>
+			<td>x</td>
+		</tr>
+		<tr>
+			<td>Sort</td>
+			<td></td>
+			<td>x</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Multiple lists</td>
+			<td>x</td>
+			<td>x</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>QTY desired</td>
+			<td>x</td>
+			<td>x</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Quick shop</td>
+			<td>x</td>
+			<td>x</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Follow</td>
+			<td></td>
+			<td></td>
+			<td>x</td>
+		</tr>
+		<tr>
+			<td>Follow</td>
+			<td></td>
+			<td></td>
+			<td>x</td>
+		</tr>
+		<tr>
+			<td>Image upload</td>
+			<td></td>
+			<td></td>
+			<td>x</td>
+		</tr>
+		<tr>
+			<td>Explore</td>
+			<td></td>
+			<td></td>
+			<td>x</td>
+		</tr>
+		</table>
+		<h2>solution overview</h2>
+		<p>Research confimed my hypothesis that a single list location with flexible collection methods is the preferred pattern of interaction and site architecture.</p>
+		<p>With that, my proposed solution was to consolidate the main listing patterns into a single listing application where users can save a product or SKU ID into their list and from there continue on their various paths of organizationa nd collection irregardless of their end goals.</p>
+		<blockquote><b>Please note</b> a SKU-full is when a product represents color, size, and quantity. SKU-less is when the system represents a product and all its potential attributes with no definitive selection.</p>
+		</blockquote>
+		<h3>list types & the shopping journey</h3>
+	</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>
 
 
 
