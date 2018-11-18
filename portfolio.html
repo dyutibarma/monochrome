@@ -19,11 +19,13 @@ description: Portfolio Pieces.
             <h5>{{ portfolio.title }}</h5>
             <label-1>{{ portfolio.snippet }}</label-1>
           </div>
-          <pill>
+          <table>
             {% for item in portfolio.tags %}
-            {{ item }}
+            <tr>
+              <td><pill>{{ item }}</pill></td>
+            </tr>
             {% endif %}
-          </pill>        
+          </table>
         </div>
        {% endfor %}
       </div>
