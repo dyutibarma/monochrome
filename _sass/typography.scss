@@ -33,8 +33,14 @@
 	margin: 0 0 0 0;
 }
 
-.bottom-border-none {
-	border-bottom: 0px;
+.block-white-nobottom {
+	background-color: white;
+    	border-top: 1px dashed;
+    	border-top-color: #CFEBC7;
+    	border-bottom: 0px;
+    	border-bottom-color: #CFEBC7;
+    	padding: 20px 0 20px 0;
+	margin: 0 0 0 0;
 }
 
 body
