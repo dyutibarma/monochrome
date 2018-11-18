@@ -1,7 +1,7 @@
 ---
 title:  Image Quality & Purchase Intent
 header: optimized.image.quality
-snippet: As a shopper, I want my pages to laod quicker. As the brand, we want to decrease our yearly Akamai costs.
+snippet: As a shopper, I want my pages to load quicker. As the brand, we want to decrease our yearly Akamai costs.
 image: coianac.github.io/img/iqTest-preview.jpg
 categories: [portfolio]
 tags: [research, optimization, strategy, eCommerce]
