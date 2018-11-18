@@ -1,17 +1,114 @@
 ---
 title:  e-commerce Listing
-description: As URBN,  we want to streamline the shoppers journey for saving items to a list.  
 header: Saving Products to a list with ease
+snippet: 
+- As a shopper interested saving items for inspiration or purchase, I want the system to compliment my shopping behavior.
+- As URBN, we want to streamline the shoppers journey for saving items to a list.
 image: coianac.github.io/img/category-hearting640x480.gif
-snippet: The research and design of a single and capable e-commerce listing product
+her0: coianac.github.io/img/lists-hero.jpg
 categories: [portfolio]
-tags: [research, strategy, personas, ia, workflows, wireframes]
+tags: 
+- research
+- strategy
+- personas
+- ia
+- workflows
+- wireframes
 layout: portfolio
-excerpt_separator: <!--more-->
 ---
+<div class ="w3-row">
+<img src="https://coianac.github.io/img/lists-Hero.jpg" alt="Image Quality Hero">
+	</div>
+<div class ="w3-row block-head"> 
+  <div class="w3-col w3-container m2 l3">
+  </div>
+    <div class="w3-col w3-container m8 l6">
+        <h5>User Story</h5>
+		    {% for item in portfolio.snippet %}
+          <p>{{ item }}</p>
+        {% endfor %}
+      </div>
+      <div class="w3-col w3-container m2 l3">
+      </div>
+    </div>
 
-TBD
-<!--more-->
+<div class ="w3-row "> 
+  <div class="w3-col w3-container m2 l3">
+  </div>
+    <div class="w3-col w3-container m8 l6">
+        {% for item in portfolio.tags %}
+          <pill>{{ item }}</pill>
+        {% endfor %}
+      </div>
+      <div class="w3-col w3-container m2 l3">
+      </div>
+    </div>
+
+<div class ="w3-row "> 
+  <div class="w3-col w3-container m2 l3">
+  </div>
+    <div class="w3-col w3-container m8 l6">
+      <h2>business problem</h2>
+      <p>URBN needs to plan for a listing ecosystem that better integrates Wish Lists and Hearting as complimentary features rather than separate and standalone products.</p>
+      <p>Free People is being migrated onto the URBN Web white label platform; White label currentl lacks the concept of hearting.</p> 
+      <h2>research<h2>
+        <h3>lists perspectives of the urban outfitter customer</h3>
+        <p>The following research was conducted by <a href>"https://www.lizzcuzzacrea.com/">Lizz Cuzzacrea</a> - Lizz conducted lists studies to inform and guide the product architecture and design decisions I presented to Anthropologie, Free People, Urban Outfitters and URBN senior and executive leaders.</p>
+        <h4>Survey Demographics</h4>
+      </div>
+      <div class="w3-col w3-container m2 l3">
+      </div>
+    </div>
+
+<div class="w3-row block-white">
+	<div class="w3-col w3-container m1 ">
+	     </div>
+	<div class="w3-col w3-container m10">
+			<a target="_blank" href="https://coianac.github.io/img/listStudyDemo.jpg">
+			<img src="https://coianac.github.io/img/listStudyDemo.jpg" alt="Image of survey demographics">
+			</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
+
+<div class ="w3-row "> 
+  <div class="w3-col w3-container m2 l3">
+  </div>
+    <div class="w3-col w3-container m8 l6">
+      <h4>Key Takeaways</h4>
+      <blockquote>
+        <ul>
+          <li>Multiple list types create confusion around expectations</li>
+          <li>Desire listing flexibility</li>
+          <li>Prefer a single list location</li>
+          <li>Lists are leveraged for deal notifications</li>
+          <li>Lists are used to aggregate products for sharing and finding later</li>
+        </ul>
+      </blockquote>
+      <h4>Industry Data</h4>
+        <ul>
+          <li>66% of participants report browsing vs <b>17% purchasing</b></li>
+          <li>Classic sales funnel: Browsing > Narrowing > Purchasing</li>
+          <li>Translated "Listing" funnel: SKU-less hearting > SKU-full listing > Carting</li>
+          <li>In narrowing phase: <b>7%</b> of participants are looking for <b>sales / deals</b></li>
+      </ul>
+      </blockquote>
+  <h2>product analysis</h2>
+  <h3>Current State</h3>
+  <p>Urban Outfitters list featureset is the least complex – <b>low complexity</b> – with a single list type – wish list – that is accessible behind an authentication gate.</p>
+  <p>Anthropologie has multiple list locations, both with a varied set of functional reqiurements - <b>medium complexity</b> - these list types are a wish list and registry. Both of these list types are accessible behind an authentication gate.</p>
+  <p>Free People, however, has multiple methods of collection on their webstore, two of which are product focused, the other on user generated content (UGC); wish listing, product favoriting, and UGC favoriting respectfully - <b>high complexity</b> - all accessible behind the authentication gate.</P
+      </div>
+      <div class="w3-col w3-container m2 l3">
+      </div>
+    </div>
+
+
+
+
+
+
 
 ### Business Opportunity
 Creating a frictionless method of product collection built on a social graph database can increase business insights into customer modeling and act as a point of leverage for customer profiling. Providing recommendations on: 
