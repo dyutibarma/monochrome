@@ -2,7 +2,7 @@
 title:  e-commerce Listing
 description: As URBN,  we want to streamline the shoppers journey for saving items to a list.  
 header: Saving Products to a list with ease
-image: coianac.github.io/img/category-hearting.gif
+image: coianac.github.io/img/category-hearting640x480.gif
 snippet: The research and design of a single and capable e-commerce listing product
 categories: [portfolio]
 tags: [research, strategy, personas, ia, workflows, wireframes]
