@@ -16,10 +16,10 @@ tags:
 - wireframes
 layout: portfolio
 ---
-<div class ="w3-row">
+<div class="w3-row">
 <img src="https://coianac.github.io/img/lists-hero.jpg" alt="Image Quality Hero">
 	</div>
-<div class ="w3-row block-head"> 
+<div class="w3-row block-head"> 
   <div class="w3-col w3-container m2 l3">
   </div>
     <div class="w3-col w3-container m8 l6">
@@ -31,7 +31,7 @@ layout: portfolio
       </div>
     </div>
 
-<div class ="w3-row"> 
+<div class="w3-row"> 
   <div class="w3-col w3-container m2 l3">
   </div>
     <div class="w3-col w3-container m8 l6">
@@ -46,7 +46,7 @@ layout: portfolio
       </div>
     </div>
 
-<div class ="w3-row "> 
+<div class="w3-row "> 
   <div class="w3-col w3-container m2 l3">
   </div>
     <div class="w3-col w3-container m8 l6">
@@ -55,7 +55,7 @@ layout: portfolio
       <p>Free People is being migrated onto the URBN Web white label platform; White label currentl lacks the concept of hearting.</p> 
       <h2>research<h2>
         <h3>lists perspectives of the urban outfitter customer</h3>
-        <p>The following research was conducted by <a href="https://www.lizzcuzzacrea.com/">Lizz Cuzzacrea</a> - Lizz conducted lists studies to inform and guide the product architecture and design decisions I presented to Anthropologie, Free People, Urban Outfitters and URBN senior and executive leaders.</p>
+        <p>The following research was conducted by <a target="_blank" href="https://www.lizzcuzzacrea.com/">Lizz Cuzzacrea</a> - Lizz conducted lists studies to inform and guide the product architecture and design decisions I presented to Anthropologie, Free People, Urban Outfitters and URBN senior and executive leaders.</p>
         <h4>Survey Demographics</h4>
      </div>
      <div class="w3-col w3-container m2 l3">
@@ -66,7 +66,7 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m10">
-			<a target="_blank" href="https://coianac.github.io/img/listStudyDemo.jpg">
+			<a href="https://coianac.github.io/img/listStudyDemo.jpg">
 			<img src="https://coianac.github.io/img/listStudyDemo.jpg" alt="Image of survey demographics">
 			</a>
 	</div>
@@ -74,7 +74,7 @@ layout: portfolio
 	</div>
 </div>
 
-<div class ="w3-row "> 
+<div class="w3-row "> 
   <div class="w3-col w3-container m2 l3">
   </div>
     <div class="w3-col w3-container m8 l6">
