@@ -1,7 +1,7 @@
 ---
 title:  Image Quality & Purchase Intent
 header: optimized.image.quality
-image: coianac.github.io/img/proto-1.jpg
+image: coianac.github.io/img/iqTest-preview.jpg
 categories: [portfolio]
 tags: [research, optimization, strategy, eCommerce]
 layout: portfolio
