@@ -17,28 +17,30 @@ tags:
 layout: portfolio
 ---
 <div class ="w3-row">
-<img src="https://coianac.github.io/img/lists-Hero.jpg" alt="Image Quality Hero">
+<img src="https://coianac.github.io/img/lists-hero.jpg" alt="Image Quality Hero">
 	</div>
 <div class ="w3-row block-head"> 
   <div class="w3-col w3-container m2 l3">
   </div>
     <div class="w3-col w3-container m8 l6">
         <h5>User Story</h5>
-		    {% for item in portfolio.snippet %}
-          <p>{{ item }}</p>
-        {% endfor %}
+	    <p>As a shopper interested saving items for inspiration or purchase, I want the system to compliment my shopping behavior.</p>
+	    <p>As URBN, we want to streamline the shoppers journey for saving items to a list.</p>
       </div>
       <div class="w3-col w3-container m2 l3">
       </div>
     </div>
 
-<div class ="w3-row "> 
+<div class ="w3-row"> 
   <div class="w3-col w3-container m2 l3">
   </div>
     <div class="w3-col w3-container m8 l6">
-        {% for item in portfolio.tags %}
-          <pill>{{ item }}</pill>
-        {% endfor %}
+	<pill>research</pill>
+	<pill>strategy</pill>
+	<pill>personas</pill>
+	<pill>ia</pill>
+	<pill>workflows</pill>
+	<pill>wireframes</pill>
       </div>
       <div class="w3-col w3-container m2 l3">
       </div>
@@ -53,16 +55,16 @@ layout: portfolio
       <p>Free People is being migrated onto the URBN Web white label platform; White label currentl lacks the concept of hearting.</p> 
       <h2>research<h2>
         <h3>lists perspectives of the urban outfitter customer</h3>
-        <p>The following research was conducted by <a href>"https://www.lizzcuzzacrea.com/">Lizz Cuzzacrea</a> - Lizz conducted lists studies to inform and guide the product architecture and design decisions I presented to Anthropologie, Free People, Urban Outfitters and URBN senior and executive leaders.</p>
+        <p>The following research was conducted by <a href="https://www.lizzcuzzacrea.com/">Lizz Cuzzacrea</a> - Lizz conducted lists studies to inform and guide the product architecture and design decisions I presented to Anthropologie, Free People, Urban Outfitters and URBN senior and executive leaders.</p>
         <h4>Survey Demographics</h4>
-      </div>
-      <div class="w3-col w3-container m2 l3">
-      </div>
-    </div>
+     </div>
+     <div class="w3-col w3-container m2 l3">
+     </div>
+</div>
 
 <div class="w3-row block-white">
-	<div class="w3-col w3-container m1 ">
-	     </div>
+	<div class="w3-col w3-container m1">
+	</div>
 	<div class="w3-col w3-container m10">
 			<a target="_blank" href="https://coianac.github.io/img/listStudyDemo.jpg">
 			<img src="https://coianac.github.io/img/listStudyDemo.jpg" alt="Image of survey demographics">
