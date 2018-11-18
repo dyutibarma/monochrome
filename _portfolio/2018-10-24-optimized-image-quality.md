@@ -33,10 +33,9 @@ layout: portfolio
   <div class="w3-col w3-container m2 l3">
   </div>
     <div class="w3-col w3-container m8 l6">
-        <pill>research</pill>
-        <pill>optimization</pill>
-        <pill>strategy</pill>
-        <pill>eCommerce</pill>
+	{% for item in portfolio.tags %}
+          <pill>{{ item }}</pill>
+        {% endfor %}
       </div>
       <div class="w3-col w3-container m2 l3">
       </div>
