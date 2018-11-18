@@ -62,6 +62,19 @@ a {
 .f-left { float: left; }
 .clear { clear:both; }
 
+// center float trial
+.float_center {
+  float: right;
+
+  position: relative;
+  left: -50%; /* or right 50% */
+  text-align: left;
+}
+.float_center > .child {
+  position: relative;
+  left: 50%;
+}
+
 // to align div vertically and horizontally in center of another div
 .parent { display: flex;}
 .inner { align-self: center; }
