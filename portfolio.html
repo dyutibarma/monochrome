@@ -15,11 +15,11 @@ description: Portfolio Pieces.
           <a href="{{ portfolio.url }}">
             <img src="{{ portfolio.image }}" alt="{{ portfolio.image }} style="width:100%" class="w3-hover-opacity"">  
           </a>
-          <div class="w3-container block-white">
+          <div class="w3-container w3-white">
             <h5>{{ portfolio.title }}</h5>
             <label-1>{{ portfolio.snippet }}</label-1>
           </div>
-          <pill>{{ portfolio.tags }}</pill>
+          <li><pill>{{ portfolio.tags }}</pill></li>
         </div>
        {% endfor %}
       </div>
