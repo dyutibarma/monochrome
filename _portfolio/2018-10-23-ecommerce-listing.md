@@ -232,24 +232,27 @@ layout: portfolio
 	</div>
 </div>
 
-<div class="w3-col w3-container m1">
-	     </div>
-	<div class="w3-col w3-container m10">
-		<h3>technical proposal – consumer & business value</h3>
-		<p>By unifying the product collection methods and housing saved items in a single list location — the feature-set will compliment both primary user types; the hearts user and the wish list user.</p>
-		<h4>Consumer Types</h4>
-	<div class="w3-row block">
-	</div>
-		<p>The hearting user is considered a Trend Seeker, they may not be a first time visitor. They’re looking for inspiration and an easy means of collection. They are most likely more active on standard social platforms such as instagram, facebook, pinterest — and with that are akin to the fast and gratifying collection methods.</p>
-		<p>The wish list user is much more targeted, considered a Type of Product shopper — because they are defining a SKU, they are more likely to purchase and are more aware of available inventory so may be looking for promotions or sales via email triggers.</p>
-	<div class="w3-row block">
-	<a href="https://coianac.github.io/img/userBusinessValue.png">
-	<img src="https://coianac.github.io/img/userBusinessValue.png" alt="graphic of user and business value">
-	</a>
-	</div>
+<div class="w3-row">
 	<div class="w3-col w3-container m1">
 	</div>
+		<div class="w3-col w3-container m10">
+			<h3>technical proposal – consumer & business value</h3>
+			<p>By unifying the product collection methods and housing saved items in a single list location — the feature-set will compliment both primary user types; the hearts user and the wish list user.</p>
+			<h4>Consumer Types</h4>
+				<div class="w3-row block">
+				</div>
+			<p>The hearting user is considered a Trend Seeker, they may not be a first time visitor. They’re looking for inspiration and an easy means of collection. They are most likely more active on standard social platforms such as instagram, facebook, pinterest — and with that are akin to the fast and gratifying collection methods.</p>
+			<p>The wish list user is much more targeted, considered a Type of Product shopper — because they are defining a SKU, they are more likely to purchase and are more aware of available inventory so may be looking for promotions or sales via email triggers.</p>
+				<div class="w3-row block">
+				<a href="https://coianac.github.io/img/userBusinessValue.png">
+				<img src="https://coianac.github.io/img/userBusinessValue.png" alt="graphic of user and business value">
+				</a>
+				</div>
+				<div class="w3-col w3-container m1">
+				</div>
+		</div>
 </div>
+
 
 
 
