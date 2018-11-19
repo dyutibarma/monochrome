@@ -9,7 +9,7 @@
     	border-top-color: #CFEBC7;
     	border-bottom: 1px solid;
     	border-bottom-color: #CFEBC7;
-    	padding: 50px 0 50px 0;
+    	padding: 20px 0 20px 0;
 	margin: 0 0 10px 0;
 }
 
@@ -20,7 +20,7 @@
     	border-bottom: 1px solid;
     	border-bottom-color: #CFEBC7;
     	padding: 20px 0 20px 0;
-	margin: 30px 0 40px 0;
+	margin: 20px 0 20px 0;
 }
 
 .block-white {
@@ -30,7 +30,7 @@
     	border-bottom: 1px solid;
     	border-bottom-color: #CFEBC7;
     	padding: 20px 0 20px 0;
-	margin: 0 0 0 0;
+	margin: 20px 0 20px 0;
 }
 
 .block-white-nobottom {
@@ -71,7 +71,8 @@ h1 {
 	letter-spacing: 0.06em; /* 0.84px */
 	line-height: 69px;
 	color: #485744;
-	padding: 0 0 60px 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
+	padding: 0 0 0 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
+	margin: 0 0 60px 0; 
 }
 
 h2 {
@@ -82,17 +83,18 @@ h2 {
     	letter-spacing: .84px;
     	line-height: 40px;
     	color: #485744;
-    	padding: 40px 0 40px 0;
+    	padding: 0 0 0 0;
+	margin:  40px 0 40px 0;
 }
 
 h3 {
 	font-family : "Nanum Myeongjo", serif;
 	font-size: 1.75em; /* 24px */
 	font-weight: bold;
- 	letter-spacing: 0.84px; /* 0.84px */
-	line-height: 29px; /* 29px */
-	padding: 0 0 0 0; /* 30px */
-	margin: 0 0 30px 0;
+ 	letter-spacing: 0.84px;
+	line-height: 29px;
+	padding: 0 0 0 0;
+	margin: 30px 0 30px 0;
 }
 
 h4 {
@@ -111,7 +113,8 @@ h5 {
 	font-weight: 800;
 	letter-spacing: 0.75px; /* 0.75px */
 	line-height: 19px; /* 19px */
-	padding: 10px 0 10px 0; /* 20px */
+	padding: 0 0 0 0;
+	margin: 10px 0 10px 0;
 }
 	
 h6 {
@@ -120,7 +123,8 @@ h6 {
 	font-weight: normal;
 	letter-spacing: .65px; /* 0.65px */
 	line-height: 29px; /* 29px */
-	padding: 0 0 10px 0; /* 20px */
+	padding: 0 0 0 0;
+	margin: 0 0 10px 0;
 }
 
 label-1 {
@@ -128,7 +132,8 @@ label-1 {
     	font-weight: lighter;
     	letter-spacing: .65px; /* .65px */
     	line-height: 20px; /* 20px */
-    	padding: 0 0 5px 0; /* 5px */
+    	padding: 0 0 0 0; /* 5px */
+	magin: 0 0 5px 0;
 }
 label-2 {
     	font-size: 14px;
@@ -136,7 +141,8 @@ label-2 {
     	color: #9B9B9B;
     	letter-spacing: 0.65px; /* .65px */
     	line-height: 16px; /* 16px */
-    	padding: 0 0 5px 0; /* 5px */
+    	padding: 0 0 0 0; /* 5px */
+	magin: 0 0 5px 0;
 }
 primary-button {
     	font-size: 18px;
@@ -211,7 +217,8 @@ h1 {
 	letter-spacing: 0.06em; /* 0.84px */
 	line-height: 69px;
 	color: #485744;
-	padding: 0 0 60px 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
+	padding: 0 0 0 0;
+	margin: 0 0 60px 0;
 }
 
 h2 {
@@ -222,7 +229,8 @@ h2 {
     	letter-spacing: .84px;
     	line-height: 40px;
     	color: #485744;
-    	padding: 40px 0 40px 0;
+    	padding: 0 0 0 0;
+	margin:  40px 0 40px 0;
 }
 
 h3 {
@@ -232,7 +240,7 @@ h3 {
  	letter-spacing: 0.84px; /* 0.84px */
 	line-height: 29px; /* 29px */
 	padding: 0 0 0 0; /* 30px */
-	margin: 0 0 30px 0;
+	margin: 30px 0 30px 0;
 }
 
 h4 {
@@ -241,8 +249,8 @@ h4 {
 	font-weight: 800;
  	letter-spacing: .75px; /* 0.75px */
 	line-height: 19px; /* 19px */
-	padding: 0 0 20px 0; /* 30px */
-	margin: 30px 0 0 0;
+	padding: 0 0 0 0; /* 30px */
+	margin: 30px 0 30px 0;
 }
 
 h5 {
@@ -251,7 +259,8 @@ h5 {
 	font-weight: 800;
 	letter-spacing: 0.75px; /* 0.75px */
 	line-height: 19px; /* 19px */
-	padding: 10px 0 10px 0; /* 20px */
+	padding: 0 0 0 0;	
+	padding: 10px 0 10px 0;
 }
 	
 h6 {
@@ -260,7 +269,8 @@ h6 {
 	font-weight: normal;
 	letter-spacing: .65px; /* 0.65px */
 	line-height: 29px; /* 29px */
-	padding: 0 0 10px 0; /* 20px */
+	padding: 0 0 0 0;
+	margin: 0 0 10px 0;
 }
 
 label-1 {
