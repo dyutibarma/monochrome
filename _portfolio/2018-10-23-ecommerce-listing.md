@@ -300,8 +300,8 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m10">
-				<a href="">
-				<img src="" alt="graphic of lists information architecture">
+				<a href="https://coianac.github.io/img/list-ai.jpg">
+				<img src="https://coianac.github.io/img/list-ai.jpg" alt="graphic of lists information architecture">
 				</a>
 	</div>
 	<div class="w3-col w3-container m1">
@@ -323,8 +323,8 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m10">
-				<a href="">
-				<img src="" alt="graphic of adding an item to a list">
+				<a href="https://coianac.github.io/img/list-workflow1.jpg">
+				<img src="https://coianac.github.io/img/list-workflow1.jpg" alt="graphic of adding an item to a list">
 				</a>
 	</div>
 	<div class="w3-col w3-container m1">
@@ -349,8 +349,8 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m10">
-				<a href="">
-				<img src="" alt="graphic of Scenario A and B workflow">
+				<a href="https://coianac.github.io/img/list-workflow2.jpg">
+				<img src="https://coianac.github.io/img/list-workflow2.jpg" alt="graphic of Scenario A and B workflow">
 				</a>
 	</div>
 	<div class="w3-col w3-container m1">
@@ -374,8 +374,8 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m10">
-				<a href="">
-				<img src="" alt="graphic of Scenario C and C1 workflow">
+				<a href="https://coianac.github.io/img/list-workflow3.jpg">
+				<img src="https://coianac.github.io/img/list-workflow3.jpg" alt="graphic of Scenario C and C1 workflow">
 				</a>
 	</div>
 	<div class="w3-col w3-container m1">
