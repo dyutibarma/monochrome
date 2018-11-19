@@ -1,6 +1,6 @@
 ---
 title:  Image Quality & Purchase Intent
-header: optimized.image.quality
+header: optimized image quality
 snippet: 
 - As a shopper, I want my pages to load quicker. 
 - As the brand, we want to decrease our yearly Akamai costs.
