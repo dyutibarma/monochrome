@@ -47,18 +47,18 @@ tags:
     <h3>work experience</h3>
     <label-2>Philadelphia, PA</label-2>
     <h6><b>Senior Product Designer</b> URBN (Anthropologie, Free People, Urban Outfitters)</h6>
-    <h6><b>Senior Product Manager, Interaction Design</b> Urban Outfitters</h6>
+    <h6><b>Product Manager, Interaction Design</b> Urban Outfitters</h6>
     <h6><b>Lead User Experience Designer</b> CloudMine</h6>
-    <h6><b>Senior Quality Engineer</b> Think Company</h6>
+    <h6><b>Senior Quality Engineer Intern</b> Think Company</h6>
     <label-2>Boston, MA</label-2>
     <h6><b>Analyst</b> One to One Interactive</h6>
     <h3>speaking and teaching</h3>
     <label-2>Philadelphia, PA</label-2>
     <h6><b>Heuristic Evaluations 101</b> Temple University, Fox Business School, MIS</h6>
     <h6><b>Guest Speaker</b> University of Pennsylvania, Integrated Product Design Masters Program</h6>
-    <h6><b>Product Design & Management, Panel Speaker</b> WeWork</h6>
+    <h6><b>Panel Speaker, Product Design & Management</b> WeWork</h6>
     <h6><b>Guest Thesis Critique</b> University of the Arts</h6>
-    <h6><b>Volunteer Facilitator & Coach</b> Neighborhood Bike Works, Bike Church</h6>
+    <h6><b>Volunteer Facilitator & Coach</b> Neighborhood Bike Works, <a href="https://www.neighborhoodbikeworks.org/adult-programs/bike-church">Bike Church</a></h6>
     <h3>education</h3>
     <label-2>Philadelphia, PA</label-2>
     <h6><b>MFA – Industrial Design</b> University of the Arts</h6>
@@ -74,7 +74,7 @@ tags:
   </div>
   <div class="w3-col w3-container m8 l6">
     <h5>Why Green?</h5>
-    <p>Studies show that green is associated with feelings of happiness, comfort, hope, excitement, and a general sense of peace. These are the main values I hold myself to in my professional and personal life.</p>
+    <p>Studies show that green is associated with feelings of happiness, comfort, hope, excitement, and a general sense of peace. These are the values I hold myself to in both professional and personal life.</p>
     <p>Reach out and I'll provide some complimentary links – coia.nac@gmail.com</p>
   </div>
   <div class="w3-col w3-container m2 l3">
