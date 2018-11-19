@@ -224,7 +224,7 @@ layout: portfolio
 	     </div>
 	<div class="w3-col w3-container m10">
 			<a href="https://coianac.github.io/img/listingJourneyModes.jpg">
-			<img src="https://coianac.github.io/img/listingJourneyModes.png" alt="graphic of listing journey modes">
+			<img class="border-tan" src="https://coianac.github.io/img/listingJourneyModes.png" alt="graphic of listing journey modes">
 			</a>
 	</div>
 	<div class="w3-col w3-container m1">
