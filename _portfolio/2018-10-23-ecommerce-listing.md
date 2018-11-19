@@ -233,29 +233,163 @@ layout: portfolio
 </div>
 
 <div class="w3-row">
-	<div class="w3-col w3-container m1">
+	<div class="w3-col w3-container m2 l3">
 	</div>
-		<div class="w3-col w3-container m10">
+		<div class="w3-col w3-container m8 l6">
 			<h3>technical proposal – consumer & business value</h3>
 			<p>By unifying the product collection methods and housing saved items in a single list location — the feature-set will compliment both primary user types; the hearts user and the wish list user.</p>
 			<h4>Consumer Types</h4>
-				<div class="w3-row block">
-				</div>
+		</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>	
+
+<div class="w3-row block">
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
+		<h4>Trend Seeker</h4>
+		<h4>Type of product</h4>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
+
+<div class="w3-row">
+	<div class="w3-col w3-container m2 l3">
+	</div>
+		<div class="w3-col w3-container m8 l6">
 			<p>The hearting user is considered a Trend Seeker, they may not be a first time visitor. They’re looking for inspiration and an easy means of collection. They are most likely more active on standard social platforms such as instagram, facebook, pinterest — and with that are akin to the fast and gratifying collection methods.</p>
 			<p>The wish list user is much more targeted, considered a Type of Product shopper — because they are defining a SKU, they are more likely to purchase and are more aware of available inventory so may be looking for promotions or sales via email triggers.</p>
-				<div class="w3-row block">
+		</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>				
+
+<div class="w3-row block-white">
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
 				<a href="https://coianac.github.io/img/userBusinessValue.png">
 				<img src="https://coianac.github.io/img/userBusinessValue.png" alt="graphic of user and business value">
 				</a>
-				</div>
-				<div class="w3-col w3-container m1">
-				</div>
-		</div>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
 </div>
 
+// information architecture
+<div class="w3-row">
+	<div class="w3-col w3-container m2 l3">
+	</div>
+		<div class="w3-col w3-container m8 l6">
+			<h2>site architecture</h2>
+			<h3>information architecture</h3>
+			<p>This is a simple diagram exposing the hierarchy of content, authentication gates, and linking states that are expected by a customer and required by the system.</p>
+			<h4>Diagram</h4>
+		</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>
 
+<div class="w3-row block-white">
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
+				<a href="">
+				<img src="" alt="graphic of lists information architecture">
+				</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
 
+<div class="w3-row">
+	<div class="w3-col w3-container m2 l3">
+	</div>
+		<div class="w3-col w3-container m8 l6">
+			<p>The following begins to expose some of the more precarious aspects of working through SKU-less and SKU-full product collection > highlighting the workflows to just a favorites and a wish list. Registry is out of scope for this work.</p>
+			<h4>Diagram</h4>
+		</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>
 
+<div class="w3-row block-white">
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
+				<a href="">
+				<img src="" alt="graphic of adding an item to a list">
+				</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
+
+<div class="w3-row">
+	<div class="w3-col w3-container m2 l3">
+	</div>
+		<div class="w3-col w3-container m8 l6">
+			<h3>listing specific workflows</h3>
+			<h4>User Stories</h4>
+			<p><b>Scenario A:</b> As a user browsing the site, I want to easily collect products so that I can later review and purchase these items that inspire me.</p>
+			<p><b>Scenario B:</b> As a user browings the store who has selected Color, Size, QTY for a given item, when I favorite this item, I want that attribution to persist to the list of my choice.</p>
+			<h4>Diagram</h4>
+		</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>
+
+<div class="w3-row block-white">
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
+				<a href="">
+				<img src="" alt="graphic of Scenario A and B workflow">
+				</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
+
+<div class="w3-row">
+	<div class="w3-col w3-container m2 l3">
+	</div>
+		<div class="w3-col w3-container m8 l6">
+			<h4>User Stories</h4>
+			<p><b>Scenario C:</b> I want to manage my lists from a central location</p>
+			<p><b>Scenario C1:</b> I want to perform bulk and isolated actions so that I can sort, move, or remove products in my respectful list.</p> 
+			<h4>Diagram</h4>
+		</div>
+	<div class="w3-col w3-container m2 l3">
+	</div>
+</div>
+
+<div class="w3-row block-white">
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
+				<a href="">
+				<img src="" alt="graphic of Scenario C and C1 workflow">
+				</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
+
+<div class="w3-row block">
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
+		<h2>responsive wireframes</h2>
+		<a href="">
+		<img src="" alt="graphic">
+		</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
 
 ### Business Opportunity
 Creating a frictionless method of product collection built on a social graph database can increase business insights into customer modeling and act as a point of leverage for customer profiling. Providing recommendations on: 
