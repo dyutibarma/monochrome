@@ -47,8 +47,8 @@ tags:
     <h3>work experience</h3>
     <label-2>Philadelphia, PA</label-2>
     <h6><b>Senior Product Designer</b> URBN (Anthropologie, Free People, Urban Outfitters)</h6>
-    <h6><b>Product Manager, Interaction Design</b> Urban Outfitters</h6>
-    <h6><b>Lead User Experience Designer</b> CloudMine</h6>
+    <h6><b>Senior Product Manager, Interaction Design</b> Urban Outfitters</h6>
+    <h6><b>User Experience Designer</b> CloudMine</h6>
     <h6><b>Senior Quality Engineer Intern</b> Think Company</h6>
     <label-2>Boston, MA</label-2>
     <h6><b>Analyst</b> One to One Interactive</h6>
