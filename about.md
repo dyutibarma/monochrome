@@ -12,7 +12,7 @@ tags:
 - UE
 ---
 <div class="w3-row">
-  <h1> about. me</h1>
+  <h1> about me</h1>
 </div>
 
 <div class="w3-row block-head">
