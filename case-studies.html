@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Portfolio
+title: Case Studies
 description: Portfolio Pieces.
 ---
 
-<h2>Portfolio Pieces</h2>
-<hr>
+<h1>case studies</h2>
 
 <div class="w3-container w3-content" style="max-width:980px">
   <div class="w3-white">
@@ -15,7 +14,7 @@ description: Portfolio Pieces.
           <a href="{{ portfolio.url }}">
             <img src="{{ portfolio.image }}" alt="{{ portfolio.image }} style="width:100%" class="w3-hover-opacity"">  
           </a>
-          <div class="w3-container w3-white">
+          <div class="w3-container w3-light-grey style="height:190px">
             <h5>{{ portfolio.title }}</h5>
             {% for item in portfolio.snippet %}
             <label-1>{{ item }}</label-1>
