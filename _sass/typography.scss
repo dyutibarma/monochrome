@@ -63,18 +63,18 @@ body
 /*- Typography for medium and small screen, based on 16px font-size -*/
 
 p, ul, ol {
-	font-size: .9em; /* 14px */
+	font-size: 1.2; /* 14px */
 	line-height: 1.8em;
 	margin-bottom: 1.5em; /* 24px/16px */
 }
 
 h1 {
 	font-family : "Nanum Myeongjo", serif;
-	font-size: 2.5em; /* 60px */
+	font-size: 4em; /* 60px */
 	font-weight: bold;
 	text-align: center;
 	letter-spacing: 0.06em; /* 0.84px */
-	line-height: 69px;
+	line-height: 50px;
 	color: #485744;
 	padding: 0 0 0 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
 	margin: 0 0 60px 0; 
@@ -86,7 +86,7 @@ h2 {
     	font-weight: bold;
 	text-align: center;
     	letter-spacing: .84px;
-    	line-height: 40px;
+    	line-height: 50px;
     	color: #485744;
     	padding: 0 0 0 0;
 	margin:  40px 0 40px 0;
