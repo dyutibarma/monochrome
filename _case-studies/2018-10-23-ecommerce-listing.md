@@ -18,17 +18,11 @@ layout: portfolio
 <div class="w3-row">
 <img src="https://coianac.github.io/img/lists-hero.jpg" alt="Image Quality Hero">
 	</div>
-<div class="w3-row block-head"> 
-  <div class="w3-col w3-container m2">
-  </div>
-    <div class="w3-col w3-container m8">
+<div class="w3-row w3-center block-head"> 
         <h5>User Story</h5>
 	    <p>As a shopper interested saving items for inspiration or purchase, I want the system to compliment my shopping behavior.</p>
 	    <p>As URBN, we want to streamline the shoppers journey for saving items to a list.</p>
-      </div>
-      <div class="w3-col w3-container m2">
-      </div>
-    </div>
+</div>
 
 <div class="w3-row"> 
   <div class="w3-col w3-container m2">
