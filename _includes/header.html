@@ -1,34 +1,20 @@
 <div class="w3-row">
-  <div class="w3-col w3-container m3">
+  <div class="w3-col w3-container m1">
   </div>
-    <div id="nav-links">
-    <div class="w3-col w3-container m2">
+    <div class="w3-col w3-container m10">
+<header id="header" class="parent justify-spaceBetween">
+  <div class="inner w100 relative">
+    <span class="f-left">  
       <a href="{{ site.baseurl }}/">
         <logo>COIA</logo>
       </a>
-    </div>
-    <div class="w3-col w3-container m2">
+    </span>
+    <span id="nav-links" class="absolute right bottom">
+      <!-- Nav pages -->
       <a href="https://coianac.github.io/case-studies">case studies</a>
-    </div>
-    <div class="w3-col w3-container m2">
       <a href="https://coianac.github.io/about">about</a>
-    </div>
+    </span>
   </div>
-  <div class="w3-col w3-container m3">  
-  </div>
-</div>
-  <script>
-    // Add active class to the current button (highlight it)
-    var header = document.getElementById("nav-links");
-    var btns = header.getElementsByClassName("btn");
-    for (var i = 0; i < btns.length; i++) {
-      btns[i].addEventListener("click", function() {
-        var current = document.getElementsByClassName("active");
-        current[0].className = current[0].className.replace(" active", "");
-        this.className += " active";
-      });
-    }
-  </script> 
 </header>
   </div>
   <div class="w3-col w3-container m1">
