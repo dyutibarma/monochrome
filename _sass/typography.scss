@@ -180,6 +180,11 @@ blockquote {
 	margin: 0 0 0 0;
 }
 
+logo {
+	font-weight: 100px;
+	font-size: 16;
+}
+
 /*- Typography for big screen, based on 14px font-size -*/
 
 @media (min-width: 940px) { //Breakpoint set to 940px
