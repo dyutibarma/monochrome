@@ -10,6 +10,7 @@ tags:
 - UX
 - UI
 - UE
+order: 2
 ---
 <div class="w3-row">
   <h1> about me</h1>
