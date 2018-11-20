@@ -20,9 +20,11 @@ description: Portfolio Pieces.
             <label-1>{{ item }}</label-1>
             {% endfor %}
           </div>
+          <div style="height:10px;" class="w3-row">
             {% for item in portfolio.tags %}
               <pill>{{ item }}</pill>
             {% endfor %}
+          </div>
         </div>
        {% endfor %}
       </div>
