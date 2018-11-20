@@ -300,7 +300,7 @@ layout: portfolio
 	</div>
 	<div class="w3-col w3-container m10">
 				<a href="https://coianac.github.io/img/list-ai.jpg">
-				<img src="https://coianac.github.io/img/list-ai.jpg" alt="graphic of lists information architecture">
+				<img style="width=600px;" src="https://coianac.github.io/img/list-ai.jpg" alt="graphic of lists information architecture">
 				</a>
 	</div>
 	<div class="w3-col w3-container m1">
