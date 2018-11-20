@@ -16,33 +16,33 @@ tags:
 </div>
 
 <div class="w3-row block-head">
-<div class="w3-col w3-container m2 l3">
+<div class="w3-col w3-container m2">
   </div>
-  <div class="w3-col w3-container m8 l6">
+  <div class="w3-col w3-container m8">
     <h5>Hi 👋🏼, I'm Nicolas</h5>
     <p>I'm a lead designer designer and mentor for the suite of e-Commerce sites at URBN.</p>
     <p>I specialize in personalization, listing, usability & heuristics, and the users journey from inspiration to purchase.</p>
   </div>
-  <div class="w3-col w3-container m2 l3">
+  <div class="w3-col w3-container m2">
   </div>
 </div>
 
 <div class="w3-row">
-<div class="w3-col w3-container m2 l3">
+<div class="w3-col w3-container m2">
   </div>
-  <div class="w3-col w3-container m8 l6">
+  <div class="w3-col w3-container m8">
     {% for item in page.tags %}
       <pill>{{ item }}</pill>
     {% endfor %}
   </div>
-  <div class="w3-col w3-container m2 l3">
+  <div class="w3-col w3-container m2">
   </div>
 </div>
 
 <div class="w3-row">
-<div class="w3-col w3-container m2 l3">
+<div class="w3-col w3-container m2">
   </div>
-  <div class="w3-col w3-container m8 l6">
+  <div class="w3-col w3-container m8">
     <h2>curriculum vitae</h2>
     <h3>work experience</h3>
     <label-2>Philadelphia, PA</label-2>
@@ -65,18 +65,18 @@ tags:
     <label-2>Boston, MA</label-2>
     <h6><b>BFA – Marketing, Entrepreneurship</b> Northeastern University</h6>
   </div>
-  <div class="w3-col w3-container m2 l3">
+  <div class="w3-col w3-container m2">
   </div>
 </div>
   
 <div class="w3-row block">
-<div class="w3-col w3-container m2 l3">
+<div class="w3-col w3-container m2">
   </div>
-  <div class="w3-col w3-container m8 l6">
+  <div class="w3-col w3-container m8">
     <h5>Why Green?</h5>
     <p>Studies show that green is associated with feelings of happiness, comfort, hope, excitement, and a general sense of peace. These are the values I hold myself to in both professional and personal life.</p>
     <p>Reach out and I'll provide some complimentary links – coia.nac@gmail.com</p>
   </div>
-  <div class="w3-col w3-container m2 l3">
+  <div class="w3-col w3-container m2">
   </div>
 </div>
