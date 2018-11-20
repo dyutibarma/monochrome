@@ -41,8 +41,8 @@ reverse: false
 # Collections
 collections:
  article:
-    output: true
- portfolio:
+    output: false
+ case-studies:
    output: true
    
 # Google Analytics
