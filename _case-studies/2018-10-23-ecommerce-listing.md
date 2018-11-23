@@ -366,7 +366,8 @@ layout: portfolio
 	</div>
 </div>
 
-<div class="w3-row block">
+<div class="block">
+	<div class="w3-row">
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m10">
@@ -374,8 +375,9 @@ layout: portfolio
 	</div>
 	<div class="w3-col w3-container m1">
 	</div>
+	</div>
+	<div class="w3-row">
 	<div class="w3-col w3-container m1">
-		<h2>responsive wireframes</h2>
 	</div>
 	<div class="w3-col w3-container m5">
 		<a height="600px;" href="https://coianac.github.io/img/list-(1)Desktop%20-%20List%20of%20Lists.jpg">	
@@ -388,6 +390,7 @@ layout: portfolio
 		</a>
 	</div>
 	<div class="w3-col w3-container m1">
+	</div>
 	</div>
 </div>
 
