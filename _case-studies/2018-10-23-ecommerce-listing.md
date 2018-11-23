@@ -232,13 +232,9 @@ layout: portfolio
 	</div>
 	<div class="w3-col w3-container m10">
 		<h4>Trend Seeker</h4>
-		<a href="https://coianac.github.io/img/trendSeeker.jpg">
-		<img src="" alt="graphic of trend seeker">
-		</a>
-		<h4>Type of product</h4>
-		<a href="https://coianac.github.io/img/typeOfProduct.jpg">
-		<img src="" alt="graphic of type of product">
-		</a>
+		<img src="https://coianac.github.io/img/trendSeeker.jpg" alt="graphic of trend seeker">
+		<h4>Type of Product</h4>
+		<img src="https://coianac.github.io/img/typeOfProduct.jpg" alt="graphic of type of product">
 	</div>
 	<div class="w3-col w3-container m1">
 	</div>
