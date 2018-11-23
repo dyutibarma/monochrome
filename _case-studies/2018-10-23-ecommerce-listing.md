@@ -373,91 +373,91 @@ layout: portfolio
 	</div>
 		<div class="w3-col w3-container m10">
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0713.jpg" alt="">
 					<div class="desc w3-white">IA</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0714.jpg" alt="">
 					<div class="desc w3-white">Concept Model</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0715.jpg" alt="">
 					<div class="desc w3-white">Req's List</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0716.jpg" alt="">
 					<div class="desc w3-white">Paper prototype</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0717.jpg" alt="">
 					<div class="desc w3-white">Details</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0718.jpg" alt="">
 					<div class="desc w3-white">Concept Model</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0719.jpg" alt="">
 					<div class="desc w3-white">Add to list</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0721.jpg" alt="">
 					<div class="desc w3-white">Add to list</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0722.jpg" alt="">
 					<div class="desc w3-white">Mobile</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0723.jpg" alt="">
 					<div class="desc w3-white">Product edit</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0724.jpg" alt="">
 					<div class="desc w3-white">Product edit</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
-			<img src="https://coianac.github.io/img/640-IMG_0725.jpg" alt="">
+			<div style="margin-bottom:10px;" class="gallery">
+				<img src="https://coianac.github.io/img/640-IMG_0725.jpg" alt="">
 					<div class="desc w3-white">Mobile navigation</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0726.jpg" alt="">
 					<div class="desc w3-white">IA</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0727.jpg" alt="">
 					<div class="desc w3-white">Touchpoint map</div>
 					</div>
 			</div>
 			<div class="responsive">
-			<div class="gallery">
+			<div style="margin-bottom:10px;" class="gallery">
 				<img src="https://coianac.github.io/img/640-IMG_0728.jpg" alt="">
 					<div class="desc w3-white">Concept Journey</div>
 					</div>
