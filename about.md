@@ -43,7 +43,7 @@ order: 2
 <div class="w3-row">
 <div class="w3-col w3-container m2">
   </div>
-  <div class="w3-col w3-container m10">
+  <div class="w3-col w3-container m8">
     <h2>curriculum vitae</h2>
     <h3>work experience</h3>
     <label-2>Philadelphia, PA</label-2>
@@ -67,6 +67,8 @@ order: 2
     <h6><b>MFA – Industrial Design</b> University of the Arts</h6>
     <label-2>Boston, MA</label-2>
     <h6><b>BFA – Marketing, Entrepreneurship</b> Northeastern University</h6>
+  </div>
+  <div class="w3-col w3-container m2">
   </div>
 </div>
   
