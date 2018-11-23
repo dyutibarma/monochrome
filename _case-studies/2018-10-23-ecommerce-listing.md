@@ -369,6 +369,7 @@ layout: portfolio
 </div>
 
 <div class ="w3-row "> 
+	<h2>various states of sketching</h2>
 	<div class="w3-col w3-container m1">
 	</div>
 		<div class="w3-col w3-container m10">
