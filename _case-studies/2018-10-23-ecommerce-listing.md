@@ -50,21 +50,12 @@ layout: portfolio
         <h3>user perspectives</h3>
         <p>The following research was conducted by <a target="_blank" href="https://www.lizzcuzzacrea.com/">Lizz Cuzzacrea</a> - Lizz conducted lists studies to inform and guide the product architecture and design decisions I presented to Anthropologie, Free People, Urban Outfitters and URBN senior and executive leaders.</p>
         <h4>Survey Demographics</h4>
+		<a width="800px;" href="https://coianac.github.io/img/listStudyDemo.jpg">
+		<img src="https://coianac.github.io/img/listStudyDemo.jpg" alt="Image of survey demographics">
+		</a>
      </div>
      <div class="w3-col w3-container m2">
      </div>
-</div>
-
-<div class="w3-row block-white">
-	<div class="w3-col w3-container m1">
-	</div>
-	<div class="w3-col w3-container m10">
-			<a href="https://coianac.github.io/img/listStudyDemo.jpg">
-			<img src="https://coianac.github.io/img/listStudyDemo.jpg" alt="Image of survey demographics">
-			</a>
-	</div>
-	<div class="w3-col w3-container m1">
-	</div>
 </div>
 
 <div class="w3-row "> 
