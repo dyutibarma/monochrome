@@ -378,70 +378,70 @@ layout: portfolio
 	</div>
 	
 <div class="w3-row" style="margin-bottom:10px;">
-	<div class="w3-col w3-container m1">
+	<div class="w3-col w3-container m2">
 		</div>
-	<div class="w3-col w3-container m7">
+	<div class="w3-col w3-container m6">
 		<a href="https://coianac.github.io/img/list-(1)Desktop%20-%20List%20of%20Lists.jpg">	
-		<img src="https://coianac.github.io/img/list-(1)-L-600.jpg" alt="image of list of lists">
+		<img style="float:left"; src="https://coianac.github.io/img/list-(1)-L-600.jpg" alt="image of list of lists">
 		</a>
 		</div>
-	<div class="w3-col w3-container m3">
+	<div class="w3-col w3-container m2">
 		<a href="https://coianac.github.io/img/list-(1a)Mobile%20-%20List%20of%20Lists.jpg">	
-		<img src="https://coianac.github.io/img/list-(1a)-S-600.jpg" alt="image of list of lists">
+		<img style="float:left"; src="https://coianac.github.io/img/list-(1a)-S-600.jpg" alt="image of list of lists">
 		</a>
 		</div>
-	<div class="w3-col w3-container m1">
+	<div class="w3-col w3-container m2">
 		</div>
 </div>
 	
 <div class="w3-row" style="margin-bottom:10px;">
-	<div class="w3-col w3-container m1">
+	<div class="w3-col w3-container m2">
 		</div>
-	<div class="w3-col w3-container m3">
+	<div class="w3-col w3-container m2">
 		<a href="https://coianac.github.io/img/list-(2a)Mobile%20-%20List%20Detail.jpg">	
-		<img src="https://coianac.github.io/img/list-(2a)-S-600.jpg" alt="image of list detail page">
+		<img style="float:left"; src="https://coianac.github.io/img/list-(2a)-S-600.jpg" alt="image of list detail page">
 		</a>
 		</div>
-	<div class="w3-col w3-container m7">
+	<div class="w3-col w3-container m6">
 		<a href="https://coianac.github.io/img/list-(2)Desktop%20-%20List%20Detail.jpg">	
-		<img src="https://coianac.github.io/img/list-(2)-L-600.jpg" alt="image of list of lists">
+		<img style="float:left"; src="https://coianac.github.io/img/list-(2)-L-600.jpg" alt="image of list of lists">
 		</a>
 		</div>
-	<div class="w3-col w3-container m1">
+	<div class="w3-col w3-container m6">
 		</div>
 </div>
 
 <div class="w3-row" style="margin-bottom:10px;">
-	<div class="w3-col w3-container m1">
+	<div class="w3-col w3-container m2">
 		</div>
-	<div class="w3-col w3-container m7">
+	<div class="w3-col w3-container m6">
 		<a href="https://coianac.github.io/img/list-(3)Desktop%20-%20List%20Detail%20-%20Quick%20Edit%20-%20partial%20SKU.jpg">	
-		<img src="https://coianac.github.io/img/list-(3)-L-600.jpg" alt="image of product edit modal">
+		<img style="float:left"; src="https://coianac.github.io/img/list-(3)-L-600.jpg" alt="image of product edit modal">
 		</a>
 		</div>
-	<div class="w3-col w3-container m3">
+	<div class="w3-col w3-container m2">
 		<a href="https://coianac.github.io/img/list-(3a)Mobile%20-%20List%20Detail%20-%20Quick%20Edit%20-%20partial%20SKU.jpg">	
-		<img src="https://coianac.github.io/img/list-(3a)-S-600.jpg" alt="image of product edit modal">
+		<img style="float:left"; src="https://coianac.github.io/img/list-(3a)-S-600.jpg" alt="image of product edit modal">
 		</a>
 		</div>
-	<div class="w3-col w3-container m1">
+	<div class="w3-col w3-container m2">
 		</div>
 </div>
 	
 <div class="w3-row" style="margin-bottom:10px;">
-	<div class="w3-col w3-container m1">
+	<div class="w3-col w3-container m2">
 		</div>
-	<div class="w3-col w3-container m3">
+	<div class="w3-col w3-container m2">
 		<a href="https://coianac.github.io/img/list-(4a)Mobile%20-%20List%20Detail%20-%20Settings.png">	
-		<img src="https://coianac.github.io/img/list-(4a)-S-600.jpg" alt="image of list edit modal">
+		<img style="float:left"; src="https://coianac.github.io/img/list-(4a)-S-600.jpg" alt="image of list edit modal">
 		</a>
 		</div>
-	<div class="w3-col w3-container m7">
+	<div class="w3-col w3-container m6">
 		<a href="https://coianac.github.io/img/list-(4)Desktop%20-%20List%20Detail%20-%20Settings.jpg">	
-		<img src="https://coianac.github.io/img/list-(4)-L-600.jpg" alt="image of list edit modal">
+		<img style="float:left"; src="https://coianac.github.io/img/list-(4)-L-600.jpg" alt="image of list edit modal">
 		</a>
 		</div>
-	<div class="w3-col w3-container m1">
+	<div class="w3-col w3-container m2">
 		</div>
 </div>
 </div>
