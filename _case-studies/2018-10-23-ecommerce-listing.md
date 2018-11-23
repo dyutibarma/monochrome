@@ -376,7 +376,7 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	</div>
-	<div class="w3-row">
+	<div class="w3-row" style="margin-bottom:10px;">
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m7">
@@ -392,7 +392,7 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	</div>
-	<div class="w3-row">
+	<div class="w3-row" style="margin-bottom:10px;">
 	<div class="w3-col w3-container m1">
 		</div>
 	<div class="w3-col w3-container m3">
@@ -408,7 +408,7 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	</div>
-	<div class="w3-row">
+	<div class="w3-row style="margin-bottom:10px;"">
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m7">
@@ -424,7 +424,7 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	</div>
-	<div class="w3-row">
+	<div class="w3-row" style="margin-bottom:10px;">
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m3">
