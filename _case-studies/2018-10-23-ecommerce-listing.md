@@ -416,12 +416,12 @@ layout: portfolio
 		</div>
 	<div class="w3-col w3-container m7">
 		<a href="https://coianac.github.io/img/list-(3)Desktop%20-%20List%20Detail%20-%20Quick%20Edit%20-%20partial%20SKU.jpg">	
-		<img src="list-(3)-L-600.jpg" alt="image of product edit modal">
+		<img src="https://coianac.github.io/img/list-(3)-L-600.jpg" alt="image of product edit modal">
 		</a>
 		</div>
 	<div class="w3-col w3-container m3">
 		<a href="https://coianac.github.io/img/list-(3a)Mobile%20-%20List%20Detail%20-%20Quick%20Edit%20-%20partial%20SKU.jpg">	
-		<img src="list-(3a)-S-600.jpg" alt="image of product edit modal">
+		<img src="https://coianac.github.io/img/list-(3a)-S-600.jpg" alt="image of product edit modal">
 		</a>
 		</div>
 	<div class="w3-col w3-container m1">
