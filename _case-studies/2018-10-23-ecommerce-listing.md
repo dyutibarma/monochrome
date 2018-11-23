@@ -368,17 +368,23 @@ layout: portfolio
 
 <div class="w3-row block">
 	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
+		<h2>responsive wireframes</h2>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m1">
 		<h2>responsive wireframes</h2>
 	</div>
 	<div class="w3-col w3-container m5">
-		<a href="https://coianac.github.io/img/list-(1)Desktop%20-%20List%20of%20Lists.jpg">	
+		<a height="600px;" href="https://coianac.github.io/img/list-(1)Desktop%20-%20List%20of%20Lists.jpg">	
 		<img src="https://coianac.github.io/img/list-(1)Desktop%20-%20List%20of%20Lists.jpg" alt="image of list of lists">
 		</a>
 	</div>
 		<div class="w3-col w3-container m5">
-		<a href="https://coianac.github.io/img/list-(1a)Mobile%20-%20List%20of%20Lists.jpg">	
+		<a height="600px;" href="https://coianac.github.io/img/list-(1a)Mobile%20-%20List%20of%20Lists.jpg">	
 		<img src="https://coianac.github.io/img/list-(1a)Mobile%20-%20List%20of%20Lists.jpg" alt="image of list of lists">
-		</a>
 		</a>
 	</div>
 	<div class="w3-col w3-container m1">
