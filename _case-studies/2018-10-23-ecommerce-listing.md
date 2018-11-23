@@ -263,12 +263,12 @@ layout: portfolio
 			<h2>site architecture</h2>
 			<h3>information architecture</h3>
 			<h4>Diagram</h4>
-			<img width="600px;" src="https://coianac.github.io/img/list-ai.jpg" alt="graphic of lists information architecture">
+			<img width="600px;" style="margin-bottom:10px;" src="https://coianac.github.io/img/list-ai.jpg" alt="graphic of lists information architecture">
 			<p>This is a simple diagram exposing the hierarchy of content, authentication gates, and linking states that are expected by a customer and required by the system.</p>
 			<hr>
 			<h4>Diagram</h4>
 			<a href="https://coianac.github.io/img/list-workflow1.jpg">
-			<img width="600px;" src="https://coianac.github.io/img/list-workflow1.jpg" alt="graphic of adding an item to a list">
+			<img width="750px;" src="https://coianac.github.io/img/list-workflow1.jpg" alt="graphic of adding an item to a list">
 			</a>
 			<p>The following begins to expose some of the more precarious aspects of working through SKU-less and SKU-full product collection > highlighting the workflows to just a favorites and a wish list. Registry is out of scope for this work.</p>
 			<h3>listing specific workflows</h3>
@@ -277,7 +277,7 @@ layout: portfolio
 			<p><b>Scenario B:</b> As a user browings the store who has selected Color, Size, QTY for a given item, when I favorite this item, I want that attribution to persist to the list of my choice.</p>
 			<h4>Diagram</h4>
 			<a href="https://coianac.github.io/img/list-workflow2.jpg">
-			<img width="600px;" src="https://coianac.github.io/img/list-workflow2.jpg" alt="graphic of Scenario A and B workflow">
+			<img width="750px;" src="https://coianac.github.io/img/list-workflow2.jpg" alt="graphic of Scenario A and B workflow">
 			</a>
 			<hr>
 			<h4>User Stories</h4>
