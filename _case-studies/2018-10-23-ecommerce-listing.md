@@ -376,69 +376,73 @@ layout: portfolio
 	<div class="w3-col w3-container m1">
 	</div>
 	</div>
-	<div class="w3-row" style="margin-bottom:10px;">
+	
+<div class="w3-row" style="margin-bottom:10px;">
 	<div class="w3-col w3-container m1">
-	</div>
+		</div>
 	<div class="w3-col w3-container m7">
 		<a href="https://coianac.github.io/img/list-(1)Desktop%20-%20List%20of%20Lists.jpg">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(1)Desktop%20-%20List%20of%20Lists.jpg" alt="image of list of lists">
 		</a>
-	</div>
-		<div class="w3-col w3-container m3">
+		</div>
+	<div class="w3-col w3-container m3">
 		<a href="https://coianac.github.io/img/list-(1a)Mobile%20-%20List%20of%20Lists.jpg">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(1a)Mobile%20-%20List%20of%20Lists.jpg" alt="image of list of lists">
 		</a>
-	</div>
+		</div>
 	<div class="w3-col w3-container m1">
-	</div>
-	</div>
-	<div class="w3-row" style="margin-bottom:10px;">
+		</div>
+</div>
+	
+<div class="w3-row" style="margin-bottom:10px;">
 	<div class="w3-col w3-container m1">
 		</div>
 	<div class="w3-col w3-container m3">
 		<a href="https://coianac.github.io/img/list-(2a)Mobile%20-%20List%20Detail.jpg">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(2a)Mobile%20-%20List%20Detail.jpg" alt="image of list detail page">
 		</a>
-	</div>
-<div class="w3-col w3-container m7">
+		</div>
+	<div class="w3-col w3-container m7">
 		<a href="https://coianac.github.io/img/list-(2)Desktop%20-%20List%20Detail.jpg">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(2)Desktop%20-%20List%20Detail.jpg" alt="image of list of lists">
 		</a>
-	</div>
+		</div>
 	<div class="w3-col w3-container m1">
-	</div>
-	</div>
-	<div class="w3-row style="margin-bottom:10px;"">
+		</div>
+</div>
+
+<div class="w3-row" style="margin-bottom:10px;">
 	<div class="w3-col w3-container m1">
-	</div>
+		</div>
 	<div class="w3-col w3-container m7">
 		<a href="https://coianac.github.io/img/list-(3)Desktop%20-%20List%20Detail%20-%20Quick%20Edit%20-%20partial%20SKU.jpg">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(3)Desktop%20-%20List%20Detail%20-%20Quick%20Edit%20-%20partial%20SKU.jpg" alt="image of product edit modal">
 		</a>
-	</div>
-		<div class="w3-col w3-container m3">
+		</div>
+	<div class="w3-col w3-container m3">
 		<a href="https://coianac.github.io/img/list-(3a)Mobile%20-%20List%20Detail%20-%20Quick%20Edit%20-%20partial%20SKU.jpg">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(3a)Mobile%20-%20List%20Detail%20-%20Quick%20Edit%20-%20partial%20SKU.jpg" alt="image of product edit modal">
 		</a>
-	</div>
+		</div>
 	<div class="w3-col w3-container m1">
-	</div>
-	</div>
-	<div class="w3-row" style="margin-bottom:10px;">
+		</div>
+</div>
+	
+<div class="w3-row" style="margin-bottom:10px;">
 	<div class="w3-col w3-container m1">
-	</div>
+		</div>
 	<div class="w3-col w3-container m3">
 		<a href="https://coianac.github.io/img/list-(4a)Mobile%20-%20List%20Detail%20-%20Settings.png">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(4a)Mobile%20-%20List%20Detail%20-%20Settings.png" alt="image of list edit modal">
 		</a>
-	</div>
+		</div>
 	<div class="w3-col w3-container m7">
 		<a href="https://coianac.github.io/img/list-(4)Desktop%20-%20List%20Detail%20-%20Settings.jpg">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(4)Desktop%20-%20List%20Detail%20-%20Settings.jpg" alt="image of list edit modal">
 		</a>
-	</div>
+		</div>
 	<div class="w3-col w3-container m1">
-	</div>
-	</div>
+		</div>
+</div>
 </div>
 
