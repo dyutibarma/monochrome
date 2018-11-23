@@ -394,15 +394,15 @@ layout: portfolio
 	</div>
 	<div class="w3-row">
 	<div class="w3-col w3-container m1">
-	</div>
-	<div class="w3-col w3-container m7">
-		<a href="https://coianac.github.io/img/list-(2)Desktop%20-%20List%20Detail.jpg">	
-		<img height="600px;" src="https://coianac.github.io/img/list-(2)Desktop%20-%20List%20Detail.jpg" alt="image of list of lists">
-		</a>
-	</div>
-		<div class="w3-col w3-container m3">
+		</div>
+	<div class="w3-col w3-container m3">
 		<a href="https://coianac.github.io/img/list-(2a)Mobile%20-%20List%20Detail.jpg">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(2a)Mobile%20-%20List%20Detail.jpg" alt="image of list detail page">
+		</a>
+	</div>
+<div class="w3-col w3-container m7">
+		<a href="https://coianac.github.io/img/list-(2)Desktop%20-%20List%20Detail.jpg">	
+		<img height="600px;" src="https://coianac.github.io/img/list-(2)Desktop%20-%20List%20Detail.jpg" alt="image of list of lists">
 		</a>
 	</div>
 	<div class="w3-col w3-container m1">
@@ -427,14 +427,14 @@ layout: portfolio
 	<div class="w3-row">
 	<div class="w3-col w3-container m1">
 	</div>
+	<div class="w3-col w3-container m3">
+		<a href="https://coianac.github.io/img/list-(4a)Mobile%20-%20List%20Detail%20-%20Settings.png">	
+		<img height="600px;" src="https://coianac.github.io/img/list-(4a)Mobile%20-%20List%20Detail%20-%20Settings.png" alt="image of list edit modal">
+		</a>
+	</div>
 	<div class="w3-col w3-container m7">
 		<a href="https://coianac.github.io/img/list-(4)Desktop%20-%20List%20Detail%20-%20Settings.jpg">	
 		<img height="600px;" src="https://coianac.github.io/img/list-(4)Desktop%20-%20List%20Detail%20-%20Settings.jpg" alt="image of list edit modal">
-		</a>
-	</div>
-		<div class="w3-col w3-container m3">
-		<a href="https://coianac.github.io/img/list-(4a)Mobile%20-%20List%20Detail%20-%20Settings.png">	
-		<img height="600px;" src="https://coianac.github.io/img/list-(4a)Mobile%20-%20List%20Detail%20-%20Settings.png" alt="image of list edit modal">
 		</a>
 	</div>
 	<div class="w3-col w3-container m1">
