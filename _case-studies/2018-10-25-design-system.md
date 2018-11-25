@@ -224,6 +224,7 @@ layout: portfolio
 		<div class="w3-col w3-container m1">
 		</div>
 	</div>
+	<br>
 	<div class="w3-row">
 		<div class="w3-col w3-container m1">
 		</div>
