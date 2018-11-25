@@ -143,12 +143,11 @@
   	display: inline-block;
   }
 	a:hover {
-		background: #f3f7f382;
-		margin: 0 0 5px 0;
+		font-weight: 600;
 	}
 	a:focus {
-		background: #f3f7f3;
-		margin: 0 0 5px 0;
+		font-weight: 600;
+		border-bottom: 1px ;
 	}
 
   div {
