@@ -1,6 +1,7 @@
 ---
 title: Addresses + Payments Design System
 description: Styles, actions, and patterns for URBN address and payment info
+snippet: As a repeat purchaser, I want to have an area to save and manage my ship to addresses and payment methods so i can check out with ease.
 header: Design System; Address + Payment Info
 image: coianac.github.io/img/proto-1.jpg
 categories: [portfolio]
@@ -8,6 +9,8 @@ tags:
 - design system
 - typography
 - colors
+- elements
+- components
 - wireframes
 layout: portfolio
 ---
@@ -26,6 +29,8 @@ layout: portfolio
 	<pill>design system</pill>
 	<pill>typography</pill>
 	<pill>colors</pill>
+	<pill>elements</pill>
+	<pill>components</pill>
 	<pill>wireframes</pill>
       </div>
       <div class="w3-col w3-container m2">
