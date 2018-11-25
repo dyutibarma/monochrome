@@ -1,7 +1,7 @@
 ---
 title: Addresses + Payments Design System
 description: Styles, actions, and patterns for URBN address and payment info
-snippet: As a repeat purchaser, I want to have an area to save and manage my ship to addresses and payment methods so i can check out with ease.
+snippet: As a repeat purchaser, I want to save and manage my addresses and payment methods so I can check out with ease.
 header: Design System; Address + Payment Info
 image: coianac.github.io/img/proto-1.jpg
 categories: [portfolio]
