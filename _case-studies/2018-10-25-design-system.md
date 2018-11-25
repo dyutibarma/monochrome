@@ -213,7 +213,7 @@ layout: portfolio
 		</div>
 	</div>
 	<div class="w3-row">
-		<div class="w3-col w3-container m2">
+		<div class="w3-col w3-container m1">
 		</div>
 		<div class="w3-col w3-container m5">
 			<img src="https://coianac.github.io/img/ap_deskNon.jpg" alt="no address image">
@@ -221,10 +221,12 @@ layout: portfolio
 		<div class="w3-col w3-container m5">
 			<img src="https://coianac.github.io/img/ap_desk1.jpg" alt="all states image">
 		</div>
-		<div class="w3-col w3-container m2">
+		<div class="w3-col w3-container m1">
 		</div>
 	</div>
 	<div class="w3-row">
+		<div class="w3-col w3-container m3">
+		</div>
 		<div class="w3-col w3-container m3">
 			<img src="https://coianac.github.io/img/ap_mobile0.jpg" alt="mobile image no states">
 		</div>
@@ -233,8 +235,6 @@ layout: portfolio
 		</div>
 		<div class="w3-col w3-container m3">
 			<img src="https://coianac.github.io/img/ap_mobile2.jpg" alt="mobile image forms">
-		</div>
-		<div class="w3-col w3-container m2">
 		</div>
 	</div>
 </div>
