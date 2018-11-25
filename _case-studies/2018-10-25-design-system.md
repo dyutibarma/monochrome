@@ -89,6 +89,15 @@ layout: portfolio
 	<hr>
 	<h4>Fields</h4>
 	<img style="float:left;" src="https://coianac.github.io/img/ap-field.jpg" alt="form fields image">
+      </div>
+      <div class="w3-col w3-container m2">
+      </div>
+</div>		
+
+<div class="w3-row"> 
+  <div class="w3-col w3-container m2">
+  </div>
+    <div class="w3-col w3-container m8">
 	<h4>Pickers</h4>
 	<img style="float:left;" src="https://coianac.github.io/img/ap-pickers.jpg" alt="form fields image">
       </div>
