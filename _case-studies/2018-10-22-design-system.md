@@ -17,9 +17,15 @@ layout: portfolio
 <div class="w3-row">
 <img src="https://coianac.github.io/img/designSystem-hero.jpg" alt="Design System Hero">
 	</div>
-<div class="w3-row w3-center block-head"> 
-        <h5>User Story</h5>
-	    <p>As a repeat purchaser, I want to have an area to save and manage my ship to addresses and payment methods so i can check out with ease.</p>
+<div class="w3-row block-head">
+<div class="w3-col w3-container m2">
+</div>
+	<div class="w3-col w3-container m8">
+        	<h5>User Story</h5>
+		<p>As a repeat purchaser, I want to have an area to save and manage my ship to addresses and payment methods so i can check out with ease.</p>
+	</div>
+	<div class="w3-col w3-container m2">
+	</div>
 </div>
 
 <div class="w3-row"> 
