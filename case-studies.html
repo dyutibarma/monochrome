@@ -24,9 +24,9 @@ order: 1
             <img src="{{ case-studies.image }}" alt="{{ case-studies.image }} style="width:100%" class="w3-hover-opacity"">  
           </a>
           <div style="height:190px;" class="w3-container light-green">
-              <h5>{{ case-studies.title }} <a href="{{ case-studies.url }}">Read the case study ></a></h5>
+              <h5>{{ case-studies.title }}</h5>
             {% for item in case-studies.snippet %}
-            <label-1>{{ item }}</label-1>
+            <label-1>{{ item }}<a href="{{ case-studies.url }}"> Read the case study</a></label-1>
             {% endfor %}
           </div>
           <div style="height:10px;" class="w3-row">
