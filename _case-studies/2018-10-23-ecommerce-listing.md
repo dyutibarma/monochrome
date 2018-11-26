@@ -18,8 +18,8 @@ layout: portfolio
 
 <div class="w3-row">
 <img src="https://coianac.github.io/img/lists-hero.jpg" alt="Image Quality Hero">
-	</div>
-<div class="w3-row block-head"> 
+	</div> 
+<div class="w3-row block-head">
 	<div class="w3-col w3-container m2>
 	</div>
 	<div class="w3-col w3-container m8>
