@@ -22,7 +22,7 @@ layout: portfolio
 </div>
 	<div class="w3-col w3-container m8">
         	<h5>User Story</h5>
-		<p>As a repeat purchaser, I want to have an area to save and manage my ship to addresses and payment methods so i can check out with ease.</p>
+		<p>As a repeat purchaser, I want to have an area to save and manage my ship to addresses and payment methods so I can check out with ease.</p>
 	</div>
 	<div class="w3-col w3-container m2">
 	</div>
