@@ -2,7 +2,7 @@
 title:  e-commerce Listing
 header: e-Commerce listing
 snippet: 
-- As a shopper interested saving items for inspiration or purchase, I want the system to compliment my shopping behavior.
+- As a shopper interested saving items for inspiration or purchase, I want the system to complement my shopping behavior.
 image: coianac.github.io/img/category-hearting640x480.gif
 her0: coianac.github.io/img/lists-hero.jpg
 categories: [portfolio]
@@ -26,7 +26,7 @@ nav: case-studies
 	</div>
 	<div class="w3-col w3-container m8">
         <h5>User Story</h5>
-	    <p>As a shopper interested saving items for inspiration or purchase, I want the system to compliment my shopping behavior.</p>
+	    <p>As a shopper interested saving items for inspiration or purchase, I want the system to complement my shopping behavior.</p>
 	    <p>As URBN, we want to streamline the shoppers journey for saving items to a list.</p>
 	</div>
 	<div class="w3-col w3-container m2">
@@ -53,7 +53,7 @@ nav: case-studies
   </div>
     <div class="w3-col w3-container m8">
       <h2>business problem</h2>
-      <p>URBN needs to plan for a listing ecosystem that better integrates Wish Lists and Hearting as complimentary features rather than separate and standalone products.</p>
+      <p>URBN needs to plan for a listing ecosystem that better integrates Wish Lists and Hearting as complementary features rather than separate and standalone products.</p>
       <p>Free People is being migrated onto the URBN Web white label platform; At the time, white label lacked the concept and functionality of hearting.</p> 
       <h2>research</h2>
         <h3>user perspectives</h3>
@@ -223,7 +223,7 @@ nav: case-studies
 	</div>
 		<div class="w3-col w3-container m8">
 		<h3>technical proposal – consumer & business value</h3>
-			<p>By unifying the product collection methods and housing saved items in a single list location — the feature-set will compliment both primary user types; the hearts user and the wish list user.</p>
+			<p>By unifying the product collection methods and housing saved items in a single list location — the feature-set will complement both primary user types; the hearts user and the wish list user.</p>
 		<h4>Consumer Types</h4>
 		<h5>Trend Seeker</h5>
 			<img width="800px;" src="https://coianac.github.io/img/trendSeeker.jpg" alt="graphic of trend seeker">
