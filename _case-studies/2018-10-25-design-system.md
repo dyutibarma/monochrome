@@ -13,6 +13,7 @@ tags:
 - components
 - wireframes
 layout: portfolio
+nav: case-studies
 ---
 <div class="w3-row">
 <img src="https://coianac.github.io/img/designSystem-hero.jpg" alt="Design System Hero">
