@@ -14,6 +14,7 @@ tags:
 - workflows
 - wireframes
 layout: portfolio
+nav: case-studies
 ---
 
 <div class="w3-row">
