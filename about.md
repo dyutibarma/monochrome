@@ -10,7 +10,7 @@ tags:
 - UX
 - UI
 - UE
-order: 2
+nav: case-studies
 ---
 <div class="w3-row">
   <h1> about me</h1>
