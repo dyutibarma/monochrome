@@ -21,8 +21,8 @@ layout: portfolio
   </div>
     <div class="w3-col w3-container m8">
         <h5>User Story</h5>
-		<p>As a shopper, I want my pages to load quicker.</p>
-		<p>As the brand, we want to decrease our yearly Akamai costs.</p>
+		<p>As a shopper, I want my pages to load quickly and the product images to be detailed and crisp.</p>
+		<p>As the brand, we want to decrease our yearly bandwidth costs.</p>
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -75,7 +75,7 @@ layout: portfolio
 </table>
 <h3>study requirements</h3>
 <h4>Brand & Studio Approved Images</h4>
-<p>These images were chosen specifically for their range of content and color density / variances.</p>
+<p>These images were chosen specifically for their range of content and color density and contextual variances.</p>
 </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -193,7 +193,7 @@ layout: portfolio
 	</div>
 	<div class="w3-col w3-container m8">
 		<h4>Category Page & Image Zoom Views</h4>
-		<p>We put together sumulated views of a category page and image zoom for participants to select which image they felt was of the best quality.</p>
+		<p>We put together sumulated views of a category page and image zoom for participants to select which image they felt was the best quality.</p>
 		<p>The views included pagination between selections as well as a "Thank you for completion" screen which displayed live results of the study.</p>
 	</div>
 	<div class="w3-col w3-container m2">
@@ -259,7 +259,7 @@ layout: portfolio
 		<p>In short > the results came out inconclusive. Participants could not discern a visual disparity between the 3 image presets. We concluded this as a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset.</p>
 		<blockquote>Participants could not discern a visual disparity between the 3 images presents</blockquote>
 		<h4>Delivery Strategy</h4>
-		<p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppes during the carting and purchasing decision making process.</p>
+		<p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppers during the carting and purchasing decision making process.</p>
 	</div>
 	<div class="w3-col w3-container m2">
 	</div>
