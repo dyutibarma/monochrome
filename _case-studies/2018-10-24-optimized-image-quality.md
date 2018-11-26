@@ -28,17 +28,17 @@ layout: portfolio
       </div>
     </div>
 
-<div class ="w3-row "> 
+<div class="w3-row"> 
   <div class="w3-col w3-container m2">
   </div>
     <div class="w3-col w3-container m8">
-	{% for item in portfolio.tags %}
-          <pill>{{ item }}</pill>
-        {% endfor %}
+	<pill>research</pill>
+	<pill>optimization</pill>
+	<pill>strategy</pill>
       </div>
       <div class="w3-col w3-container m2">
       </div>
-    </div>
+</div>
 
 <div class ="w3-row"> 
   <div class="w3-col w3-container m2">
