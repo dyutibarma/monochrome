@@ -64,9 +64,9 @@ nav: about
     <h6><b>Volunteer Facilitator & Coach</b> Neighborhood Bike Works, <a href="https://www.neighborhoodbikeworks.org/adult-programs/bike-church">Bike Church</a></h6>
     <h3>education</h3>
     <label-2>Philadelphia, PA</label-2>
-    <h6><b>MFA – Industrial Design</b> University of the Arts</h6>
+    <h6><b>Masters in Design – Service Design</b> University of the Arts</h6>
     <label-2>Boston, MA</label-2>
-    <h6><b>BFA – Marketing, Entrepreneurship</b> Northeastern University</h6>
+    <h6><b>Bachelor of Science – Marketing, Entrepreneurship</b> Northeastern University</h6>
   </div>
   <div class="w3-col w3-container m2">
   </div>
