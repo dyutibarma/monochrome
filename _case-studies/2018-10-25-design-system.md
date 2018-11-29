@@ -51,7 +51,7 @@ nav: case-studies
 		<h2>elements</h2>
 			<h3>typography</h3>
 			<hr>
-				<img style="float:left;" src="https://coianac.github.io/img/ap-typography.jpg" alt="typography image">
+				<img width="300px;" style="float:left;" src="https://coianac.github.io/img/ap-typography.jpg" alt="typography image">
 		</div>
 	<div class="w3-col w3-container m2">
 	</div>
@@ -63,7 +63,7 @@ nav: case-studies
     <div class="w3-col w3-container m8">
 	   <h3>colors</h3>
 			<hr>
-				<img style="float:left;" src="https://coianac.github.io/img/ap-colors.jpg" alt="colors image"> 
+				<img width="300px;" style="float:left;" src="https://coianac.github.io/img/ap-colors.jpg" alt="colors image"> 
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -76,7 +76,7 @@ nav: case-studies
 	  <h3>buttons</h3>
 			<hr>
 				<h4>Primary + Secondary. Small + Large</h4>
-				<img style="float:left;" src="https://coianac.github.io/img/ap-buttons.jpg" alt="buttons image">
+				<img width="400px;" style="float:left;" src="https://coianac.github.io/img/ap-buttons.jpg" alt="buttons image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -89,7 +89,7 @@ nav: case-studies
 	<h3>forms</h3>
 	<hr>
 	<h4>Fields</h4>
-	<img style="float:left;" src="https://coianac.github.io/img/ap-field.jpg" alt="form fields image">
+	<img width="400px;" style="float:left;" src="https://coianac.github.io/img/ap-field.jpg" alt="form fields image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -100,7 +100,7 @@ nav: case-studies
   </div>
     <div class="w3-col w3-container m8">
 	<h4>Pickers</h4>
-	<img style="float:left;" src="https://coianac.github.io/img/ap-pickers.jpg" alt="form fields image">
+	<img width="400px;" style="float:left;" src="https://coianac.github.io/img/ap-pickers.jpg" alt="form fields image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -113,7 +113,7 @@ nav: case-studies
 <h2>components</h2>
 			<h3>Standard address</h3>
 			<hr>
-				<img style="float:left;" src="https://coianac.github.io/img/ap-address.jpg" alt="address image">
+				<img width="200px;" style="float:left;" src="https://coianac.github.io/img/ap-address.jpg" alt="address image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -125,7 +125,7 @@ nav: case-studies
     <div class="w3-col w3-container m8">
 	<h3>Standard payment</h3>
 	<hr>
-	<img style="float:left;" src="https://coianac.github.io/img/ap-card.jpg" alt="credit card image">
+	<img width="300px;" style="float:left;" src="https://coianac.github.io/img/ap-card.jpg" alt="credit card image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -137,7 +137,7 @@ nav: case-studies
     <div class="w3-col w3-container m8">
 	<h3>Form field</h3>
 	<hr>
-	<img style="float:left;" src="https://coianac.github.io/img/ap-formField.jpg" alt="form field image">
+	<img width="400px;" style="float:left;" src="https://coianac.github.io/img/ap-formField.jpg" alt="form field image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -149,7 +149,7 @@ nav: case-studies
     <div class="w3-col w3-container m8">
 	<h3>Picker</h3>
 	<hr>
-	<img style="float:left;" src="https://coianac.github.io/img/ap-pickerField.jpg" alt="picker fields image">
+	<img width="400px;" style="float:left;" src="https://coianac.github.io/img/ap-pickerField.jpg" alt="picker fields image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -162,7 +162,7 @@ nav: case-studies
 	<h3>Management</h3>
 	<hr>
 	<h4>Addresses</h4>
-	<img style="float:left;" src="https://coianac.github.io/img/ap-addressView.jpg" alt="address view image">
+	<img width="300px;" style="float:left;" src="https://coianac.github.io/img/ap-addressView.jpg" alt="address view image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -173,7 +173,7 @@ nav: case-studies
   </div>
     <div class="w3-col w3-container m8">
 	<h4>Payment Methods</h4>
-	<img style="float:left;" src="https://coianac.github.io/img/ap-cardView.jpg" alt="card view image">
+	<img width="300px;" style="float:left;" src="https://coianac.github.io/img/ap-cardView.jpg" alt="card view image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -186,7 +186,7 @@ nav: case-studies
 	<h3>Forms</h3>
 	<hr>
 	<h4>Addresses</h4>
-	<img style="float:left;" src="https://coianac.github.io/img/ap-formAddress.jpg" alt="form address image">
+	<img width="400px;" style="float:left;" src="https://coianac.github.io/img/ap-formAddress.jpg" alt="form address image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
@@ -197,7 +197,7 @@ nav: case-studies
   </div>
     <div class="w3-col w3-container m8">
 	<h4>Payment Methods</h4>
-	<img style="float:left;" src="https://coianac.github.io/img/ap-formCard.jpg" alt="form card image">
+	<img width="400px;" style="float:left;" src="https://coianac.github.io/img/ap-formCard.jpg" alt="form card image">
       </div>
       <div class="w3-col w3-container m2">
       </div>
