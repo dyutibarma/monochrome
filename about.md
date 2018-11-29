@@ -16,7 +16,7 @@ nav: about
   <h1> about me</h1>
 </div>
 
-<div class="w3-row block-head">
+<div class="w3-row block">
 <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
