@@ -21,7 +21,7 @@ nav: about
   </div>
   <div class="w3-col w3-container m8">
     <h5>Hi 👋🏼, I'm Nicolas</h5>
-    <p>I'm a lead designer and mentor for the suite of e-Commerce sites at URBN.</p>
+    <p>I'm a lead product designer and mentor for the suite of e-Commerce sites at URBN.</p>
     <p>I specialize in personalization, listing, usability & heuristics, and the users journey from inspiration to purchase.</p>
   </div>
   <div class="w3-col w3-container m2">
