@@ -228,7 +228,7 @@ nav: case-studies
 		<h2>site architecture</h2>
 		<h3>information architecture</h3>
 			<h4>Diagram</h4>
-			<img width="600px;" style="margin-bottom:10px;" src="https://coianac.github.io/img/list-ai.jpg" alt="graphic of lists information architecture">
+			<img width="600px;" style="margin-bottom:10px;" src="https://coianac.github.io/img/list-ai.jpg" alt="graphic of lists information architecture"><br>
 			<p>This is a simple diagram exposing the hierarchy of content, authentication gates, and linking states that are expected by a customer and required by the system.</p>
 			<hr>
 			<h4>Diagram</h4>
