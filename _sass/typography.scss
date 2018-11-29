@@ -67,13 +67,6 @@ p, ul, ol {
 	margin-bottom: 1.5em; /* 24px/16px */
 }
 
-p-right {
-	text-align: right;
-	font-size: 1.2; /* 14px */
-	line-height: 1.8em;
-	margin-bottom: 1.5em; /* 24px/16px */
-}
-
 h1 {
 	font-family : "Nanum Myeongjo", serif;
 	font-size: 4em; /* 60px */
@@ -144,7 +137,7 @@ label-1 {
     	letter-spacing: .65px; /* .65px */
     	line-height: 20px; /* 20px */
     	padding: 0 0 0 0; /* 5px */
-	magin: 0 0 5px 0;
+	margin: 0 0 5px 0;
 }
 label-2 {
     	font-size: 14px;
@@ -153,7 +146,7 @@ label-2 {
     	letter-spacing: 0.65px; /* .65px */
     	line-height: 16px; /* 16px */
     	padding: 0 0 0 0; /* 5px */
-	magin: 0 0 5px 0;
+	margin: 0 0 5px 0;
 }
 primary-button {
     	font-size: 18px;
@@ -202,14 +195,6 @@ p, ul, ol {
 	line-height: 25px; /* 29px */
 	margin-bottom: 10px; /* 10px */
 } 
-	
-p-right {
-	text-align: right;
-	font-size: 16px; /* 18px */
-	font-weight: 300;
-	letter-spacing: 0.84px;
-	line-height: 25px; /* 29px */
-	margin-bottom: 10px; /* 10px */
 	
 hr { 
     	display: block;
