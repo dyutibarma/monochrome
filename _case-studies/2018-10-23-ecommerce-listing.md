@@ -231,6 +231,7 @@ nav: case-studies
 			<img width="800px;" src="https://coianac.github.io/img/typeOfProduct.jpg" alt="graphic of type of product">
 			<p>The hearting user is considered a Trend Seeker, they may not be a first time visitor. They’re looking for inspiration and an easy means of collection. They are most likely more active on standard social platforms such as instagram, facebook, pinterest — and with that are akin to the fast and gratifying collection methods.</p>
 			<p>The wish list user is much more targeted, considered a Type of Product shopper — because they are defining a SKU, they are more likely to purchase and are more aware of available inventory so may be looking for promotions or sales via email triggers.</p>
+			<img width="800px;" src="https://coianac.github.io/img/userBusinessValue.jpg" alt="graphic of type of product">
 		<h2>site architecture</h2>
 		<h3>information architecture</h3>
 			<h4>Diagram</h4>
