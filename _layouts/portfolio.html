@@ -17,4 +17,32 @@ layout: default
         {{ content }}
         
     </div>
+  
+<h3 class="center">case studies</h2>
+<div class="w3-container w3-content" style="max-width:980px">
+  <div class="w3-white">
+      <div class="w3-row-padding" style="margin:0 -16px">
+        {% for case-studies in site.case-studies %}
+        <div class="w3-third w3-margin-bottom">
+          <a href="{{ case-studies.url }}">
+            <img src="{{ case-studies.image }}" alt="{{ case-studies.image }} style="width:100%" class="w3-hover-opacity"">  
+          </a>
+          <div style="height:190px;" class="w3-container light-green">
+              <h5>{{ case-studies.title }}</h5>
+            {% for item in case-studies.snippet %}
+            <label-1>{{ item }}<a href="{{ case-studies.url }}">Read the case study</a></label-1>
+            {% endfor %}
+          </div>
+          <div style="height:10px;" class="w3-row">
+          </div>
+            {% for item in case-studies.tags %}
+              <pill>{{ item }}</pill>
+            {% endfor %}
+        </div>
+       {% endfor %}
+      </div>
+  </div>
+</div>
+</div>
+  
 </article>
