@@ -5,9 +5,8 @@
 
 .block-head {
 	background-color: #f3f7f3;
-    	border-top-color: #ced4ce;
     	border-bottom: 1px solid;
-    	border-bottom-color: #ced4ce;
+    	border-bottom-color: #ced4ce85;
     	padding: 20px 0 20px 0;
 	margin: 0 0 10px 0;
 }
@@ -15,9 +14,9 @@
 .block {
 	background-color: #f3f7f3;
     	border-top: 1px solid;
-    	border-top-color: #ced4ce;
+    	border-top-color: #ced4ce85;
     	border-bottom: 1px solid;
-    	border-bottom-color: #ced4ce;
+    	border-bottom-color: #ced4ce85;
     	padding: 20px 0 20px 0;
 	margin: 20px 0 20px 0;
 }
@@ -35,9 +34,7 @@
 .block-white-nobottom {
 	background-color: white;
     	border-top: 1px solid;
-    	border-top-color: #ced4ce;
-    	border-bottom: 0px;
-    	border-bottom-color: #CFEBC7;
+    	border-top-color: #ced4ce85;
     	padding: 20px 0 20px 0;
 	margin: 0 0 0 0;
 }
