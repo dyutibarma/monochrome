@@ -5,7 +5,6 @@
 
 .block-head {
 	background-color: #f3f7f3;
-    	border-top: 1px dashed;
     	border-top-color: #ced4ce;
     	border-bottom: 1px solid;
     	border-bottom-color: #ced4ce;
@@ -15,7 +14,7 @@
 
 .block {
 	background-color: #f3f7f3;
-    	border-top: 1px dashed;
+    	border-top: 1px solid;
     	border-top-color: #ced4ce;
     	border-bottom: 1px solid;
     	border-bottom-color: #ced4ce;
@@ -25,7 +24,7 @@
 
 .block-white {
 	background-color: white;
-    	border-top: 1px dashed;
+    	border-top: 1px solid;
     	border-top-color: #ced4ce;
     	border-bottom: 1px solid;
     	border-bottom-color: #ced4ce;
@@ -35,7 +34,7 @@
 
 .block-white-nobottom {
 	background-color: white;
-    	border-top: 1px dashed;
+    	border-top: 1px solid;
     	border-top-color: #ced4ce;
     	border-bottom: 0px;
     	border-bottom-color: #CFEBC7;
@@ -75,7 +74,7 @@ h1 {
 	text-align: center;
 	letter-spacing: 0.06em; /* 0.84px */
 	line-height: 65px;
-	color: #485744;
+	color: #CED4CE;
 	padding: 0 0 0 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
 	margin: 0 0 60px 0; 
 }
