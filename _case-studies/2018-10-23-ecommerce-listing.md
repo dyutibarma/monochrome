@@ -55,6 +55,25 @@ nav: case-studies
       <h2>business problem</h2>
       <p>URBN needs to plan for a listing ecosystem that better integrates Wish Lists and Hearting as complementary features rather than separate and standalone products.</p>
       <p>Free People is being migrated onto the URBN Web white label platform; At the time, white label lacked the concept and functionality of hearting.</p> 
+      <h4>Team Structure</h4>
+	<table>
+  <tr>
+    <th>My Roles</th>
+    <th>Supporting Roles</th>
+  </tr>
+  <tr>
+    <td>Lead UX Designer  </td>
+    <td>Research Manager</td>
+  </tr>
+  <tr>
+    <td>Analyst</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strategist</td>
+    <td></td>
+  </tr>
+  </table>
       <h2>research</h2>
         <h3>user perspectives</h3>
         <p>The following research was conducted by <a target="_blank" href="https://www.lizzcuzzacrea.com/">Lizz Cuzzacrea</a> - Lizz and I worked closely to define the goals and  hypothesis of a multitide of studies to inform and guide the product architecture and design decisions that we then presented to Anthropologie, Free People, Urban Outfitters and URBN senior and executive leaders. The following data is an excerpt from one survey we conducted that helped in the presentation of a strategic listing product.</p>
