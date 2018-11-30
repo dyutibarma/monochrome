@@ -59,19 +59,19 @@ nav: case-studies
   </tr>
   <tr>
     <td>Lead UX Designer</td>
-    <td><a href="https://www.linkedin.com/in/corinne-suchy-b06bab4/?originalSubdomain=ukExecutive">e-Commerce Director: Corinne Suchy</a> </td>
+    <td>e-Commerce Director: <a href="https://www.linkedin.com/in/corinne-suchy-b06bab4/?originalSubdomain=ukExecutive">Corinne Suchy</a> </td>
   </tr>
   <tr>
     <td>Researcher</td>
-    <td><a href="http://www.joanna-ewing.com/">Executive Creative Director</a></td>
+    <td>Executive Creative Director: <a href="http://www.joanna-ewing.com/">Joanna Ewing</a></td>
   </tr>
   <tr>
     <td>Analyst</td>
-	  <td><a href="http://devyngalindo.com/">Lead Photographer: Devyn Galindo</a></td>
+  	<td>Lead Photographer: <a href="http://devyngalindo.com/">Devyn Galindo</a></td>
   </tr>
   <tr>
     <td>Strategist</td>
-	  <td><a href="https://tomknabe.com/">Lead Engineer: Tom Knabe</a></td>
+	  <td>Lead Engineer: <a href="https://tomknabe.com/">Tom Knabe</a></td>
   </tr>
 </table>
 <h3>study requirements</h3>
