@@ -63,7 +63,7 @@ nav: case-studies
   </tr>
   <tr>
     <td>Lead UX Designer  </td>
-    <td>Research Manager</td>
+    <td>Research Manager: <a href="https://www.lizzcuzzacrea.com/">Lizz Cuzzacrea</a></td>
   </tr>
   <tr>
     <td>Analyst</td>
