@@ -52,7 +52,7 @@ nav: about
     <h6><b>User Experience Designer</b> CloudMine</h6>
     <h6><b>Senior Quality Engineer Intern</b> Think Company</h6>
     <label-2>Boston, MA</label-2>
-    <h6><b>Analyst</b> One to One Interactive</h6>
+    <h6><b>Data Analyst</b> One to One Interactive</h6>
     <h3>speaking and teaching</h3>
     <label-2>Philadelphia, PA</label-2>
     <h6><b>Heuristic Evaluations 101</b> Temple University, Fox Business School, MIS</h6>
