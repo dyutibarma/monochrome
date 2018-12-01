@@ -3,23 +3,25 @@
 // -- Put custom style under this point -- //
 
 /* -- header -- */
-taxo {
-  font-size: 14px;
-  letter-spacing: 0.65px;
-  line-height: 29px; /* 29px */
-  margin-top: 5px;
-  padding: 15px 5px 15px 5px;	
-  width: 200px;
-  cursor: pointer;
-  }
-  taxo:hover{
-  border-bottom: 1px solid;
-  border-color: #E8E7D7;
-  }
-taxo:active{
-  border-bottom: 1px solid;
-  border-color: #E8E7D7;
-  background-color: #F3F7F3;
+#taxo {
+	a {
+	  font-size: 14px;
+	  letter-spacing: 0.65px;
+	  line-height: 29px; /* 29px */
+	  margin-top: 5px;
+	  padding: 15px 5px 15px 5px;	
+	  width: 200px;
+	  cursor: pointer;
+  	}
+  	a:hover{
+	  border-bottom: 1px solid;
+	  border-color: #E8E7D7;
+  	}
+	a:active{
+  	border-bottom: 1px solid;
+  	border-color: #E8E7D7;
+  	background-color: #F3F7F3;
+	}
 }
 
 /* -- colors -- */
