@@ -10,6 +10,7 @@ tags:
 - accessible
 - responsive
 - interaction
+- speccing
 date: 2018-10-01
 layout: portfolio
 nav: case-studies
@@ -36,6 +37,7 @@ nav: case-studies
       <pill>accessible</pill>
       <pill>responsive</pill>
       <pill>interaction</pill>
+	<pill>speccing</pill>
     </div>
     <div class="w3-col w3-container m2">
     </div>
