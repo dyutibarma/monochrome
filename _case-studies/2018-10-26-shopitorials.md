@@ -27,6 +27,8 @@ nav: case-studies
   </div>
 </div>
 
+<hr>
+
 <div class="w3-row w3-center">
   <div class="w3-col w3-container m2">
   </div>
