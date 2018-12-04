@@ -15,12 +15,12 @@ layout: portfolio
 nav: case-studies
 ---
 
-<div class="w3-row w3-center block">
+<div class="w3-row">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
-    <h5>User Story</h5>
-		<p>As a shopper inspired by curent trends, I want to shop editorial images in an exploratory and contextually relevant way.</p>
+	<h5>User Story</h5>
+	<p>As a shopper inspired by curent trends, I want to shop editorial images in an exploratory and contextually relevant way.</p>
   </div>
   <div class="w3-col w3-container m2">
   </div>
@@ -38,7 +38,7 @@ nav: case-studies
     </div>
 </div>
 
-<div class="w3-row w3-center block">
+<div class="w3-row">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
@@ -60,7 +60,7 @@ nav: case-studies
   </div>
 </div>
 
-<div class="w3-row w3-center block">
+<div class="w3-row">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
@@ -83,7 +83,7 @@ nav: case-studies
   </div>
 </div>
 
-<div class="w3-row w3-center">
+<div class="w3-row">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
@@ -93,6 +93,6 @@ nav: case-studies
   </div>
 </div>
 <a target="_blank" href="https://coianac.github.io/img/shopitorials-annotations.jpg">
-    <img src="https://coianac.github.io/img/shopitorials-annotations.jpg" alt="shopitorials annotation wires" width="600">
+    <img src="https://coianac.github.io/img/shopitorials-annotations.jpg" alt="shopitorials annotation wires" max-width="1440">
   </a>
       
