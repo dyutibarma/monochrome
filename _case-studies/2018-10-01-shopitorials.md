@@ -14,11 +14,11 @@ nav: case-studies
 ---
 
 <video controls>
-  <source src="https://coianac.github.io/img/shopitorials-desktop.mov" type="video/mov">
+  <source src="https://coianac.github.io/img/shopitorials-desktop.mov" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <video controls>
-  <source src="https://coianac.github.io/img/shopitorials-mobile.mov" type="video/mov">
+  <source src="https://coianac.github.io/img/shopitorials-mobile.mov" type="video/mp4">
 Your browser does not support the video tag.
 </video>
