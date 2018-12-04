@@ -5,7 +5,7 @@ header: tbd
 category: 
 - tbd
 date: 2018-10-01
-layout: post
+layout: portfolio
 ---
 
 <video controls>
