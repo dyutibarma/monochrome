@@ -27,8 +27,6 @@ nav: case-studies
   </div>
 </div>
 
-<hr>
-
 <h2>live mobile example on Free People</h2>
 <div class="w3-row w3-center block">
   <div class="w3-col w3-container m2">
