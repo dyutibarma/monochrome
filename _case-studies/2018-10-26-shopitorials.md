@@ -13,12 +13,28 @@ layout: portfolio
 nav: case-studies
 ---
 
-<video controls>
-  <source src="https://coianac.github.io/img/shopitorials-desktop.mov" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<div class="w3-row">
+  <div class="w3-col w3-container m1">
+  </div>
+  <div class="w3-col w3-container m8">
+    <video width="600" controls>
+      <source src="https://coianac.github.io/img/shopitorials-desktop.mov" type="video/mp4">
+    <p>Your browser does not support the video tag.<p>
+    </video>
+  </div>
+  <div class="w3-col w3-container m1">
+  </div>
+</div>
 
-<video controls>
-  <source src="https://coianac.github.io/img/shopitorials-mobile.mov" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<div class="w3-row">
+  <div class="w3-col w3-container m1">
+  </div>
+  <div class="w3-col w3-container m8">
+    <video width="300" controls>
+      <source src="https://coianac.github.io/img/shopitorials-mobile.mov" type="video/mp4">
+      <p>Your browser does not support the video tag.<p>
+    </video>
+  </div>
+  <div class="w3-col w3-container m1">
+  </div>
+</div>
