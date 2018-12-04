@@ -8,13 +8,46 @@ snippet:
 categories: [portfolio]
 tags: 
 - accessible
+- responsive
 - interaction
 date: 2018-10-01
 layout: portfolio
 nav: case-studies
 ---
 
-<h2>live desktop example on Free People</h2>
+<div class="w3-row w3-center block">
+  <div class="w3-col w3-container m2">
+  </div>
+  <div class="w3-col w3-container m8">
+    <h5>User Story</h5>
+		<p>As a shopper inspired by curent trends, I want to shop editorial images in an exploratory and contextually relevant way.</p>
+  </div>
+  <div class="w3-col w3-container m2">
+  </div>
+</div>
+
+<div class="w3-row"> 
+  <div class="w3-col w3-container m2">
+  </div>
+    <div class="w3-col w3-container m8">
+      <pill>accessible</pill>
+      <pill>responsive</pill>
+      <pill>interaction</pill>
+    </div>
+    <div class="w3-col w3-container m2">
+    </div>
+</div>
+
+<div class="w3-row w3-center block">
+  <div class="w3-col w3-container m2">
+  </div>
+  <div class="w3-col w3-container m8">
+    <h3>live desktop web example on Free People</h3>
+  </div>
+  <div class="w3-col w3-container m2">
+  </div>
+</div>
+
 <div class="w3-row w3-center block">
   <div class="w3-col w3-container m2">
   </div>
@@ -27,7 +60,17 @@ nav: case-studies
   </div>
 </div>
 
-<h2>live mobile example on Free People</h2>
+<div class="w3-row w3-center block">
+  <div class="w3-col w3-container m2">
+  </div>
+  <div class="w3-col w3-container m8">
+    <h3>live mobile web example on Free People</h3>
+  </div>
+  <div class="w3-col w3-container m2">
+  </div>
+</div>
+
+
 <div class="w3-row w3-center block">
   <div class="w3-col w3-container m2">
   </div>
@@ -44,12 +87,12 @@ nav: case-studies
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
-  <h2>wires and annotations</h2>
-  <a target="_blank" href="https://coianac.github.io/img/shopitorials-annotations.jpg">
-    <img src="https://coianac.github.io/img/shopitorials-annotations.jpg" alt="shopitorials annotation wires" width="600">
-  </a>
+  <h3>wires and annotations</h3>
   </div>
   <div class="w3-col w3-container m2">
   </div>
 </div>
+<a target="_blank" href="https://coianac.github.io/img/shopitorials-annotations.jpg">
+    <img src="https://coianac.github.io/img/shopitorials-annotations.jpg" alt="shopitorials annotation wires" width="600">
+  </a>
       
