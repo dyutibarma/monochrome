@@ -21,7 +21,6 @@ nav: case-studies
     <h2>live desktop example on Free People</h2>
     <video width="600" controls>
       <source src="https://coianac.github.io/img/shopitorials-desktop.mov" type="video/mp4">
-    <p>Your browser does not support the video tag.<p>
     </video>
   </div>
   <div class="w3-col w3-container m2">
@@ -37,7 +36,6 @@ nav: case-studies
   <h2>live mobile example on Free People</h2>
     <video width="300" controls>
       <source src="https://coianac.github.io/img/shopitorials-mobile.mov" type="video/mp4">
-      <p>Your browser does not support the video tag.<p>
     </video>
   </div>
   <div class="w3-col w3-container m2">
