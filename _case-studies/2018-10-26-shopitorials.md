@@ -18,6 +18,7 @@ nav: case-studies
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
+    <h2>live desktop example on Free People</h2>
     <video width="600" controls>
       <source src="https://coianac.github.io/img/shopitorials-desktop.mov" type="video/mp4">
     <p>Your browser does not support the video tag.<p>
@@ -33,6 +34,7 @@ nav: case-studies
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
+  <h2>live mobile example on Free People</h2>
     <video width="300" controls>
       <source src="https://coianac.github.io/img/shopitorials-mobile.mov" type="video/mp4">
       <p>Your browser does not support the video tag.<p>
@@ -41,3 +43,17 @@ nav: case-studies
   <div class="w3-col w3-container m2">
   </div>
 </div>
+
+<div class="w3-row w3-center">
+  <div class="w3-col w3-container m2">
+  </div>
+  <div class="w3-col w3-container m8">
+  <h2>wires and annotations</h2>
+  <a target="_blank" href="https://coianac.github.io/img/shopitorials-annotations.jpg">
+    <img src="https://coianac.github.io/img/shopitorials-annotations.jpg" alt="shopitorials annotation wires" width="600">
+  </a>
+  </div>
+  <div class="w3-col w3-container m2">
+  </div>
+</div>
+      
