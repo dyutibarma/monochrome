@@ -15,7 +15,7 @@ layout: portfolio
 nav: case-studies
 ---
 
-<div class="w3-row">
+<div class="w3-row block">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
@@ -48,11 +48,11 @@ nav: case-studies
   </div>
 </div>
 
-<div class="w3-row w3-center block">
+<div class="w3-row w3-center">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
-    <video width="600" controls>
+    <video width="768" controls>
       <source src="https://coianac.github.io/img/shopitorials-desktop.mov" type="video/mp4">
     </video>
   </div>
@@ -71,7 +71,7 @@ nav: case-studies
 </div>
 
 
-<div class="w3-row w3-center block">
+<div class="w3-row w3-center">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
