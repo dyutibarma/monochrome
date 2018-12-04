@@ -18,7 +18,7 @@ nav: case-studies
 <div class ="w3-row">
 <img src="https://coianac.github.io/img/shopitorial-Hero.jpg" alt="Image Quality Hero">
 	</div>
-<div class="w3-row block">
+<div class="w3-row block-head">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
