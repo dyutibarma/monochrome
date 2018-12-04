@@ -47,7 +47,7 @@ nav: case-studies
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
-    <h3>live desktop web example on Free People</h3>
+    <h4>desktop web example</h4>
   </div>
   <div class="w3-col w3-container m2">
   </div>
@@ -69,7 +69,7 @@ nav: case-studies
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
-    <h3>live mobile web example on Free People</h3>
+    <h3>mobile web example</h3>
   </div>
   <div class="w3-col w3-container m2">
   </div>
