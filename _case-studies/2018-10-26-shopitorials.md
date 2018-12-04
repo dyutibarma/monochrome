@@ -13,7 +13,7 @@ layout: portfolio
 nav: case-studies
 ---
 
-<div class="w3-row">
+<div class="w3-row w3-center">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
@@ -26,7 +26,7 @@ nav: case-studies
   </div>
 </div>
 
-<div class="w3-row">
+<div class="w3-row w3-center">
   <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
