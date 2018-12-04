@@ -7,8 +7,8 @@ snippet:
 - As a shopper inspired by curent trends, I want to shop editorial images in an exploratory and contextually relevant way.
 categories: [portfolio]
 tags: 
-- interaction
 - accessible
+- interaction
 date: 2018-10-01
 layout: portfolio
 nav: case-studies
