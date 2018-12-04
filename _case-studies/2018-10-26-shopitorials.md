@@ -2,7 +2,7 @@
 title: shopitorials
 description: tbd
 header: shopitorials
-image: https://coianac.github.io/img/shopitorials-lead.jpg
+image: https://coianac.github.io/img/shopitorial-Hero.jpg
 snippet:
 - As a shopper inspired by curent trends, I want to shop editorial images in an exploratory and contextually relevant way.
 categories: [portfolio]
