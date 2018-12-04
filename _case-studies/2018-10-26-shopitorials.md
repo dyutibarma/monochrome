@@ -14,7 +14,7 @@ nav: case-studies
 ---
 
 <div class="w3-row">
-  <div class="w3-col w3-container m1">
+  <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
     <video width="600" controls>
@@ -22,12 +22,12 @@ nav: case-studies
     <p>Your browser does not support the video tag.<p>
     </video>
   </div>
-  <div class="w3-col w3-container m1">
+  <div class="w3-col w3-container m2">
   </div>
 </div>
 
 <div class="w3-row">
-  <div class="w3-col w3-container m1">
+  <div class="w3-col w3-container m2">
   </div>
   <div class="w3-col w3-container m8">
     <video width="300" controls>
@@ -35,6 +35,6 @@ nav: case-studies
       <p>Your browser does not support the video tag.<p>
     </video>
   </div>
-  <div class="w3-col w3-container m1">
+  <div class="w3-col w3-container m2">
   </div>
 </div>
