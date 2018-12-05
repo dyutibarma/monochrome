@@ -22,7 +22,7 @@ nav: case-studies
 <div class="w3-container w3-content" style="max-width:980px">
   <div class="w3-white">
       <div class="w3-row-padding" style="margin:0 -16px">
-        {% for case-studies in site.case-studies | where:"category" == "prodStrat" %}
+        {% for case-studies in site.case-studies | where: site.category == "prodStrat" %}
         <div class="w3-third w3-margin-bottom">
           <a href="{{ case-studies.url }}">
             <img src="{{ case-studies.image }}" alt="{{ case-studies.image }} style="width:100%" class="w3-hover-opacity"">  
