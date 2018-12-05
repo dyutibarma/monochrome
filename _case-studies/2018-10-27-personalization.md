@@ -149,15 +149,6 @@ nav: case-studies
           <ul>What tactics or strategies is your brand currently engaging for personalization?</ul>
           <ul>How do you see personalization being used outside of the website?</ul>
           <ul>Do you have a vision for personalization in the future?</ul>
-      </div>
-  <div class="w3-col w3-container m2">
-  </div>
-</div>
-
-<div class="w3-row"> 
-  <div class="w3-col w3-container m2">
-  </div>
-    <div class="w3-col w3-container m4">
         <h4>Generalized Findings</h4>
           <ul>Frequency of Engagement</ul>
           <ul>Browse Path Personalization</ul>
@@ -170,12 +161,11 @@ nav: case-studies
           <ul>Personalized Customer Experience</ul>
           <ul>In-store Experience</ul>
       </div>
-      <div class="w3-col w3-container m4">
-        <img src="https://coianac.github.io/img/                  .jpg" alt="image goes here">  
-      </div>
      <div class="w3-col w3-container m2">
   </div>
 </div>
+
+<img max-width="1440px;" src="https://coianac.github.io/img/personalization-wb3.jpg" alt="whiteboard session 3">  
           
 <div class="w3-row"> 
   <div class="w3-col w3-container m2">
@@ -187,7 +177,7 @@ nav: case-studies
   </div>
 </div>
 
-<img src="https://coianac.github.io/img/                  .jpg" alt="Journey Mapping Whiteboard">
+<img max-width="1440px;" src="https://coianac.github.io/img/personalization-wb4.jpg" alt="Journey Mapping Whiteboard">
 
 <div class="w3-row"> 
   <div class="w3-col w3-container m2">
