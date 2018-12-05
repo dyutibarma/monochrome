@@ -1,6 +1,6 @@
 ---
-title:  personlization strategy
-header: personlization strategy
+title:  personalization strategy
+header: personalization strategy
 snippet: 
 - Focus efforts on increasing and optimizing recommendation placements, and continue to build out more robust content placement strategies.
 image: coianac.github.io/img/
@@ -18,9 +18,9 @@ nav: case-studies
 ---
 
 <div class="w3-row block">
-  <div class="w3-col w3-container m2"
+  <div class="w3-col w3-container m2">
   </div>
-  <div class=w3-col w3-container m8">
+  <div class="w3-col w3-container m8">
     <h5>Executive Goals</h5>
     <p>Focus efforts on increasing and optimizing recommendation placements, and continue to build out more robust content placement strategies.</p>
     <p>Add new or enhance existing email / messaging campaigns.</p>
