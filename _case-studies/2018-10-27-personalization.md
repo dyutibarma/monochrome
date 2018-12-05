@@ -97,10 +97,12 @@ nav: case-studies
       <p>Majority of web competitors utilize recommendation trays - presumably based on shopping history – in cart and Wish Lsits (7 sites total).</p>
       <blockquote>
         <label-2>Observed Competitors</label-2>
+        <br>
         <p><b>Native Apps: </b>Starbucks, Nike+, YouTube, Amazon, Spotify, Etsy</p>
         <p><b>Websites: </b>Nordstrom, Macy’s, Gap, H&M, J. Crew, American Eagle, ASOS, Express, Forever21, Zara, Ann Taylor, Sephora</p>
         <hr>
         <label-2>Key Observations</label-2>
+        <br>
         <label-1>Heavy use of “Recently Viewed” and “Customers Also Bought” trays not delivering personalized content.</label-1>
         <label-1>American Eagle was the only site to deliver a personalzed “Just for you” page.</label-1>
       </blockquote>
