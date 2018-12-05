@@ -5,7 +5,7 @@ snippet:
 - Focus efforts on increasing and optimizing recommendation placements, and continue to build out more robust content placement strategies.
 image: coianac.github.io/img/
 her0: coianac.github.io/img/
-categories: [portfolio]
+categories: [prodStrat]
 tags: 
 - research
 - analysis
