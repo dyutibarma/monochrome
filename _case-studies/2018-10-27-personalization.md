@@ -26,7 +26,7 @@ nav: case-studies
     <p>Add new or enhance existing email / messaging campaigns.</p>
     <p>Build out actionabl eplan for delivery with respect to three Personalization Initiatives.</p>
   </div>
-  <div class="w3-col w3-container m2"
+  <div class="w3-col w3-container m2">
   </div>
 </div>
 
@@ -50,7 +50,7 @@ nav: case-studies
   </div>
     <div class="w3-col w3-container m8">
       <h2>3-year opportunity</h2>
-      <img src="https://coianac.github.io/img/personalization-opportunity.jpg" alt="personalization opportunity graphic">
+      <img width="600px;" src="https://coianac.github.io/img/personalization-opportunity.jpg" alt="personalization opportunity graphic">
       <h3>Team Structure</h3>
         <table>
           <tr>
@@ -195,122 +195,122 @@ nav: case-studies
         <tr>
           <td>Product Recs Tray</td>
           <td>Homepage</td>
-          <th>Web</th>
-          <th></th>
-          <th>⤫</th>
-          <th>⤫</th>
+          <td>Web</td>
+          <td></td>
+          <td>⤫</td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>Gateway</td>
-          <th>Web</th>
-          <th></th>
-          <th>⤫</th>
-          <th>⤫</th>
+          <td>Web</td>
+          <td></td>
+          <td>⤫</td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>PDP</td>
-          <th>Both</th>
-          <th>⤫</th>
-          <th>⤫</th>
-          <th>⤫</th>
+          <td>Both</td>
+          <td>⤫</td>
+          <td>⤫</td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>Cart</td>
-          <th>Web</th>
-          <th>⤫</th>
-          <th>⤫</th>
-          <th>⤫</th>
+          <td>Web</td>
+          <td>⤫</td>
+          <td>⤫</td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>Email Trigger</td>
-          <th>eMail</th>
-          <th></th>
-          <th></th>
-          <th>⤫</th>
+          <td>eMail</td>
+          <td></td>
+          <td></td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>Empty Wish List</td>
-          <th>Web</th>
-          <th>⤫</th>
-          <th>⤫</th>
-          <th>⤫</th>
+          <td>Web</td>
+          <td>⤫</td>
+          <td>⤫</td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>Zero Search Results</td>
-          <th>Web</th>
-          <th>⤫</th>
-          <th>⤫</th>
-          <th>⤫</th>
+          <td>Web</td>
+          <td>⤫</td>
+          <td>⤫</td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>My Account</td>
-          <th>Web</th>
-          <th></th>
-          <th></th>
-          <th>⤫</th>
+          <td>Web</td>
+          <td></td>
+          <td></td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>Dashboard</td>
-          <th>Native App</th>
-          <th></th>
-          <th></th>
-          <th>⤫</th>
+          <td>Native App</td>
+          <td></td>
+          <td></td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td>Content in Priority Order</td>
           <td>eMail Trigger</td>
-          <th>Native App</th>
-          <th></th>
-          <th></th>
-          <th>⤫</th>
+          <td>Native App</td>
+          <td></td>
+          <td></td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>Homepage</td>
-          <th>eMail</th>
-          <th></th>
-          <th></th>
-          <th>⤫</th>
+          <td>eMail</td>
+          <td></td>
+          <td></td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>Gateways</td>
-          <th>Web</th>
-          <th></th>
-          <th></th>
-          <th>⤫</th>
+          <td>Web</td>
+          <td></td>
+          <td></td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td></td>
           <td>Global</td>
-          <th>Web</th>
-          <th></th>
-          <th></th>
-          <th>⤫</th>
+          <td>Web</td>
+          <td></td>
+          <td></td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td>Push Notification</td>
           <td>Global</td>
-          <th>Both</th>
-          <th>⤫</th>
-          <th>⤫</th>
-          <th>⤫</th>
+          <td>Both</td>
+          <td>⤫</td>
+          <td>⤫</td>
+          <td>⤫</td>
         </tr>
         <tr>
           <td>Beacon Messaging</td>
           <td>Global</td>
-          <th>Native App</th>
-          <th></th>
-          <th></th>
-          <th>⤫</th>
+          <td>Native App</td>
+          <td></td>
+          <td></td>
+          <td>⤫</td>
         </tr>
       </table>
     <h2>personalization playbook</h2>
