@@ -316,16 +316,17 @@ nav: case-studies
         </tr>
       </table>
     <h2>personalization playbook</h2>
-    <img src="https://coianac.github.io/img/personalizationPlaybook.jpg" alt="personalization playbook">
-    <hr>
-    <img src="https://coianac.github.io/img/personalizationPlaybook-ph1.jpg" alt="Phase 1 details">
-    <hr>
-    <img src="https://coianac.github.io/img/personalizationPlaybook-ph2.jpg" alt="Phase 2 details">
-    <hr>
-    <img src="https://coianac.github.io/img/personalizationPlaybook-ph3.jpg" alt="Phase 3 details">
-    <hr>
-    <img src="https://coianac.github.io/img/personalizationPlaybook-ph4.jpg" alt="Phase 4 details">
   </div>
   <div class="w3-col w3-container m2">
   </div>
 </div>
+
+<img src="https://coianac.github.io/img/personalizationPlaybook.jpg" alt="personalization playbook">
+<hr>
+<img src="https://coianac.github.io/img/personalizationPlaybook-ph1.jpg" alt="Phase 1 details">
+<hr>
+<img src="https://coianac.github.io/img/personalizationPlaybook-ph2.jpg" alt="Phase 2 details">
+<hr>
+<img src="https://coianac.github.io/img/personalizationPlaybook-ph3.jpg" alt="Phase 3 details">
+<hr>
+<img src="https://coianac.github.io/img/personalizationPlaybook-ph4.jpg" alt="Phase 4 details">
