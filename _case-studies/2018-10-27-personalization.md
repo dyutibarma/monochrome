@@ -86,7 +86,7 @@ nav: case-studies
   </div>
 </div>
 
-<img src="https://coianac.github.io/img/                  .jpg" alt="personalization process whiteboard">
+<img src="https://coianac.github.io/img/personalization-wb1.jpg" alt="personalization process whiteboard">
 
 <div class="w3-row"> 
   <div class="w3-col w3-container m2">
@@ -114,18 +114,18 @@ nav: case-studies
 <div class="block">
   <div class="w3-row">
   <div class="w3-col w3-container m4">
-  <img src="https://coianac.github.io/img/                  .jpg" alt="Nike Personalization Example">
+  <img src="https://coianac.github.io/img/personalization-nike.jpg" alt="Nike Personalization Example">
   </div>
   <div class="w3-col w3-container m4">
-  <img src="https://coianac.github.io/img/                  .jpg" alt="Spotify Personalization Example">
+  <img src="https://coianac.github.io/img/personalization-spotify.jpg" alt="Spotify Personalization Example">
   </div>
   <div class="w3-col w3-container m4">
-  <img src="https://coianac.github.io/img/                  .jpg" alt="Amazon Personalization Example">
+  <img src="https://coianac.github.io/img/personalization-amazon.jpg" alt="Amazon Personalization Example">
   </div>
 </div>
 <div class="w3-row">
   <div class="w3-col m12">
-    <img src="https://coianac.github.io/img/                  .jpg" alt="Amazon Personalization Example">
+    <img src="https://coianac.github.io/img/personalization-ae.jpg" alt="American Eagle Personalization Example">
   </div>
 </div>
 </div>
