@@ -115,17 +115,20 @@ nav: case-studies
   <div class="w3-row">
   <div class="w3-col w3-container m4">
   <img src="https://coianac.github.io/img/personalization-nike.jpg" alt="Nike Personalization Example">
+  <br>
   </div>
   <div class="w3-col w3-container m4">
   <img src="https://coianac.github.io/img/personalization-spotify.jpg" alt="Spotify Personalization Example">
+  <br>
   </div>
   <div class="w3-col w3-container m4">
   <img src="https://coianac.github.io/img/personalization-amazon.jpg" alt="Amazon Personalization Example">
+  <br>
   </div>
 </div>
 <div class="w3-row">
   <div class="w3-col m12">
-    <img src="https://coianac.github.io/img/personalization-ae.jpg" alt="American Eagle Personalization Example">
+    <img max-width="1080px" src="https://coianac.github.io/img/personalization-ae.jpg" alt="American Eagle Personalization Example">
   </div>
 </div>
 </div>
