@@ -94,13 +94,15 @@ nav: case-studies
     <div class="w3-col w3-container m8">
       <h3>Competitive Analysis</h3>
       <p>Native apps benefit from the use of geolocation and push notifications to enhance loyalty programs and deliver personalized content feeds based on user activity and preferences.</p>
-      <p>Majoirty of web competitors utilize recommendation trays - presumably based on shopping history – in cart and Wish Lsits (7 sites total).</p>
-      <ul>Heavy use of “Recently Viewed” and “Customers Also Bought” trays not delivering personalized content.</ul>
-      <ul>American Eagle was the only site to deliver a personalzed “Just for you” page.</ul>
+      <p>Majority of web competitors utilize recommendation trays - presumably based on shopping history – in cart and Wish Lsits (7 sites total).</p>
       <blockquote>
-        <h4>Observed Competitors</h4>
+        <label-2>Observed Competitors</label-2>
         <p><b>Native Apps: </b>Starbucks, Nike+, YouTube, Amazon, Spotify, Etsy</p>
         <p><b>Websites: </b>Nordstrom, Macy’s, Gap, H&M, J. Crew, American Eagle, ASOS, Express, Forever21, Zara, Ann Taylor, Sephora</p>
+        <hr>
+        <label-2>Key Observations</label-2>
+        <label-1>Heavy use of “Recently Viewed” and “Customers Also Bought” trays not delivering personalized content.</label-1>
+        <label-1>American Eagle was the only site to deliver a personalzed “Just for you” page.</label-1>
       </blockquote>
     </div>
   <div class="w3-col w3-container m2">
