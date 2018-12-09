@@ -1,5 +1,5 @@
 ## About
-Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging. 
+Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging. [Demo](https://dyutibarma.github.io/monochrome/)
 (Built on top of Emerald Jekyll theme)
 
 ## Features
@@ -22,7 +22,7 @@ Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging.
 
 1. Make sure Ruby 2.2 is installed 
 ```
-sudo apt-get install ruby2.2
+sudo apt-get install ruby2.2 (sudo apt-get install ruby-full)
 sudo apt-get install ruby2.2-dev
 ```
 2. Install bundle: `sudo gem install bundler`
@@ -47,8 +47,8 @@ sudo gem install jekyll-sitemap
 ### Option 1 
 
 - Fork this repository
+- Clone the forked repository to your local machine to make changes: git clone https://github.com/your-github-username/monochrome.git)
 - (Optional) Change the 'baseurl' value in the 'config.yml' file, from '/blog' to your preferred directory/project name (example '/xyz' or '/' to install in root)
-- Clone the forked repository to your local machine to make changes
 - Run 'jekyll serve' and open browser to 'localhost:4000/blog/' to see your changes
 - (Optional) Host with github pages
 
@@ -125,7 +125,7 @@ To maintain the vertical rhythm, it has been applied a **Typographic scale** as 
 ### TheReviewIndex
 
 - Dyuti Barma
-- Web site: [Review Aggregation and Summary Site for India - TheReviewIndex](https://thereviewindex.com)
+- Web site: [Review Aggregation and Summary Site for India - TheReviewIndex.com](https://thereviewindex.com)
 
 ## License
 Released under [MIT License](license.md).
