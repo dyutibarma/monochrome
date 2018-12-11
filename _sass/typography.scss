@@ -4,38 +4,34 @@
 //
 
 .block-head {
-	background-color: #f3f7f3;
-    	border-bottom: 1px solid;
-    	border-bottom-color: #ced4ce85;
-    	padding: 20px 0 20px 0;
+	background-color: #262D24;
+	padding: 20px 0 20px 0;
 	margin: 0 0 10px 0;
+	color: #FFFFFF;
 }
 
 .block {
-	background-color: #f3f7f3;
-    	border-top: 1px solid;
-    	border-top-color: #ced4ce85;
-    	border-bottom: 1px solid;
-    	border-bottom-color: #ced4ce85;
-    	padding: 20px 0 20px 0;
+	background-color: #262D24;
+	padding: 20px 0 20px 0;
 	margin: 20px 0 20px 0;
+	color: #FFFFFF;
 }
 
 .block-white {
 	background-color: white;
-    	border-top: 1px solid;
-    	border-top-color: #ced4ce;
-    	border-bottom: 1px solid;
-    	border-bottom-color: #ced4ce;
-    	padding: 20px 0 20px 0;
+	border-top: 1px solid;
+	border-top-color: #ced4ce;
+	border-bottom: 1px solid;
+	border-bottom-color: #ced4ce;
+	padding: 20px 0 20px 0;
 	margin: 20px 0 20px 0;
 }
 
 .block-white-nobottom {
 	background-color: white;
-    	border-top: 1px solid;
-    	border-top-color: #ced4ce85;
-    	padding: 20px 0 20px 0;
+	border-top: 1px solid;
+	border-top-color: #ced4ce85;
+	padding: 20px 0 20px 0;
 	margin: 0 0 0 0;
 }
 
@@ -46,12 +42,13 @@
 
 body
 {
-	font-family : "roboto", "Helvetica Neue", "Helvetica", "Arial", serif;
+	font-family: "raleway", sans-serif;
   	// font-style: light;
  	font-weight: 300;
- 	font-size: 14px;
+ 	font-size: 18px;
  	color: #333;
 	letter-spacing: 0.84px;
+	paragraph-spacing: 10px;
 	line-height: 29px; /* 29px */
 	margin-bottom: 0 0 10px 0; /* 10px */
 }
@@ -59,39 +56,37 @@ body
 /*- Typography for medium and small screen, based on 16px font-size -*/
 
 p, ul, ol {
-	font-size: 1.2; /* 14px */
+	font-size: 18px;
 	line-height: 1.8em;
 	margin-bottom: 1.5em; /* 24px/16px */
 }
 
 h1 {
-	font-family : "Nanum Myeongjo", serif;
 	font-size: 4em; /* 60px */
-	font-weight: bold;
-	text-align: center;
+	font-weight: 800;
+	text-align: left;
+	text-transform: lowercase;
 	letter-spacing: 0.06em; /* 0.84px */
 	line-height: 65px;
-	color: #CED4CE;
 	padding: 0 0 0 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
-	margin: 0 0 60px 0; 
+	margin: 0 0 50px 0; 
 }
 
 h2 {
-    	font-family : "Nanum Myeongjo", serif;
-	font-size: 2.6em;
-    	font-weight: bold;
-	text-align: center;
-    	letter-spacing: .84px;
-    	line-height: 50px;
-    	color: #485744;
-    	padding: 0 0 0 0;
-	margin:  40px 0 40px 0;
+	font-size: 36px;
+	font-weight: 800;
+	text-align: left;
+	text-transform: lowercase;
+	letter-spacing: .84px;
+	line-height: 51px;
+	padding: 0 0 0 0;
+	margin:  50px 0 30px 0;
 }
 
 h3 {
-	font-family : "Nanum Myeongjo", serif;
-	font-size: 1.75em; /* 24px */
-	font-weight: bold;
+	font-size: 24px;
+	font-weight: 500;
+	text-transform: lowercase;
  	letter-spacing: 0.84px;
 	line-height: 29px;
 	padding: 0 0 0 0;
@@ -99,17 +94,16 @@ h3 {
 }
 
 h4 {
-	font-family : "Nanum Myeongjo", serif;
-	font-size: 1.3em; /* 18px */
-	font-weight: 800;
+	font-size: 18px;
+	font-weight: 400;
  	letter-spacing: .75px; /* 0.75px */
 	line-height: 19px; /* 19px */
+	text-transform: uppercase;
 	padding: 0 0 20px 0; /* 30px */
 	margin: 30px 0 0 0;
 }
 
 h5 {
-	font-family : "Nanum Myeongjo", serif;
 	font-size: 16px; /* 16px */
 	font-weight: 800;
 	letter-spacing: 0.75px; /* 0.75px */
@@ -119,7 +113,6 @@ h5 {
 }
 	
 h6 {
-	font-family : "Nanum Myeongjo", serif;
 	font-size: 16px; /* 14px */
 	font-weight: normal;
 	letter-spacing: .65px; /* 0.65px */
@@ -129,51 +122,57 @@ h6 {
 }
 
 label-1 {
-    	font-size: 1em;
-    	font-weight: lighter;
-    	letter-spacing: .65px; /* .65px */
-    	line-height: 20px; /* 20px */
-    	padding: 0 0 0 0; /* 5px */
-	margin: 0 0 5px 0;
+	font-size: 16px;
+	font-weight: 200;
+	font-style: italic;
+	letter-spacing: .65px; /* .65px */
+	line-height: 20px;
+	margin: 0 0 15px 0;
 }
 label-2 {
-    	font-size: 14px;
-    	font-weight: lighter;
-    	color: #9B9B9B;
-    	letter-spacing: 0.65px; /* .65px */
-    	line-height: 16px; /* 16px */
-    	padding: 0 0 0 0; /* 5px */
+	font-size: 14px;
+	font-weight: lighter;
+	color: #9B9B9B;
+	letter-spacing: 0.65px; /* .65px */
+	line-height: 16px; /* 16px */
+	padding: 0 0 0 0; /* 5px */
 	margin: 0 0 5px 0;
 }
 primary-button {
-    	font-size: 18px;
-    	font-weight: bold;
-    	letter-spacing: 0.84px; /* .84px */
-    	line-height: 29px; /* 29px */
-    	padding: 0 0 5px 0; /* 5px */
+	font-size: 18px;
+	font-weight: bold;
+	letter-spacing: 0.84px; /* .84px */
+	line-height: 29px; /* 29px */
+	padding: 0 0 5px 0; /* 5px */
 }
 pill {
 	font-size: 12px;
-    	letter-spacing: 0.56px; /* .56px */
-    	line-height: 29px; /* 29px */
-    	padding: 5px 5px 5px 5px;
-    	border: 1px solid;
+	font-weight: 500;
+	letter-spacing: 0.56px; /* .56px */
+	line-height: 29px; /* 29px */
+	padding: 5px 5px 5px 5px;
 	border-radius: 4px;
-	border-color: #E8E7D7;
-    	background-color: #FEFDF3;
+	background-color: #DBDFDB;
 	margin-top: 5px;
 }
 
-blockquote {
-	font-family: 'nanum myeongjo';
-	font-size: 15px;
-    	letter-spacing: 0.74px;
-	line-height: 29px;
-	border-bottom: 1px solid;
-    	border-color: #cdd4ce91;
-    	background-color: #f3f7f3;
-	padding: 20px 20px 20px 20px;
-	margin: 0 0 0 0;
+.blockquote {
+	background-color: rgba(243, 247, 243, 0.5);
+	opacity: 50%;
+	padding: 30px 0 30px 0;
+}
+
+.blockquote-border {
+	background-color: rgba(243, 247, 243, 0.5);
+	border-top: 1px solid;
+	border-color: #A0FF8B;
+	padding: 0 0 30px 0;
+}
+blockquote-txt {
+	font-family: "raleway", sans-serif;
+	font-size: 24px;
+	font-weight: 500;
+	font-style: italic;
 }
 
 logo {
@@ -186,64 +185,63 @@ logo {
 @media (min-width: 940px) { //Breakpoint set to 940px
 
 p, ul, ol {
-	font-size: 16px; /* 18px */
+	font-size: 18px;
 	font-weight: 300;
 	letter-spacing: 0.84px;
-	line-height: 25px; /* 29px */
+	line-height: 29px;
 	margin-bottom: 10px; /* 10px */
 } 
 	
 hr { 
-    	display: block;
-    	margin-top: 0.5em;
-    	margin-bottom: 0.5em;
-    	margin-left: auto;
-    	margin-right: auto;
-    	border-style: inset;
-    	border-width: .5px;
-    	border-color: #ced4ce;
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+	border-width: .5px;
+	border-color: #ced4ce;
 } 
 
 hr-dash { 
    	display: block;
-    	margin-top: 0.5em;
-    	margin-bottom: 0.5em;
-    	margin-left: auto;
-    	margin-right: auto;
-    	border-style: inset;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
 	border-width: .5px;
 	border-color: #ced4ce;
 	border-style: dashed;
 }
 	
 h1 {
-	font-family : "Nanum Myeongjo", serif;
-	font-size: 4.3em; /* 60px */
-	font-weight: bold;
-	text-align: center;
+	font-size: 60px;
+	font-style: normal;
+	font-weight: 800;
+	text-align: left;
+	text-transform: lowercase;
 	letter-spacing: 0.06em; /* 0.84px */
-	line-height: 69px;
-	color: #485744;
-	padding: 0 0 0 0;
-	margin: 0 0 60px 0;
+	line-height: 84px;
+	padding: 0 0 0 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
+	margin: 0 0 50px 0; 
 }
 
 h2 {
-    	font-family : "Nanum Myeongjo", serif;
-	font-size: 2.6em;
-    	font-weight: bold;
-	text-align: center;
-    	letter-spacing: .84px;
-    	line-height: 40px;
-    	color: #485744;
-    	padding: 0 0 0 0;
-	margin:  40px 0 40px 0;
+	font-size: 36px;
+	font-weight: 800;
+	text-align: left;
+	text-transform: lowercase;
+	letter-spacing: .84px;
+	line-height: 51px;
+	padding: 0 0 0 0;
+	margin:  50px 0 30px 0;
 }
 
 h3 {
-	font-family : "Nanum Myeongjo", serif;
-	font-size: 1.75em; /* 24px */
-	font-weight: bold;
+	font-size: 24px;
+	font-weight: 500;
+	text-transform: lowercase;
  	letter-spacing: 0.84px; /* 0.84px */
 	line-height: 29px; /* 29px */
 	padding: 0 0 0 0; /* 30px */
@@ -251,27 +249,25 @@ h3 {
 }
 
 h4 {
-	font-family : "Nanum Myeongjo", serif;
-	font-size: 1.3em; /* 18px */
-	font-weight: 800;
+	font-size: 18px;
+	font-weight: 400;
  	letter-spacing: .75px; /* 0.75px */
+ 	text-transform: uppercase;
 	line-height: 19px; /* 19px */
 	padding: 0 0 0 0; /* 30px */
 	margin: 30px 0 30px 0;
 }
 
 h5 {
-	font-family : "Nanum Myeongjo", serif;
+	font-family : "poppins", sans-serif;
 	font-size: 16px; /* 16px */
 	font-weight: 800;
 	letter-spacing: 0.75px; /* 0.75px */
 	line-height: 19px; /* 19px */
-	padding: 0 0 0 0;	
-	padding: 10px 0 10px 0;
+	margin: 10px 0 10px 0;
 }
 	
 h6 {
-	font-family : "Nanum Myeongjo", serif;
 	font-size: 16px; /* 14px */
 	font-weight: normal;
 	letter-spacing: .65px; /* 0.65px */
@@ -281,57 +277,53 @@ h6 {
 }
 
 label-1 {
-    	font-size: 1em;
-    	font-weight: lighter;
-    	letter-spacing: .65px; /* .65px */
-    	line-height: 20px; /* 20px */
-    	padding: 0 0 5px 0; /* 5px */
+	font-size: 1em;
+	font-weight: lighter;
+	letter-spacing: .65px; /* .65px */
+	line-height: 20px; /* 20px */
+	padding: 0 0 5px 0; /* 5px */
 }
+
 label-2 {
-    	font-size: 14px;
-    	font-weight: lighter;
-    	color: #9B9B9B;
-    	letter-spacing: 0.65px; /* .65px */
-    	line-height: 16px; /* 16px */
-    	padding: 0 0 5px 0; /* 5px */
+	font-size: 14px;
+	font-weight: lighter;
+	color: #9B9B9B;
+	letter-spacing: 0.65px; /* .65px */
+	line-height: 16px; /* 16px */
+	padding: 0 0 5px 0; /* 5px */
 }
+
 primary-button {
-    	font-size: 18px;
-    	font-weight: bold;
-    	letter-spacing: 0.84px; /* .84px */
-    	line-height: 29px; /* 29px */
-    	padding: 0 0 5px 0; /* 5px */
+	font-size: 18px;
+	font-weight: bold;
+	letter-spacing: 0.84px; /* .84px */
+	line-height: 29px; /* 29px */
+	padding: 0 0 5px 0; /* 5px */
 }
+
 pill {
 	font-size: 12px;
-    	letter-spacing: 0.56px; /* .56px */
-    	line-height: 29px; /* 29px */
-    	padding: 5px 5px 5px 5px;
-    	border: 1px solid;
+	font-weight: 500;
+	letter-spacing: 0.56px; /* .56px */
+	line-height: 29px; /* 29px */
+	padding: 5px 5px 5px 5px;
 	border-radius: 4px;
-	border-color: #E8E7D7;
-    	background-color: #FEFDF3;
+	background-color: #DBDFDB;
 	margin-top: 5px;
 }
 
-blockquote {
-	font-family: 'nanum myeongjo';
-	font-size: 15px;
-    	letter-spacing: 0.74px;
-	line-height: 29px;
-	border-bottom: 1px solid;
-    	border-color: #cdd4ce91;
-    	background-color: #f3f7f3;
-    	padding: 20px 20px 20px 20px;
-	margin: 0 0 0 0;
-}
-
+blockquote-txt {
+	font-family: "raleway", sans-serif;
+	font-size: 24px;
+	font-weight: 500;
+	font-style: italic;
 }
 
 main-title {
-	font-family : "Nanum Myeongjo", serif;
-	font-size: 4.286em; /* 60px */
+	font-family: "poppins", sans-serif;
+	font-size: 4.286em;
 	line-height: 0;
 	padding: 0 0 0 0;
 	color: #485744;
+	}
 }

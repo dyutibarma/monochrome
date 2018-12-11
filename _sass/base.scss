@@ -1,13 +1,13 @@
-/*
- * Monochrome is a simple, responsive blog theme built for Jekyll.
- */
-
 /*- Base reset -*/
 
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family : "poppins", sans-serif;
 }
 
 html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
@@ -23,7 +23,7 @@ body {
 /*- Base color -*/
 
 $background-color: #fff;
-$text-color: #333333;
+$text-color: #262D24;
 $text-light-color: rgba(0,0,0,0.6);
 $text-dark-color: #000000;
 
@@ -43,6 +43,10 @@ body {
  /*- max-width: 1000px; -*/
  margin: 0 auto;
  padding: 0 0;
+}
+
+.break {
+	padding-bottom: 50px;
 }
 
 /*- Link -*/

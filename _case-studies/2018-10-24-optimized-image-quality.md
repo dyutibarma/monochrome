@@ -14,43 +14,72 @@ layout: portfolio
 nav: case-studies
 ---
 
-<div class ="w3-row">
-<img src="https://coianac.github.io/img/iqTest-Hero.jpg" alt="Image Quality Hero">
+<div class ="w3-row break">
+	<div class="w3-col w3-container m1">
 	</div>
+	<div class="w3-col w3-container m10">
+		<img src="https://coianac.github.io/img/iqTest-Hero.jpg" alt="Image Quality Hero">
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>
+
+<div class ="w3-row">
 <div class ="w3-row block-head"> 
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
+    <div class="w3-col w3-container m7">
         <h5>User Story</h5>
 		<p>As a shopper, I want my pages to load quickly and the product images to be detailed and crisp.</p>
 		<p>As the brand, we want to decrease our yearly bandwidth costs.</p>
       </div>
-      <div class="w3-col w3-container m2">
+      <div class="w3-col w3-container m4">
       </div>
     </div>
 
 <div class="w3-row"> 
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
     <div class="w3-col w3-container m8">
 	<pill>research</pill>
 	<pill>optimization</pill>
 	<pill>strategy</pill>
       </div>
-      <div class="w3-col w3-container m2">
+      <div class="w3-col w3-container m3">
       </div>
 </div>
 
 <div class ="w3-row"> 
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
+    <div class="w3-col w3-container m7">
 	<h2>image quality & purchase intent</h2>
 	<h3>goal</h3>
 	<p>To understand how consumers perceive image quality with the intentions of delivering higher quality images (better color representation, less pixilation) while maintaining a cost sensitive image file size.</p>
 	<h4>Hypothesis</h4>
 	<p>Increasing an image by 1.5x times its in-browser requirement and decreasing its JPG quality to 40% will render an image that is of indistinguishable quality when compared to a 1x, 100% JPG quality image.</p>
-	<blockquote><b>Benefit</b> This should result in an approximate 30% decrease in image size and an improved page-load speed!</blockquote>
+	</div>
+	<div class="w3-col w3-container m4">
+  	</div>
+  </div>
+
+<div class ="w3-row blockquote"> 
+  <div class="w3-col w3-container m1">
+  </div>
+    <div class="w3-col w3-container m8">	
+	<label-1>benefit</label-1><br>
+	<blockquote-txt>This should result in an approximate 30% decrease in image size and an improved page-load speed!</blockquote-txt>
+	</div>
+	<div class="w3-col w3-container m3">
+  </div>
+</div>
+<div class ="w3-row blockquote-border">
+</div> 
+
+<div class ="w3-row"> 
+  <div class="w3-col w3-container m1">
+  </div>
+    <div class="w3-col w3-container m7">
 	<h4>Team Structure</h4>
 	<table>
   <tr>
@@ -78,7 +107,7 @@ nav: case-studies
 <h4>Brand & Studio Approved Images</h4>
 <p>These images were chosen specifically for their range of content and color density and contextual variances.</p>
 </div>
-      <div class="w3-col w3-container m2">
+      <div class="w3-col w3-container m4">
       </div>
     </div>
 

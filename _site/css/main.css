@@ -1,11 +1,11 @@
-/*
- * Monochrome is a simple, responsive blog theme built for Jekyll.
- */
 /*- Base reset -*/
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "poppins", sans-serif; }
 
 html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
   margin: 0;
@@ -18,7 +18,7 @@ html {
   background-color: #fff;
   font-size: 16px;
   line-height: 1.8;
-  color: #333333; }
+  color: #262D24; }
   @media (min-width: 1280px) {
     html {
       font-size: 18px; } }
@@ -27,6 +27,9 @@ body {
   /*- max-width: 1000px; -*/
   margin: 0 auto;
   padding: 0 0; }
+
+.break {
+  padding-bottom: 50px; }
 
 /*- Link -*/
 a {
@@ -99,20 +102,16 @@ a {
 
 /*- Typography -*/
 .block-head {
-  background-color: #f3f7f3;
-  border-bottom: 1px solid;
-  border-bottom-color: #ced4ce85;
+  background-color: #262D24;
   padding: 20px 0 20px 0;
-  margin: 0 0 10px 0; }
+  margin: 0 0 10px 0;
+  color: #FFFFFF; }
 
 .block {
-  background-color: #f3f7f3;
-  border-top: 1px solid;
-  border-top-color: #ced4ce85;
-  border-bottom: 1px solid;
-  border-bottom-color: #ced4ce85;
+  background-color: #262D24;
   padding: 20px 0 20px 0;
-  margin: 20px 0 20px 0; }
+  margin: 20px 0 20px 0;
+  color: #FFFFFF; }
 
 .block-white {
   background-color: white;
@@ -135,11 +134,12 @@ a {
   color: #e8e7d7; }
 
 body {
-  font-family: "roboto", "Helvetica Neue", "Helvetica", "Arial", serif;
+  font-family: "raleway", sans-serif;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 18px;
   color: #333;
   letter-spacing: 0.84px;
+  paragraph-spacing: 10px;
   line-height: 29px;
   /* 29px */
   margin-bottom: 0 0 10px 0;
@@ -147,62 +147,56 @@ body {
 
 /*- Typography for medium and small screen, based on 16px font-size -*/
 p, ul, ol {
-  font-size: 1.2;
-  /* 14px */
+  font-size: 18px;
   line-height: 1.8em;
   margin-bottom: 1.5em;
   /* 24px/16px */ }
 
 h1 {
-  font-family: "Nanum Myeongjo", serif;
   font-size: 4em;
   /* 60px */
-  font-weight: bold;
-  text-align: center;
+  font-weight: 800;
+  text-align: left;
+  text-transform: lowercase;
   letter-spacing: 0.06em;
   /* 0.84px */
   line-height: 65px;
-  color: #CED4CE;
   padding: 0 0 0 0;
   /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
-  margin: 0 0 60px 0; }
+  margin: 0 0 50px 0; }
 
 h2 {
-  font-family: "Nanum Myeongjo", serif;
-  font-size: 2.6em;
-  font-weight: bold;
-  text-align: center;
+  font-size: 36px;
+  font-weight: 800;
+  text-align: left;
+  text-transform: lowercase;
   letter-spacing: .84px;
-  line-height: 50px;
-  color: #485744;
+  line-height: 51px;
   padding: 0 0 0 0;
-  margin: 40px 0 40px 0; }
+  margin: 50px 0 30px 0; }
 
 h3 {
-  font-family: "Nanum Myeongjo", serif;
-  font-size: 1.75em;
-  /* 24px */
-  font-weight: bold;
+  font-size: 24px;
+  font-weight: 500;
+  text-transform: lowercase;
   letter-spacing: 0.84px;
   line-height: 29px;
   padding: 0 0 0 0;
   margin: 30px 0 30px 0; }
 
 h4 {
-  font-family: "Nanum Myeongjo", serif;
-  font-size: 1.3em;
-  /* 18px */
-  font-weight: 800;
+  font-size: 18px;
+  font-weight: 400;
   letter-spacing: .75px;
   /* 0.75px */
   line-height: 19px;
   /* 19px */
+  text-transform: uppercase;
   padding: 0 0 20px 0;
   /* 30px */
   margin: 30px 0 0 0; }
 
 h5 {
-  font-family: "Nanum Myeongjo", serif;
   font-size: 16px;
   /* 16px */
   font-weight: 800;
@@ -214,7 +208,6 @@ h5 {
   margin: 10px 0 10px 0; }
 
 h6 {
-  font-family: "Nanum Myeongjo", serif;
   font-size: 16px;
   /* 14px */
   font-weight: normal;
@@ -226,15 +219,13 @@ h6 {
   margin: 0 0 10px 0; }
 
 label-1 {
-  font-size: 1em;
-  font-weight: lighter;
+  font-size: 16px;
+  font-weight: 200;
+  font-style: italic;
   letter-spacing: .65px;
   /* .65px */
   line-height: 20px;
-  /* 20px */
-  padding: 0 0 0 0;
-  /* 5px */
-  margin: 0 0 5px 0; }
+  margin: 0 0 15px 0; }
 
 label-2 {
   font-size: 14px;
@@ -260,27 +251,32 @@ primary-button {
 
 pill {
   font-size: 12px;
+  font-weight: 500;
   letter-spacing: 0.56px;
   /* .56px */
   line-height: 29px;
   /* 29px */
   padding: 5px 5px 5px 5px;
-  border: 1px solid;
   border-radius: 4px;
-  border-color: #E8E7D7;
-  background-color: #FEFDF3;
+  background-color: #DBDFDB;
   margin-top: 5px; }
 
-blockquote {
-  font-family: 'nanum myeongjo';
-  font-size: 15px;
-  letter-spacing: 0.74px;
-  line-height: 29px;
-  border-bottom: 1px solid;
-  border-color: #cdd4ce91;
-  background-color: #f3f7f3;
-  padding: 20px 20px 20px 20px;
-  margin: 0 0 0 0; }
+.blockquote {
+  background-color: rgba(243, 247, 243, 0.5);
+  opacity: 50%;
+  padding: 30px 0 30px 0; }
+
+.blockquote-border {
+  background-color: rgba(243, 247, 243, 0.5);
+  border-top: 1px solid;
+  border-color: #A0FF8B;
+  padding: 0 0 30px 0; }
+
+blockquote-txt {
+  font-family: "raleway", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  font-style: italic; }
 
 logo {
   font-weight: 100px;
@@ -289,12 +285,10 @@ logo {
 /*- Typography for big screen, based on 14px font-size -*/
 @media (min-width: 940px) {
   p, ul, ol {
-    font-size: 16px;
-    /* 18px */
+    font-size: 18px;
     font-weight: 300;
     letter-spacing: 0.84px;
-    line-height: 25px;
-    /* 29px */
+    line-height: 29px;
     margin-bottom: 10px;
     /* 10px */ }
 
@@ -320,34 +314,32 @@ logo {
     border-style: dashed; }
 
   h1 {
-    font-family: "Nanum Myeongjo", serif;
-    font-size: 4.3em;
-    /* 60px */
-    font-weight: bold;
-    text-align: center;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: left;
+    text-transform: lowercase;
     letter-spacing: 0.06em;
     /* 0.84px */
-    line-height: 69px;
-    color: #485744;
+    line-height: 84px;
     padding: 0 0 0 0;
-    margin: 0 0 60px 0; }
+    /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
+    margin: 0 0 50px 0; }
 
   h2 {
-    font-family: "Nanum Myeongjo", serif;
-    font-size: 2.6em;
-    font-weight: bold;
-    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    text-align: left;
+    text-transform: lowercase;
     letter-spacing: .84px;
-    line-height: 40px;
-    color: #485744;
+    line-height: 51px;
     padding: 0 0 0 0;
-    margin: 40px 0 40px 0; }
+    margin: 50px 0 30px 0; }
 
   h3 {
-    font-family: "Nanum Myeongjo", serif;
-    font-size: 1.75em;
-    /* 24px */
-    font-weight: bold;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: lowercase;
     letter-spacing: 0.84px;
     /* 0.84px */
     line-height: 29px;
@@ -357,12 +349,11 @@ logo {
     margin: 30px 0 30px 0; }
 
   h4 {
-    font-family: "Nanum Myeongjo", serif;
-    font-size: 1.3em;
-    /* 18px */
-    font-weight: 800;
+    font-size: 18px;
+    font-weight: 400;
     letter-spacing: .75px;
     /* 0.75px */
+    text-transform: uppercase;
     line-height: 19px;
     /* 19px */
     padding: 0 0 0 0;
@@ -370,7 +361,7 @@ logo {
     margin: 30px 0 30px 0; }
 
   h5 {
-    font-family: "Nanum Myeongjo", serif;
+    font-family: "poppins", sans-serif;
     font-size: 16px;
     /* 16px */
     font-weight: 800;
@@ -378,11 +369,9 @@ logo {
     /* 0.75px */
     line-height: 19px;
     /* 19px */
-    padding: 0 0 0 0;
-    padding: 10px 0 10px 0; }
+    margin: 10px 0 10px 0; }
 
   h6 {
-    font-family: "Nanum Myeongjo", serif;
     font-size: 16px;
     /* 14px */
     font-weight: normal;
@@ -426,40 +415,33 @@ logo {
 
   pill {
     font-size: 12px;
+    font-weight: 500;
     letter-spacing: 0.56px;
     /* .56px */
     line-height: 29px;
     /* 29px */
     padding: 5px 5px 5px 5px;
-    border: 1px solid;
     border-radius: 4px;
-    border-color: #E8E7D7;
-    background-color: #FEFDF3;
+    background-color: #DBDFDB;
     margin-top: 5px; }
 
-  blockquote {
-    font-family: 'nanum myeongjo';
-    font-size: 15px;
-    letter-spacing: 0.74px;
-    line-height: 29px;
-    border-bottom: 1px solid;
-    border-color: #cdd4ce91;
-    background-color: #f3f7f3;
-    padding: 20px 20px 20px 20px;
-    margin: 0 0 0 0; } }
-main-title {
-  font-family: "Nanum Myeongjo", serif;
-  font-size: 4.286em;
-  /* 60px */
-  line-height: 0;
-  padding: 0 0 0 0;
-  color: #485744; }
+  blockquote-txt {
+    font-family: "raleway", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    font-style: italic; }
 
+  main-title {
+    font-family: "poppins", sans-serif;
+    font-size: 4.286em;
+    line-height: 0;
+    padding: 0 0 0 0;
+    color: #485744; } }
 /* -- General Layout -- */
 /* Navigation */
 #nav a, #nav-left a {
   display: block;
-  color: #333333;
+  color: #262D24;
   padding: 0.33334em 0;
   font-size: 1.5em;
   font-weight: 400; }
@@ -531,7 +513,7 @@ main-title {
     display: none; } }
 #nav-links a {
   padding-right: 10px;
-  color: #333333;
+  color: #262D24;
   font-weight: 300; }
 
 /* Separator after menu */
@@ -541,7 +523,7 @@ main-title {
   width: 5rem;
   height: 1px;
   margin: 23px auto;
-  background-color: #333333; }
+  background-color: #262D24; }
 
 /* Icon menu */
 #nav-menu {
@@ -569,7 +551,7 @@ main-title {
 #menu {
   height: 4px;
   width: 1.5em;
-  background-color: #333333;
+  background-color: #262D24;
   margin-top: 8px; }
   #menu:after, #menu:before {
     content: "";
@@ -577,7 +559,7 @@ main-title {
     position: relative;
     height: 4px;
     width: 1.5em;
-    background-color: #333333;
+    background-color: #262D24;
     transition: all 0.3s ease-in; }
   #menu:before {
     top: -8px; }
@@ -591,14 +573,14 @@ main-title {
     -moz-transform: rotate(-45deg);
     -ms-transform: rotate(-45deg);
     transform: rotate(-45deg);
-    background-color: #333333; }
+    background-color: #262D24; }
   #menu.btn-close:after {
     top: -4px;
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #333333; }
+    background-color: #262D24; }
 
 /* Main content */
 .fixed {
@@ -650,11 +632,11 @@ main-title {
   width: 5rem;
   height: 1px;
   margin: 23px auto;
-  background-color: #e6e6e6; }
+  background-color: #d9dfd7; }
 
 .by-line {
   display: block;
-  color: #737373;
+  color: #62745d;
   line-height: 1.8em;
   margin-bottom: 1.5em;
   /* 24px/16px */
@@ -662,7 +644,7 @@ main-title {
   @media (min-width: 940px) {
     .by-line {
       display: block;
-      color: #737373;
+      color: #62745d;
       line-height: 1.8em;
       margin-bottom: 1.3334em;
       /* 24px/18px */
@@ -682,7 +664,7 @@ img[title="Monochrome"] {
   box-shadow: 0 2px 6px #ddd; }
 
 code {
-  color: #8c8c8c;
+  color: #7a9074;
   background-color: white; }
 
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
@@ -703,12 +685,12 @@ code {
   margin: 2.666668em; }
   .pagination span {
     background-color: #f2f2f2;
-    color: #333333; }
+    color: #262D24; }
   .pagination a:hover {
-    background-color: #404040; }
+    background-color: #323b2f; }
 
 .page-item {
-  background-color: #4d4d4d;
+  background-color: #3e493b;
   color: #fff;
   padding: 4px 8px;
   font-weight: 400;
@@ -721,7 +703,7 @@ code {
 /* Footer */
 footer {
   background-color: #fff;
-  color: #333333;
+  color: #262D24;
   text-align: center;
   padding: 0.6667em 0; }
 
