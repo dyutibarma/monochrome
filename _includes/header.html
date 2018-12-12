@@ -1,22 +1,7 @@
-<div class="w3-row">
-  <div class="w3-col w3-container m1">
-  </div>
-    <div class="w3-col w3-container m10">
-<header id="header" class="parent justify-spaceBetween">
-  <div class="inner w100 relative">
-    <span class="f-left">  
-      <a href="{{ site.baseurl }}/">
-        <logo>COIA</logo>
-      </a>
-    </span>
-    <span id="nav-links" class="absolute right bottom">
-      <!-- Nav pages -->
-      <a href="https://coianac.github.io/case-studies">case studies</a>
-      <a href="https://coianac.github.io/about">about</a>
-    </span>
-  </div>
-</header>
-  </div>
-  <div class="w3-col w3-container m1">
-  </div>
+<div class="w3-row w3-containers">
+<div class="navbar">
+  <a class="{% if page.nav == 'home' %}navactive"{% endif %} href="{{ site.baseurl }}">COIA</a>
+  <a class="{% if page.nav == 'case-studies' %}navactive"{% endif %} href="{{ site.baseurl }}/case-studies">case studies</a>
+  <a class="{% if page.nav == 'about' %}navactive"{% endif %} href="{{ site.baseurl }}/about">about</a>
+</div>
 </div>
