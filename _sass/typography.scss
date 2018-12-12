@@ -60,6 +60,10 @@ p, ul, ol {
 	line-height: 1.8em;
 	margin-bottom: 1.5em; /* 24px/16px */
 }
+p-last {
+	margin-bottom: 50px;
+	}
+
 
 h1 {
 	font-size: 4em; /* 60px */
@@ -80,7 +84,7 @@ h2 {
 	letter-spacing: .84px;
 	line-height: 51px;
 	padding: 0 0 0 0;
-	margin:  50px 0 30px 0;
+	margin:  50px 0 20px 0;
 }
 
 h3 {
@@ -89,8 +93,7 @@ h3 {
 	text-transform: lowercase;
  	letter-spacing: 0.84px;
 	line-height: 29px;
-	padding: 0 0 0 0;
-	margin: 30px 0 30px 0;
+	margin: 20px 0 20px 0;
 }
 
 h4 {
@@ -99,8 +102,7 @@ h4 {
  	letter-spacing: .75px; /* 0.75px */
 	line-height: 19px; /* 19px */
 	text-transform: uppercase;
-	padding: 0 0 20px 0; /* 30px */
-	margin: 30px 0 0 0;
+	margin: 20px 0 20px 0;
 }
 
 h5 {
@@ -122,6 +124,7 @@ h6 {
 }
 
 label-1 {
+	font-family: "poppins", sans-serif;
 	font-size: 16px;
 	font-weight: 200;
 	font-style: italic;
@@ -235,7 +238,7 @@ h2 {
 	letter-spacing: .84px;
 	line-height: 51px;
 	padding: 0 0 0 0;
-	margin:  50px 0 30px 0;
+	margin:  50px 0 20px 0;
 }
 
 h3 {
@@ -245,7 +248,7 @@ h3 {
  	letter-spacing: 0.84px; /* 0.84px */
 	line-height: 29px; /* 29px */
 	padding: 0 0 0 0; /* 30px */
-	margin: 30px 0 30px 0;
+	margin: 20px 0 20px 0;
 }
 
 h4 {
@@ -255,7 +258,7 @@ h4 {
  	text-transform: uppercase;
 	line-height: 19px; /* 19px */
 	padding: 0 0 0 0; /* 30px */
-	margin: 30px 0 30px 0;
+	margin: 20px 0 20px 0;
 }
 
 h5 {
@@ -277,11 +280,13 @@ h6 {
 }
 
 label-1 {
-	font-size: 1em;
-	font-weight: lighter;
+	font-family: "poppins", sans-serif;
+	font-size: 16px;
+	font-weight: 200;
+	font-style: italic;
 	letter-spacing: .65px; /* .65px */
-	line-height: 20px; /* 20px */
-	padding: 0 0 5px 0; /* 5px */
+	line-height: 20px;
+	margin: 0 0 15px 0;
 }
 
 label-2 {

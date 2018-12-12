@@ -14,7 +14,7 @@ layout: portfolio
 nav: case-studies
 ---
 
-<div class ="w3-row break">
+<div class ="w3-row break-50">
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m10">
@@ -49,7 +49,7 @@ nav: case-studies
       </div>
 </div>
 
-<div class ="w3-row"> 
+<div class ="w3-row break-30"> 
   <div class="w3-col w3-container m1">
   </div>
     <div class="w3-col w3-container m7">
@@ -73,13 +73,13 @@ nav: case-studies
 	<div class="w3-col w3-container m3">
   </div>
 </div>
-<div class ="w3-row blockquote-border">
+<div class ="w3-row blockquote-border break-30">
 </div> 
 
 <div class ="w3-row"> 
   <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m7">
+    <div class="w3-col w3-container m8">
 	<h4>Team Structure</h4>
 	<table>
   <tr>
@@ -107,9 +107,9 @@ nav: case-studies
 <h4>Brand & Studio Approved Images</h4>
 <p>These images were chosen specifically for their range of content and color density and contextual variances.</p>
 </div>
-      <div class="w3-col w3-container m4">
+      <div class="w3-col w3-container m3">
       </div>
-    </div>
+</div>
 
 <div class ="w3-row block"> 
 	<div class="w3-col w3-container m1">
@@ -152,7 +152,7 @@ nav: case-studies
 </div>
 
 <div class ="w3-row"> 
-	<div class="w3-col w3-container m2">
+	<div class="w3-col w3-container m1">
   	</div>
     	<div class="w3-col w3-container m8">
 		<h4>Image Presets</h4>
@@ -180,7 +180,7 @@ nav: case-studies
 		<p>Invitations were sent out at Urban Outfitters headquarters to cull image experts and laypeople alike.</p>
 		<blockquote>37 image and creative professional participants attended the study</blockquote>
 	</div>
- 	<div class="w3-col w3-container m2">
+ 	<div class="w3-col w3-container m3">
 	</div>
  </div>
 <div class="w3-row block-white">
