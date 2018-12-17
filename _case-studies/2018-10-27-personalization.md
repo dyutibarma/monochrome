@@ -17,23 +17,23 @@ layout: portfolio
 nav: case-studies
 ---
 
-<div class="w3-row block">
-  <div class="w3-col w3-container m2">
+<div class="w3-row block-head">
+  <div class="w3-col w3-container m1">
   </div>
-  <div class="w3-col w3-container m8">
+  <div class="w3-col w3-container m10">
     <h5>Executive Goals</h5>
     <p>Focus efforts on increasing and optimizing recommendation placements, and continue to build out more robust content placement strategies.</p>
     <p>Add new or enhance existing email / messaging campaigns.</p>
     <p>Build out actionabl eplan for delivery with respect to three Personalization Initiatives.</p>
   </div>
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
 </div>
 
 <div class="w3-row"> 
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
+    <div class="w3-col w3-container m10">
       <pill>research</pill>
       <pill>analysis</pill>
       <pill>group facilitation</pill>
@@ -41,14 +41,14 @@ nav: case-studies
       <pill>journey map</pill>
       <pill>roadmap</pill>
     </div>
-    <div class="w3-col w3-container m2">
+    <div class="w3-col w3-container m1">
     </div>
   </div>
   
   <div class="w3-row"> 
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
+    <div class="w3-col w3-container m10">
       <h2>3-year opportunity</h2>
       <img width="600px;" src="https://coianac.github.io/img/personalization-opportunity.jpg" alt="personalization opportunity graphic">
       <h3>Team Structure</h3>
@@ -80,9 +80,18 @@ nav: case-studies
         </table>
       <h2>product research + analysis</h2>
       <h3>Process</h3>
-      <img src="https://coianac.github.io/img/personaliztion-process.jpg" alt="personalization process graphic">
     </div>
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
+  </div>
+</div>
+
+<div class="w3-row">
+  <div class="w3-col w3-container m1">
+  </div>
+  <div class="w3-col w3-container m10">
+    <img src="https://coianac.github.io/img/personaliztion-process.jpg" alt="personalization process graphic">
+  </div>
+  <div class="w3-col w3-container m1">
   </div>
 </div>
 
@@ -90,27 +99,40 @@ nav: case-studies
 <img src="https://coianac.github.io/img/personalization-wb1.jpg" alt="personalization process whiteboard">
 
 <div class="w3-row"> 
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
+    <div class="w3-col w3-container m10">
       <h3>Competitive Analysis</h3>
       <p>Native apps benefit from the use of geolocation and push notifications to enhance loyalty programs and deliver personalized content feeds based on user activity and preferences.</p>
       <p>Majority of web competitors utilize recommendation trays - presumably based on shopping history – in cart and Wish Lsits (7 sites total).</p>
-      <blockquote>
-        <label-2>Observed Competitors</label-2>
-        <br>
-        <p><b>Native Apps: </b>Starbucks, Nike+, YouTube, Amazon, Spotify, Etsy</p>
-        <p><b>Websites: </b>Nordstrom, Macy’s, Gap, H&M, J. Crew, American Eagle, ASOS, Express, Forever21, Zara, Ann Taylor, Sephora</p>
-        <hr>
-        <label-2>Key Observations</label-2>
-        <br>
-        <label-1>Heavy use of “Recently Viewed” and “Customers Also Bought” trays not delivering personalized content.</label-1>
-        <label-1>American Eagle was the only site to deliver a personalzed “Just for you” page.</label-1>
-      </blockquote>
     </div>
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
 </div>
+
+<br>
+
+<div class ="w3-row blockquote"> 
+  <div class="w3-col w3-container m1">
+  </div>
+    <div class="w3-col w3-container m10"> 
+  <label-1-white>Observed Competitors</label-1-white>
+  <br><label-1-white>Native apps</label-1-white>
+  <blockquote-txt>Starbucks, Nike+, YouTube, Amazon, Spotify, Etsy</blockquote-txt>
+  <br><label-1-white>Websites:</label-1-white>
+  <blockquote-txt>Nordstrom, Macy’s, Gap, H&M, J. Crew, American Eagle, ASOS, Express, Forever21, Zara, Ann Taylor, Sephora</blockquote-txt>
+  <br><br>
+  <label-1-white>Key Observations</label-1-white>
+  <br>
+  <label-1-white>Heavy use of “Recently Viewed” and “Customers Also Bought” trays not delivering personalized content.</label-1-white>
+  <label-1-white>American Eagle was the only site to deliver a personalzed “Just for you” page.</label-1-white>
+  </div>
+  <div class="w3-col w3-container m1">
+  </div>
+</div>
+<div class ="w3-row blockquote-border break-30">
+</div> 
+
 
 <div class="block">
   <div class="w3-row">
@@ -139,9 +161,9 @@ nav: case-studies
 </div>
 
 <div class="w3-row"> 
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
+    <div class="w3-col w3-container m10">
       <h3>Brand Brainstorm</h3>
         <p></p>
         <h4>Questions Asked</h4>
@@ -162,28 +184,29 @@ nav: case-studies
           <ul>Personalized Customer Experience</ul>
           <ul>In-store Experience</ul>
       </div>
-     <div class="w3-col w3-container m2">
+     <div class="w3-col w3-container m1">
   </div>
 </div>
 
+<br>
 <img max-width="1440px;" src="https://coianac.github.io/img/personalization-wb3.jpg" alt="whiteboard session 3">  
           
 <div class="w3-row"> 
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
-    <h3>Journey Mapping</h3>
+    <div class="w3-col w3-container m10">
+    <br><h3>Journey Mapping</h3>
     </div>
-    <div class="w3-col w3-container m2">
+    <div class="w3-col w3-container m1">
   </div>
 </div>
 
 <img max-width="1440px;" src="https://coianac.github.io/img/personalization-wb4.jpg" alt="Journey Mapping Whiteboard">
 
 <div class="w3-row"> 
-  <div class="w3-col w3-container m2">
+  <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
+    <div class="w3-col w3-container m10">
     <h3>Functionality Matrix</h3>
       <table>
         <tr>
@@ -316,6 +339,14 @@ nav: case-studies
         </tr>
       </table>
     <h2>personalization playbook</h2>
+      </div>
+  <div class="w3-col w3-container m1">
+  </div>
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m1">
+  </div>
+  <div class="w3-col w3-container m10">
       <img src="https://coianac.github.io/img/personalizationPlaybook.jpg" alt="personalization playbook">
       <hr>
       <img src="https://coianac.github.io/img/personalizationPlaybook-ph1.jpg" alt="Phase 1 details">
@@ -325,7 +356,8 @@ nav: case-studies
       <img src="https://coianac.github.io/img/personalizationPlaybook-ph3.jpg" alt="Phase 3 details">
       <hr>
       <img src="https://coianac.github.io/img/personalizationPlaybook-ph4.jpg" alt="Phase 4 details">
+    </div>
+    <div class="w3-col w3-container m1">
+    </div>
   </div>
-  <div class="w3-col w3-container m2">
-  </div>
-</div>
+

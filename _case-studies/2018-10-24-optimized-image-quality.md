@@ -28,49 +28,61 @@ nav: case-studies
 <div class ="w3-row block-head"> 
   <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m7">
+    <div class="w3-col w3-container m10">
         <h5>User Story</h5>
 		<p>As a shopper, I want my pages to load quickly and the product images to be detailed and crisp.</p>
 		<p>As the brand, we want to decrease our yearly bandwidth costs.</p>
       </div>
-      <div class="w3-col w3-container m4">
+      <div class="w3-col w3-container m1">
       </div>
     </div>
 
 <div class="w3-row"> 
   <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
+    <div class="w3-col w3-container m10">
 	<pill>research</pill>
 	<pill>optimization</pill>
 	<pill>strategy</pill>
       </div>
-      <div class="w3-col w3-container m3">
+      <div class="w3-col w3-container m1">
       </div>
 </div>
+
+<div class="w3-row">
+	<div class="w3-col w3-container m1 ">
+	     </div>
+	<div class="w3-col w3-container m10">
+		<h2>image quality & purchase intent</h2>
+			<a target="_blank" href="https://coianac.github.io/img/imgQualJourney.jpg">
+			<img src="https://coianac.github.io/img/imgQualJourney.jpg" alt="Image Quality Journey">
+			</a>
+	</div>
+	<div class="w3-col w3-container m1">
+	</div>
+</div>	
 
 <div class ="w3-row break-30"> 
   <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m7">
-	<h2>image quality & purchase intent</h2>
+    <div class="w3-col w3-container m10">
 	<h3>goal</h3>
 	<p>To understand how consumers perceive image quality with the intentions of delivering higher quality images (better color representation, less pixilation) while maintaining a cost sensitive image file size.</p>
 	<h4>Hypothesis</h4>
 	<p>Increasing an image by 1.5x times its in-browser requirement and decreasing its JPG quality to 40% will render an image that is of indistinguishable quality when compared to a 1x, 100% JPG quality image.</p>
 	</div>
-	<div class="w3-col w3-container m4">
+	<div class="w3-col w3-container m1">
   	</div>
   </div>
 
 <div class ="w3-row blockquote"> 
   <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">	
-	<label-1>benefit</label-1><br>
-	<blockquote-txt>This should result in an approximate 30% decrease in image size and an improved page-load speed!</blockquote-txt>
+    <div class="w3-col w3-container m10">	
+	<label-1-white>benefit</label-1-white><br>
+	<blockquote-txt>This resulted in an approximate 30% decrease in image size and an improved page-load speed!</blockquote-txt>
 	</div>
-	<div class="w3-col w3-container m3">
+	<div class="w3-col w3-container m1">
   </div>
 </div>
 <div class ="w3-row blockquote-border break-30">
@@ -79,7 +91,7 @@ nav: case-studies
 <div class ="w3-row"> 
   <div class="w3-col w3-container m1">
   </div>
-    <div class="w3-col w3-container m8">
+    <div class="w3-col w3-container m10">
 	<h4>Team Structure</h4>
 	<table>
   <tr>
@@ -107,11 +119,11 @@ nav: case-studies
 <h4>Brand & Studio Approved Images</h4>
 <p>These images were chosen specifically for their range of content and color density and contextual variances.</p>
 </div>
-      <div class="w3-col w3-container m3">
-      </div>
+<div class="w3-col w3-container m1">
 </div>
-
-<div class ="w3-row block"> 
+</div>
+<br>
+<div class ="w3-row"> 
 	<div class="w3-col w3-container m1">
 	</div>
 	<div class="w3-col w3-container m10">
@@ -150,11 +162,11 @@ nav: case-studies
 	<div class="w3-col w3-container m1">
 	</div>
 </div>
-
+<br>
 <div class ="w3-row"> 
 	<div class="w3-col w3-container m1">
   	</div>
-    	<div class="w3-col w3-container m8">
+    	<div class="w3-col w3-container m10">
 		<h4>Image Presets</h4>
  		<table>
 			<tr>
@@ -178,39 +190,29 @@ nav: case-studies
 	 	</table>
  		<h4>Test Participants</h4>
 		<p>Invitations were sent out at Urban Outfitters headquarters to cull image experts and laypeople alike.</p>
-		<blockquote>37 image and creative professional participants attended the study</blockquote>
 	</div>
- 	<div class="w3-col w3-container m3">
+ 	<div class="w3-col w3-container m1">
 	</div>
  </div>
-<div class="w3-row block-white">
+<br>
+<div class="w3-row">
 	<div class="w3-col w3-container m1">
 		    </div>
 		    <div class="w3-col w3-container m10">
 			<div class="responsive">
-			<div class="gallery">
-			<img src="https://coianac.github.io/img/devynGalindo.jpg" alt="Devyn Galindo">
-			</div>
+			<img class="img-round" width="150px" src="https://coianac.github.io/img/devynGalindo-rnd.jpg" alt="Devyn Galindo">
 			</div>
 			<div class="responsive">
-			<div class="gallery">
-			<img src="https://coianac.github.io/img/mikaOsborn.jpg" alt="Mika Osborn">
-			</div>
+			<img class="img-round" width="150px" src="https://coianac.github.io/img/mikaOsborn-rnd.jpg" alt="Mika Osborn">
 			</div>
 			<div class="responsive">
-			<div class="gallery">
-			<img src="https://coianac.github.io/img/taylorSaya.jpg" alt="Taylor Saya">
-			</div>
+			<img class="img-round" width="150px" src="https://coianac.github.io/img/taylorSaya-rnd.jpg" alt="Taylor Saya">
 			</div>
 			<div class="responsive">
-			<div class="gallery">
-			<img src="https://coianac.github.io/img/mattOwen.jpg" alt="Matt Owen">
-			</div>
+			<img class="img-round" width="150px" src="https://coianac.github.io/img/mattOwen-rnd.jpg" alt="Matt Owen">
 			</div>
 			<div class="responsive">
-			<div class="gallery">
-			<img src="https://coianac.github.io/img/joannaEwing2.jpg" alt="Joanna Ewing">
-			</div>
+			<img class="img-round" width="150px" src="https://coianac.github.io/img/joannaEwing2-rnd.jpg" alt="Joanna Ewing">
 			</div>
 			<div class="clearfix"></div>
 	</div>
@@ -218,15 +220,30 @@ nav: case-studies
     	</div>
 </div>
 
-<div class="w3-row">
-	<div class="w3-col w3-container m2">
+<br>
+
+<div class ="w3-row blockquote"> 
+  <div class="w3-col w3-container m1">
+  </div>
+    <div class="w3-col w3-container m10">	
+	<label-1-white>benefit</label-1-white><br>
+	<blockquote-txt>37 image and creative professional participants attended the study</blockquote-txt>
 	</div>
-	<div class="w3-col w3-container m8">
+	<div class="w3-col w3-container m1">
+  </div>
+</div>
+<div class ="w3-row blockquote-border break-30">
+</div> 
+
+<div class="w3-row">
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
 		<h4>Category Page & Image Zoom Views</h4>
 		<p>We put together sumulated views of a category page and image zoom for participants to select which image they felt was the best quality.</p>
 		<p>The views included pagination between selections as well as a "Thank you for completion" screen which displayed live results of the study.</p>
 	</div>
-	<div class="w3-col w3-container m2">
+	<div class="w3-col w3-container m1">
 	</div>
 </div>
 			
@@ -257,7 +274,7 @@ nav: case-studies
 			</div>
 			<div class="clearfix"></div>
 	</div>
-	<div class="w3-col w3-container m2">
+	<div class="w3-col w3-container m1">
 	</div>
 </div>
 <div class="w3-row">
@@ -281,21 +298,44 @@ nav: case-studies
 </div>
 
 <div class="w3-row">
-	<div class="w3-col w3-container m2">
+	<div class="w3-col w3-container m1">
 	</div>
-	<div class="w3-col w3-container m8">
+	<div class="w3-col w3-container m10">
 		<h3>results</h3>
 		<p>Feel free to download the analysis of our collected data if you're interested in the details. <a href="https://coianac.github.io/img/Study Results_1.1.pdf">Study Results PDF</a>.</p>
 		<p>In short > the results came out inconclusive. Participants could not discern a visual disparity between the 3 image presets. We concluded this as a success. After a close inspection of the images and the results, we were able to move forward with delivering a 1.5x, 40% JPG quality image preset.</p>
-		<blockquote>Participants could not discern a visual disparity between the 3 images presents</blockquote>
+		</div>
+	<div class="w3-col w3-container m1">
+    	</div>
+</div>
+
+<br>
+
+<div class ="w3-row blockquote"> 
+  <div class="w3-col w3-container m1">
+  </div>
+    <div class="w3-col w3-container m10">	
+    <label-1-white>outcome</label-1-white><br>
+	<blockquote-txt>Participants could not discern a visual disparity between the 3 images presents</blockquote-txt>
+	</div>
+	<div class="w3-col w3-container m1">
+  </div>
+</div>
+<div class ="w3-row blockquote-border break-30">
+</div> 
+
+<div class="w3-row">
+	<div class="w3-col w3-container m1">
+	</div>
+	<div class="w3-col w3-container m10">
 		<h4>Delivery Strategy</h4>
 		<p>As a customer progresses deeper into their journey, provide larger and higher quality images. Higher quality images at appropriate touchpoints empower shoppers during the carting and purchasing decision making process.</p>
 	</div>
-	<div class="w3-col w3-container m2">
+	<div class="w3-col w3-container m1">
 	</div>
 </div>
-
-<div class="w3-row block-white">
+<br>
+<div class="w3-row">
 	<div class="w3-col w3-container m1 ">
 	     </div>
 	<div class="w3-col w3-container m10">

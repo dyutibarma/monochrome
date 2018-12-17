@@ -1,7 +1,7 @@
 <div class="w3-row w3-containers">
 <div class="navbar">
-  <a class="{% if page.nav == 'home' %}navactive"{% endif %} href="{{ site.baseurl }}">COIA</a>
-  <a class="{% if page.nav == 'case-studies' %}navactive"{% endif %} href="{{ site.baseurl }}/case-studies">case studies</a>
-  <a class="{% if page.nav == 'about' %}navactive"{% endif %} href="{{ site.baseurl }}/about">about</a>
+  <a class="{% if page.nav == 'home' %}navactive" {% elsif page.nav != 'home' %} " " {% endif %} href="{{ site.baseurl }}">COIA</a>
+  <a class="{% if page.nav == 'case-studies' %}navactive" {% elsif page.nav != 'case-studies' %} " " {% endif %} href="{{ site.baseurl }}case-studies">case studies</a>
+  <a class="{% if page.nav == 'about' %}navactive" {% elsif page.nav != 'about' %} " " {% endif %} href="{{ site.baseurl }}about">about</a>
 </div>
 </div>

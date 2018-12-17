@@ -11,7 +11,7 @@
 }
 
 .block {
-	background-color: #262D24;
+	background-color: #F3F7F3;
 	padding: 20px 0 20px 0;
 	margin: 20px 0 20px 0;
 	color: #FFFFFF;
@@ -66,14 +66,14 @@ p-last {
 
 
 h1 {
-	font-size: 4em; /* 60px */
+	font-size: 60px;
 	font-weight: 800;
 	text-align: left;
 	text-transform: lowercase;
 	letter-spacing: 0.06em; /* 0.84px */
-	line-height: 65px;
+	line-height: 84px;
 	padding: 0 0 0 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
-	margin: 0 0 50px 0; 
+	margin: 120px 0 50px 0; 
 }
 
 h2 {
@@ -115,16 +115,26 @@ h5 {
 }
 	
 h6 {
-	font-size: 16px; /* 14px */
-	font-weight: normal;
-	letter-spacing: .65px; /* 0.65px */
-	line-height: 29px; /* 29px */
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: .65px;
+	line-height: 20px;
 	padding: 0 0 0 0;
-	margin: 0 0 10px 0;
+	margin: 20px 0 10px 0;
 }
 
 label-1 {
 	font-family: "poppins", sans-serif;
+	font-size: 16px;
+	font-weight: 200;
+	font-style: italic;
+	letter-spacing: .65px; /* .65px */
+	line-height: 20px;
+	margin: 0 0 15px 0;
+}
+label-1-white {
+	font-family: "poppins", sans-serif;
+	color: white;
 	font-size: 16px;
 	font-weight: 200;
 	font-style: italic;
@@ -140,6 +150,13 @@ label-2 {
 	line-height: 16px; /* 16px */
 	padding: 0 0 0 0; /* 5px */
 	margin: 0 0 5px 0;
+}
+label-3 {
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 0.65px;
+	line-height: 20px;
+	padding: 10px 0 5px 0;
 }
 primary-button {
 	font-size: 18px;
@@ -160,19 +177,19 @@ pill {
 }
 
 .blockquote {
-	background-color: rgba(243, 247, 243, 0.5);
-	opacity: 50%;
+	background-color: #262D24;
 	padding: 30px 0 30px 0;
 }
 
 .blockquote-border {
-	background-color: rgba(243, 247, 243, 0.5);
+	background-color: #262D24;
 	border-top: 1px solid;
-	border-color: #A0FF8B;
+	border-color: white;
 	padding: 0 0 30px 0;
 }
 blockquote-txt {
 	font-family: "raleway", sans-serif;
+	color: white;
 	font-size: 24px;
 	font-weight: 500;
 	font-style: italic;
@@ -227,7 +244,7 @@ h1 {
 	letter-spacing: 0.06em; /* 0.84px */
 	line-height: 84px;
 	padding: 0 0 0 0; /* 60px (Use padding instead of margin to maintain proximity with paragraph) */
-	margin: 0 0 50px 0; 
+	margin: 120px 0 50px 0; 
 }
 
 h2 {
@@ -271,12 +288,12 @@ h5 {
 }
 	
 h6 {
-	font-size: 16px; /* 14px */
-	font-weight: normal;
-	letter-spacing: .65px; /* 0.65px */
-	line-height: 29px; /* 29px */
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: .65px;
+	line-height: 20px;
 	padding: 0 0 0 0;
-	margin: 0 0 10px 0;
+	margin: 20px 0 10px 0;
 }
 
 label-1 {
@@ -288,7 +305,16 @@ label-1 {
 	line-height: 20px;
 	margin: 0 0 15px 0;
 }
-
+label-1-white {
+	font-family: "poppins", sans-serif;
+	color: white;
+	font-size: 16px;
+	font-weight: 200;
+	font-style: italic;
+	letter-spacing: .65px; /* .65px */
+	line-height: 20px;
+	margin: 0 0 15px 0;
+}
 label-2 {
 	font-size: 14px;
 	font-weight: lighter;
@@ -296,6 +322,14 @@ label-2 {
 	letter-spacing: 0.65px; /* .65px */
 	line-height: 16px; /* 16px */
 	padding: 0 0 5px 0; /* 5px */
+}
+
+label-3 {
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 0.65px;
+	line-height: 20px;
+	padding: 10px 0 5px 0;
 }
 
 primary-button {
@@ -331,4 +365,42 @@ main-title {
 	padding: 0 0 0 0;
 	color: #485744;
 	}
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: rgba(255, 255, 255, 0.98);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 0 0 70px 0;
+  padding: 0;
+  border-bottom: 1px solid #CED4CE;
+}
+
+.navbar a {
+  display: block;
+  color: #262D24;
+  font-family: "raleway", sans-serif;
+  font-size: 14px;
+  text-align: center;
+  max-width: 200px;
+  width: 33.33%;
+  padding: 9px 0 11px 0;
+  text-decoration: none;
+  float: left;
+}
+
+.navbar a:hover {
+  background-color: rgba(206, 212, 206, 0.5);
+}
+
+.navbar a:active {
+  font-weight: 700;
+  background-color: #CED4CE;
+}
+
+.navactive {
+  font-weight: 700;
+  background-color: #CED4CE;
 }
