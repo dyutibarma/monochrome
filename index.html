@@ -1,17 +1,122 @@
 ---
-layout: default
+layout: page
+description: Home page.
+nav: home
 ---
-<!-- Posts -->
-<ul id="posts">
 
-	{% for post in paginator.posts %}
+<div class="w3-row">
+    <div class="w3-col w3-container m1"></div>
+    <div class="w3-col w3-container m10">
+    <h1>contents</h1></div>
+    <div class="w3-col w3-container m1"></div>
+</div>
 
-	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
-	  </li>
+<div class="w3-row">
+    <div class="w3-col w3-container s1 m1">
+    </div>
+    <div class="w3-col w3-container s7 m8">
+            <h3 style="margin-bottom: 15px">Case Studies</h>
+    </div>
+    <div style="margin-top:20px;" class="w3-col w3-container s3 m2">
+            <label-3><a href="https://coianac.github.io/case-studies">view</a></label-3>
+    </div>
+    <div class="w3-col w3-container s1 m1">
+    </div>
+</div>
 
-    {% endfor %}
+<div class="w3-row">
+    <div class="w3-col w3-container m1">
+    </div>
+    <div class="w3-col w3-container m10">
+        <hr>
+    </div>
+    <div class="w3-col w3-container m1">
+    </div>
+</div>
 
-</ul>
+<div class="w3-row">
+    <div class="w3-col w3-container s1 m1">
+    </div>
+    <div class="w3-col w3-container s10 m10">
+        <h5>Product Strategy</h5>
+    </div>
+    <div class="w3-col w3-container s1 m1">
+    </div>
+</div>
+
+<div class="w3-row">
+    <div class="w3-col w3-container s1 m1">
+    </div>
+    <div class="w3-col w3-container s7 m8">
+            <label-3>eCommerce Listing</label-3>
+            <br><label-3>Image Quality + Purchase Intent</label-3>
+            <br><label-3>URBN Personalization</label-3>
+    </div>
+    <div class="w3-col w3-container s3 m2">
+            <label-3><a href="https://coianac.github.io/case-studies/2018-10-23-ecommerce-listing">read</a></label-3>
+            <br><label-3><a href="https://coianac.github.io/case-studies/2018-10-24-optimized-image-quality">read</a></label-3>
+           <br><label-3><a href="https://coianac.github.io/case-studies/2018-10-27-personalization">read</a></label-3>
+    </div>
+    <div class="w3-col w3-container s1 m1">
+    </div>
+</div>
+<br>
+<div class="w3-row">
+    <div class="w3-col w3-container s1 m1">
+    </div>
+    <div class="w3-col w3-container s10 m10">
+        <h5>Product Delivery</h5>
+    </div>
+    <div class="w3-col w3-container s1 m1">
+    </div>
+</div>
+
+
+<div class="w3-row">
+    <div class="w3-col w3-container s1 m1">
+    </div>
+    <div class="w3-col w3-container s7 m8">
+            <label-3>Shopitorials</label-3>
+            <br><label-3>Address + Payments Design System</label-3>
+    </div>
+    <div class="w3-col w3-container s3 m2">
+            <label-3><a href="https://coianac.github.io/case-studies/2018-10-26-shopitorials">read</a></label-3>
+           <br><label-3><a href="https://coianac.github.io/case-studies/2018-10-25-design-system">read</a></label-3>
+    </div>
+    <div class="w3-col w3-container s1 m1">
+    </div>
+</div>
+
+<br>
+<div class="w3-row">
+    <div class="w3-col w3-container s1 m1">
+    </div>
+    <div class="w3-col w3-container s7 m8">
+            <h3 style="margin-bottom:15px">About</h3>
+    </div>
+    <div style="margin-top:20px;" class="w3-col w3-container s3 m2">
+            <label-3><a href="https://coianac.github.io/about">view</a></label-3>
+    </div>
+    <div class="w3-col w3-container s1 m1">
+    </div>
+</div>
+
+<div class="w3-row">
+    <div class="w3-col w3-container m1">
+    </div>
+    <div class="w3-col w3-container m10">
+    <hr>    
+    </div>
+    <div class="w3-col w3-container m1">
+    </div>
+</div>
+
+<div class="w3-row">
+    <div class="w3-col w3-container s1 m1">
+    </div>
+    <div class="w3-col w3-container s10 m10">
+        <label-1>I built this site on <a href="http://jekyllrb.com">Jekyll</a> with the help of <a href="https://w3schools.com">W3</a>. The base template is <a href="https://dyutibarma.github.io/monochrome/">Monochrome</a> but has since been re-written.</label-1>
+    </div>
+    <div class="w3-col w3-container s1 m1">
+    </div>
+</div>

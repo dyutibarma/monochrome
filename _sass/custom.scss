@@ -1,3 +1,128 @@
 /*- Custom style -*/
 
 // -- Put custom style under this point -- //
+
+/* -- header -- */
+#taxo {
+  font-size: 14px;
+  letter-spacing: 0.65px;
+  line-height: 29px; /* 29px */
+  margin-top: 5px;
+  padding: 15px 5px 15px 5px;	
+  width: 200px;
+  cursor: pointer;
+	a {
+	  text-decoration: none;
+  	}
+  	a:hover{
+	  border-bottom: 1px solid;
+	  border-color: #E8E7D7;
+  	}
+	a:active{
+  	border-bottom: 1px solid;
+  	border-color: #E8E7D7;
+  	background-color: #F3F7F3;
+	}
+}
+
+/* -- colors -- */
+.light-green {
+	background-color: #f3f7f3;
+}
+
+/* -- Buttons -- */
+.button-light {
+	background-color: #ddd;
+	border: none;
+	color: #000;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px 10px;
+	cursor: pointer;
+}
+
+.button-light:hover {
+	background-color: #f1f1f1;
+}
+
+.button-dark {
+	background-color: #101010;
+	border: none;
+	color: #ffffff;
+	padding: 10px 20px;
+    	text-align: center;
+ 	text-decoration: none;
+    	display: inline-block;
+    	margin: 4px 2px 10px;
+   	cursor: pointer;
+}
+
+.button-dark:hover {
+    	background-color: #d3d3d3;
+    	color: inherit;
+}
+
+.button-dark-foot {
+	background-color: #101010;
+	border: none;
+	color: #ffffff;
+	padding: 10px 20px;
+    	text-align: center;
+ 	text-decoration: none;
+    	display: inline-block;
+    	margin: 4px 2px;
+   	cursor: pointer;
+}
+
+.button-dark-foot:hover {
+    	background-color: #d3d3d3;
+    	color: inherit;
+}
+
+
+/*- newspaper columns -*/
+.newspaperBAD {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+/*- Table Styling -*/
+table {
+    	border-collapse: collapse;
+    	width: 100%;
+	margin: 0 0 40px 0;
+}
+
+th {
+	text-align: left;
+    	background-color: #eff1ef;
+}
+
+td {
+	vertical-align: top;
+}
+
+table, td, th {
+	font-size: 14px;
+  border-bottom: 1px solid #e6eae6;
+  padding: 7px;    
+}
+
+tr:hover {background-color: #f3f7f3;
+}
+
+/* image styles */
+img[src~="thumbnail"] {
+  	width:300px;
+}
+img[src~="bordered"] {
+	border: 1px solid #d3d3d3; 
+}
+
+img[src~="radius"] {
+	border-radius:50%;
+	border: 1px solid #d3d3d3;
+}

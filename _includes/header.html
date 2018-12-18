@@ -1,26 +1,7 @@
-<header id="header" class="parent justify-spaceBetween">
-  <div class="inner w100 relative">
-    <span class="f-left">  
-      <a href="{{ site.baseurl }}/">
-        <h1>
-          <span>mono</span>chrome
-        </h1>
-      </a>
-    </span>
-    <span id="nav-links" class="absolute right bottom">
-      <!-- Nav pages -->
-	    {% for page in site.pages %}
-	      {% if page.layout == "page" %}
-	        <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.title }}">{{ page.title }}</a>
-	      {% endif %}
-	    {% endfor %}
-      
-      <!-- Nav links -->
-	    {% include link.html %}
-
-    </span>
-  </div>
-</header>
-
-
-
+<div class="w3-row w3-containers">
+<div class="navbar">
+  <a class="{% if page.nav == 'home' %}navactive" {% elsif page.nav != 'home' %} " " {% endif %} href="{{ site.baseurl }}">COIA</a>
+  <a class="{% if page.nav == 'case-studies' %}navactive" {% elsif page.nav != 'case-studies' %} " " {% endif %} href="{{ site.baseurl }}case-studies">case studies</a>
+  <a class="{% if page.nav == 'about' %}navactive" {% elsif page.nav != 'about' %} " " {% endif %} href="{{ site.baseurl }}about">about</a>
+</div>
+</div>

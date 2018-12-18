@@ -1,7 +1,3 @@
-/*
- * Monochrome is a simple, responsive blog theme built for Jekyll.
- */
-
 /*- Base reset -*/
 
 * {
@@ -10,10 +6,18 @@
           box-sizing: border-box;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-family : "poppins", sans-serif;
+}
+
 html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
   margin: 0;
   padding: 0;
   border: 0;
+}
+
+.img-round {
+	border-radius: 50%;
 }
 
 body {
@@ -22,8 +26,8 @@ body {
 
 /*- Base color -*/
 
-$background-color: #FFFFFF;
-$text-color: #333333;
+$background-color: #fff;
+$text-color: #262D24;
 $text-light-color: rgba(0,0,0,0.6);
 $text-dark-color: #000000;
 
@@ -32,7 +36,7 @@ $text-dark-color: #000000;
 html {
 	background-color: $background-color;
 	font-size: 16px;
-	@media (min-width: 940px) {
+	@media (min-width: 1280px) {
 		font-size: 18px;
 	}
 	line-height: 1.8;
@@ -40,19 +44,27 @@ html {
 }
 
 body {
- max-width: 1000px;
+ /*- max-width: 1000px; -*/
  margin: 0 auto;
- padding: 0 10px;
+ padding: 0 0;
+}
+
+.break-50 {
+	padding-bottom: 50px;
+}
+
+.break-30 {
+	margin-bottom: 20px;
 }
 
 /*- Link -*/
 a {
-	color: $text-color;
-	text-decoration: none;
-	font-weight: 700;
+	color: #0645AD;
+	text-decoration: underline;
+	font-weight: 400;
 	&:hover,
 	&:focus {
-		color: darken($text-color, 5%);
+		color: #0B0080;
 	}
 }
 
@@ -61,6 +73,19 @@ a {
 .f-right { float: right; }
 .f-left { float: left; }
 .clear { clear:both; }
+
+// center float trial
+.float_center {
+  float: right;
+
+  position: relative;
+  left: -50%; /* or right 50% */
+  text-align: left;
+}
+.float_center > .child {
+  position: relative;
+  left: 50%;
+}
 
 // to align div vertically and horizontally in center of another div
 .parent { display: flex;}

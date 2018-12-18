@@ -1,14 +1,14 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "http://www.dyutibarma.github.io/monochrome"
+title: Nicolas Coia | Business, Art, & Design
+description: "Let us unravel complexities and strategize a technical future."
+url: "http://www.coianac.github.io/"
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
-  url: "https://thereviewindex.com"
+  name: "Nicolas Coia"
+  email: "coia.nac@gmail.com"
+  url: "https://coianac.github.io"
 
 # Build settings
-baseurl: /monochrome # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -37,3 +37,13 @@ version: "1.0.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+# Collections
+collections:
+ article:
+    output: false
+ case-studies:
+   output: true
+   
+# Google Analytics
+google_analytics: UA-24187267-2

@@ -1,0 +1,95 @@
+/* responsive image gallery  */
+
+div.gallery {
+  border: 1px solid #E8E7D7;
+  border-radius: 0px;
+  }
+
+div.gallery:hover {
+  border: 1px solid #B9B8AC;
+  }
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+  }
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+	white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+  }
+
+* {
+    box-sizing: border-box;
+    }
+
+/* responsive 5 */
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 20%;
+  }
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 50%;
+    margin: 6px 0;
+    }
+  }
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 50%;
+    }
+  }
+
+/*responsive 4 */
+.responsive4 {
+  padding: 0 6px;
+  float: left;
+  width: 25%;
+  }
+
+@media only screen and (max-width: 700px) {
+  .responsive4 {
+    width: 50%;
+    margin: 6px 0;
+    }
+  }
+
+/*responsive 3 */
+.responsive3 {
+  padding: 0 6px;
+  float: left;
+  width: 33.33%;
+  }
+
+@media only screen and (max-width: 640px) {
+  .responsive3 {
+    max-width: 100%;
+    margin: 6px 0;
+    }
+  }
+
+/*responsive 2 */
+.responsive2 {
+  padding: 0 6px;
+  margin: 12px 0 0 0;
+  float: left;
+  width: 50%;
+  }
+
+@media only screen and (max-width: 500px) {
+  .responsive2 {
+    width: 100%;
+    }
+  }
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+  }

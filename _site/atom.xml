@@ -1,114 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Monochrome | A minimal, responsive Jekyll blog theme</title>
+ <title>Nicolas Coia | Business, Art, & Design</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-02-23T20:29:47+05:30</updated>
+ <updated>2018-12-17T00:28:18-05:00</updated>
  <author>
-   <name>The Review Index</name>
-   <uri>https://thereviewindex.com</uri>
-   <email>root@thereviewindex.com</email>
+   <name>Nicolas Coia</name>
+   <uri>https://coianac.github.io</uri>
+   <email>coia.nac@gmail.com</email>
  </author>
 
  
 
  <entry>
-   <title>TheReviewIndex | Unbiased User Review Summaries | Monochrome</title>
-   <link href="http://localhost:4000/thereviewindex-introduction"/>
-   <id>http://localhost:4000/thereviewindex-introduction</id>
-   <updated>2017-02-18T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;The internet is a source of a humongous amount of unstructured content for all sorts of products, in the form of blogs, videos, user and expert reviews, etc. It is almost impossible for anyone to scour all of this disparate data, with contradictory opinions, and thereafter make a correct, or...</content>
+   <title>Heuristic Evaluations; An overview and tool</title>
+   <link href="http://localhost:4000/Heuristic-Evaluations"/>
+   <id>http://localhost:4000/Heuristic-Evaluations</id>
+   <updated>2018-09-10T00:00:00-04:00</updated>
+   <content type="html">&lt;p&gt;Content will be built out on this page.&lt;/p&gt;
+</content>
  </entry>
 
  
 
  <entry>
-   <title>Typography Example | Monochrome</title>
-   <link href="http://localhost:4000/typography-example"/>
-   <id>http://localhost:4000/typography-example</id>
-   <updated>2017-02-14T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/monochrome/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
+   <title>Protopage</title>
+   <link href="http://localhost:4000/protopage"/>
+   <id>http://localhost:4000/protopage</id>
+   <updated>2018-08-01T00:00:00-04:00</updated>
+   <content type="html">&lt;p&gt;This is a space for testing new pieces of HTML, CSS, JS. &lt;!--more--&gt;&lt;/p&gt; &lt;div class=&quot;responsive&quot;&gt; &lt;div class=&quot;gallery&quot;&gt; &lt;a target=&quot;_blank&quot; href=&quot;http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$&quot;&gt; &lt;img src=&quot;http://images.urbanoutfitters.com/is/image/UrbanOutfitters/aptlounge?$medium$&quot; alt=&quot;Apt Lounge&quot; /&gt; &lt;/a&gt; &lt;div class=&quot;desc&quot;&gt;Apartment Lounge&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;responsive&quot;&gt; &lt;div class=&quot;gallery&quot;&gt; &lt;a target=&quot;_blank&quot; href=&quot;http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$&quot;&gt; &lt;img src=&quot;http://images.urbanoutfitters.com/is/image/UrbanOutfitters/karinax45?$medium$&quot; alt=&quot;Karina&quot; /&gt; &lt;/a&gt; &lt;div class=&quot;desc&quot;&gt;Karina&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;responsive&quot;&gt; &lt;div...</content>
  </entry>
 
  
 
  <entry>
-   <title>Code Example</title>
-   <link href="http://localhost:4000/code-example"/>
-   <id>http://localhost:4000/code-example</id>
-   <updated>2017-02-12T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
- </entry>
-
- 
-
- <entry>
-   <title>This is the eigth test post.</title>
-   <link href="http://localhost:4000/test-post-8"/>
-   <id>http://localhost:4000/test-post-8</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>This is the seventh test post.</title>
-   <link href="http://localhost:4000/test-post-7"/>
-   <id>http://localhost:4000/test-post-7</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>This is the sixth test post.</title>
-   <link href="http://localhost:4000/test-post-6"/>
-   <id>http://localhost:4000/test-post-6</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>This is the fifth test post</title>
-   <link href="http://localhost:4000/test-post-5"/>
-   <id>http://localhost:4000/test-post-5</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>This is the forth test post.</title>
-   <link href="http://localhost:4000/test-post-4"/>
-   <id>http://localhost:4000/test-post-4</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>This is the third test post.</title>
-   <link href="http://localhost:4000/test-post-3"/>
-   <id>http://localhost:4000/test-post-3</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>This is second test post.</title>
-   <link href="http://localhost:4000/test-post-2"/>
-   <id>http://localhost:4000/test-post-2</id>
-   <updated>2017-02-11T00:00:00+05:30</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+   <title>2002 Independent Study -- Maslows Hierarchy of Needs</title>
+   <link href="http://localhost:4000/Independent-Study"/>
+   <id>http://localhost:4000/Independent-Study</id>
+   <updated>2002-08-01T00:00:00-04:00</updated>
+   <content type="html">&lt;p&gt;I wrote the following article when I was 18 – I was empowered with the opportunity by my parents to go on a 14 day trip in the Sierra Nevada Mountain range through an Outward Bound program. Going on this trip, I decided to retain a daily journal; it it...</content>
  </entry>
 
  
